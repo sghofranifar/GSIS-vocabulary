@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#006B3D">
+<title>GSIS Grundwortschatz</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main class="app">
+
+<div id="app-loading" class="app-loading">
+<div class="spinner"></div>
+<p>Loading vocabulary…</p>
+</div>
+
+<div id="app-main" style="display:none">
+
+<!-- HEADER -->
+<header class="hdr">
+<div class="hdr-left" id="home-btn">
+<img class="hdr-logo" src="assets/logo-small.png" alt="GSIS">
+<span class="hdr-tag">Grundwortschatz</span>
+</div>
+<div class="hdr-right">
+<div class="lvl-pill" id="lvl-pill"></div>
+<div class="ltog" id="ltog">
+<button class="on" id="btn-en">EN</button>
+<button id="btn-de">DE</button>
+</div>
+<div class="navdd" id="navdd">
+<button class="navtr" id="navtr"><span id="nav-lbl">Select Year</span> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg></button>
+<div class="navm" id="navm"></div>
+</div>
+</div>
+</header>
+
+<!-- SCREEN: LANDING -->
+<section id="s-landing" class="screen active">
+<div class="land">
+<img class="land-logo" src="assets/logo-large.png" alt="GSIS Logo">
+<h1 class="land-t">Grundwortschatz</h1>
+<p class="land-d" id="land-d">The essential English vocabulary for GSIS German Stream students — practise your Green Line word lists with flashcards, matching, typing and listening exercises.</p>
+<button class="start-btn" id="start-btn">
+<span id="start-txt">Start Practising</span>
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="M12 5l7 7-7 7"/></svg>
+</button>
+</div>
+<div class="info-grid">
+<div class="info-card">
+<div class="info-ic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 014 4v14a3 3 0 00-3-3H2z"/><path d="M22 3h-6a4 4 0 00-4 4v14a3 3 0 013-3h7z"/></svg></div>
+<div class="info-t" id="it1">How to use</div>
+<div class="info-d" id="id1">Choose your year (K05–K09), pick a unit, then select a practice mode. Each session tests 10 words — the words you find hardest come up more often. Your progress is saved automatically on this device.</div>
+</div>
+<div class="info-card">
+<div class="info-ic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><line x1="3" y1="10" x2="21" y2="10"/></svg></div>
+<div class="info-t" id="it2">4 Practice Modes + Definitions</div>
+<div class="info-d" id="id2">Flashcards, matching pairs, typing with typo tolerance, and listening comprehension — with real spaced repetition. Toggle to EN mode for monolingual English definitions instead of German translations.</div>
+</div>
+<div class="info-card">
+<div class="info-ic"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+<div class="info-t" id="it3">Privacy First</div>
+<div class="info-d" id="id3">No login, no tracking, no cookies. All data stays on your device. Works completely offline after loading once.</div>
+</div>
+</div>
+<div class="about">
+<h3><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg> <span id="abt">About this vocabulary</span></h3>
+<p id="abp">The Grundwortschatz is the defined basic English vocabulary for the GSIS German Secondary Stream (Klasse 5–9). It is based on the Green Line textbook series (Klett Verlag, 2021–2023 editions) and covers approximately 4,100 words and phrases across five year groups. Students are expected to actively learn and retain this core vocabulary throughout their secondary school years.</p>
+</div>
+</section>
+
+<!-- SCREEN: PASSWORD -->
+<section id="s-pw" class="screen">
+<div class="pw-wrap">
+<h2 id="pw-t">Enter Access Code</h2>
+<p id="pw-d">Please enter the password to access the vocabulary trainer.</p>
+<div class="pw-row">
+<input class="pw-in" id="pw-in" type="password" placeholder="Password" autocomplete="off">
+<button class="pw-sub" id="pw-sub">→</button>
+</div>
+</div>
+</section>
+
+<!-- SCREEN: YEAR -->
+<section id="s-year" class="screen">
+<button class="back" id="b-yr">← <span id="btxt-yr">Back</span></button>
+<p class="ey" id="ey1">Step 1 of 3</p>
+<h2 class="st" id="yrt">Choose your year</h2>
+<p class="sd" id="yrd">Select the year group matching your Green Line textbook.</p>
+<div class="ygrid" id="ygrid"></div>
+</section>
+
+<!-- SCREEN: UNIT -->
+<section id="s-unit" class="screen">
+<button class="back" id="b-un">← <span id="btxt-un">Back</span></button>
+<p class="ey"><span id="ey2">Step 2 of 3</span> · <span id="yr-ey"></span></p>
+<h2 class="st" id="unt">Choose a unit</h2>
+<p class="sd" id="und">Pick the unit you are currently working on in class.</p>
+<div class="ugrid" id="ugrid"></div>
+</section>
+
+<!-- SCREEN: MODE -->
+<section id="s-mode" class="screen">
+<button class="back" id="b-mo">← <span id="btxt-mo">Back</span></button>
+<p class="bc" id="mbc"></p>
+<h2 class="st" id="mot">How would you like to practise?</h2>
+<p class="sd" id="mod">Choose a practice mode or view the complete word list.</p>
+<div class="mlist" id="mlist"></div>
+</section>
+
+<!-- SCREEN: LEARN -->
+<section id="s-learn" class="screen">
+<button class="back" id="b-le">← <span id="btxt-le">Back</span></button>
+<div class="lwrap">
+<div class="lprog" id="pips"></div>
+<div class="lcnt" id="cnt"></div>
+<div id="area"></div>
+</div>
+</section>
+
+<!-- SCREEN: LIST -->
+<section id="s-list" class="screen">
+<button class="back" id="b-li">← <span id="btxt-li">Back</span></button>
+<p class="bc" id="lbc"></p>
+<h2 class="st" id="lit">Complete Word List</h2>
+<input class="lsrch" id="lq" placeholder="Search..." autocomplete="off">
+<div id="larea" style="overflow-x:auto"></div>
+</section>
+
+<!-- SCREEN: RESULT -->
+<section id="s-result" class="screen">
+<div class="res" id="rarea"></div>
+</section>
+
+<!-- SCREEN: BADGES -->
+<section id="s-badges" class="screen">
+<button class="back" id="b-bd">← <span id="btxt-bd">Back</span></button>
+<div class="lvl-hero" id="lvl-hero"></div>
+<h2 class="st" id="bdt">Your Progress</h2>
+<p class="sd" id="bdd">Collect badges as you practise. Everything is stored only on this device.</p>
+<div class="bgrid" id="bgrid"></div>
+</section>
+
+<footer class="ftr">
+<span>Created by GSD English Department</span>
+<a href="#" id="reset-lnk">Reset progress</a>
+</footer>
+
+</div>
+</main>
+
+<script src="js/data.js"></script>
+<script src="js/srs.js"></script>
+<script src="js/badges.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

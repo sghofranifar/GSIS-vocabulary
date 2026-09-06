@@ -1,0 +1,9488 @@
+[
+ {
+  "id": "jg7-ac1-to-form-2880bf",
+  "unit": "AC1",
+  "sub": "",
+  "en": "to form",
+  "de": [
+   "formen",
+   "bilden"
+  ],
+  "def": "to form; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-state-4b6534",
+  "unit": "AC1",
+  "sub": "",
+  "en": "state",
+  "de": [
+   "Staat",
+   "Bundesstaat",
+   "Land"
+  ],
+  "def": "a country or part of a country; a condition",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-to-combine-d030d0",
+  "unit": "AC1",
+  "sub": "",
+  "en": "to combine",
+  "de": [
+   "kombinieren",
+   "verbinden"
+  ],
+  "def": "to combine; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-tiny-ad16e4",
+  "unit": "AC1",
+  "sub": "",
+  "en": "tiny",
+  "de": [
+   "klein",
+   "winzig"
+  ],
+  "def": "extremely small",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-crown-a2b6be",
+  "unit": "AC1",
+  "sub": "",
+  "en": "crown",
+  "de": [
+   "Krone"
+  ],
+  "def": "a circular decoration worn on the head of a ruler",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-dependency-27f453",
+  "unit": "AC1",
+  "sub": "",
+  "en": "dependency",
+  "de": [
+   "Territorium"
+  ],
+  "def": "a territory controlled by another country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-monarch-4bc4f1",
+  "unit": "AC1",
+  "sub": "",
+  "en": "monarch",
+  "de": [
+   "Monarch/-in"
+  ],
+  "def": "a king or queen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-within-b545e7",
+  "unit": "AC1",
+  "sub": "",
+  "en": "within",
+  "de": [
+   "innerhalb"
+  ],
+  "def": "inside; not beyond",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-passport-3de4c7",
+  "unit": "AC1",
+  "sub": "",
+  "en": "passport",
+  "de": [
+   "Pass",
+   "Reisepass"
+  ],
+  "def": "a document proving your identity for travel",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-lion-73243d",
+  "unit": "AC1",
+  "sub": "",
+  "en": "lion",
+  "de": [
+   "Löwe"
+  ],
+  "def": "a large wild cat found in Africa",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-jersey-84e5c2",
+  "unit": "AC1",
+  "sub": "",
+  "en": "jersey",
+  "de": [
+   "Trikot",
+   "Pullover"
+  ],
+  "def": "a knitted top; a sports shirt",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-guess-1ba9e8",
+  "unit": "AC1",
+  "sub": "",
+  "en": "guess",
+  "de": [
+   "Annahme",
+   "Vermutung"
+  ],
+  "def": "to give an answer without being sure",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-surprising-50dc47",
+  "unit": "AC1",
+  "sub": "",
+  "en": "surprising",
+  "de": [
+   "überraschend"
+  ],
+  "def": "something you did not expect",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-taste-ccaec9",
+  "unit": "AC1",
+  "sub": "",
+  "en": "taste",
+  "de": [
+   "Geschmack"
+  ],
+  "def": "to test the flavour of food or drink",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-stew-bcce82",
+  "unit": "AC1",
+  "sub": "",
+  "en": "stew",
+  "de": [
+   "Eintopf"
+  ],
+  "def": "a dish of meat and vegetables cooked slowly in liquid",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-welsh-09a491",
+  "unit": "AC1",
+  "sub": "",
+  "en": "Welsh",
+  "de": [
+   "walisisch",
+   "Walisisch",
+   "Waliser/-in"
+  ],
+  "def": "from or relating to Wales",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-pudding-9feb5e",
+  "unit": "AC1",
+  "sub": "",
+  "en": "pudding",
+  "de": [
+   "Pudding, Nachtisch"
+  ],
+  "def": "a sweet dessert; a type of cooked food",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-cornish-7fe7e0",
+  "unit": "AC1",
+  "sub": "",
+  "en": "Cornish",
+  "de": [
+   "kornisch",
+   "aus/in Cornwall"
+  ],
+  "def": "relating to Cornwall in southwest England",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-pasty-9afacc",
+  "unit": "AC1",
+  "sub": "",
+  "en": "pasty",
+  "de": [
+   "Pastete"
+  ],
+  "def": "a folded pastry filled with meat and vegetables",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-scone-bbd56d",
+  "unit": "AC1",
+  "sub": "",
+  "en": "scone",
+  "de": [
+   "Scone (eine Art süßes Brötchen)"
+  ],
+  "def": "a small round cake, often eaten with cream and jam",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-jam-1ab9cf",
+  "unit": "AC1",
+  "sub": "",
+  "en": "jam",
+  "de": [
+   "Marmelade, Konfitüre"
+  ],
+  "def": "a sweet spread made from fruit and sugar",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-clotted-cream-2ae47a",
+  "unit": "AC1",
+  "sub": "",
+  "en": "clotted cream",
+  "de": [
+   "stichfester Rahm"
+  ],
+  "def": "a thick white liquid from milk",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-welsh-rarebit-3b0bdd",
+  "unit": "AC1",
+  "sub": "",
+  "en": "Welsh rarebit",
+  "de": [
+   "überbackenes Käsebrot"
+  ],
+  "def": "from or relating to Wales",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-speciality-4fc217",
+  "unit": "AC1",
+  "sub": "",
+  "en": "speciality",
+  "de": [
+   "Spezialität, Besonderheit"
+  ],
+  "def": "something a place is known for",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-calorie-0f33d4",
+  "unit": "AC1",
+  "sub": "",
+  "en": "calorie",
+  "de": [
+   "Kalorie"
+  ],
+  "def": "a unit measuring energy in food",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-per-0a0c01",
+  "unit": "AC1",
+  "sub": "",
+  "en": "per",
+  "de": [
+   "pro"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-serving-184c94",
+  "unit": "AC1",
+  "sub": "",
+  "en": "serving",
+  "de": [
+   "Portion"
+  ],
+  "def": "to give food or help to someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-to-argue-284d1c",
+  "unit": "AC1",
+  "sub": "",
+  "en": "to argue",
+  "de": [
+   "argumentieren",
+   "streiten"
+  ],
+  "def": "to disagree with someone using words",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-butter-7ca280",
+  "unit": "AC1",
+  "sub": "",
+  "en": "butter",
+  "de": [
+   "Butter"
+  ],
+  "def": "a yellow spread made from cream",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-baking-powder-64d721",
+  "unit": "AC1",
+  "sub": "",
+  "en": "baking powder",
+  "de": [
+   "Backpulver"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-pepper-eef915",
+  "unit": "AC1",
+  "sub": "",
+  "en": "pepper",
+  "de": [
+   "Pfeffer",
+   "Paprikaschote"
+  ],
+  "def": "a spice used to add heat to food",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-carrot-8f917a",
+  "unit": "AC1",
+  "sub": "",
+  "en": "carrot",
+  "de": [
+   "Karotte: Möhre"
+  ],
+  "def": "a long orange vegetable that grows underground",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-onion-15ff9f",
+  "unit": "AC1",
+  "sub": "",
+  "en": "onion",
+  "de": [
+   "Zwiebel"
+  ],
+  "def": "a round vegetable with layers and a strong smell",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-potato-potatoes-9d6d06",
+  "unit": "AC1",
+  "sub": "",
+  "en": "potato, potatoes",
+  "de": [
+   "Kartoffel"
+  ],
+  "def": "a round starchy vegetable that grows underground",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-beef-189d1a",
+  "unit": "AC1",
+  "sub": "",
+  "en": "beef",
+  "de": [
+   "Rindfleisch"
+  ],
+  "def": "meat from a cow",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-currant-c868a8",
+  "unit": "AC1",
+  "sub": "",
+  "en": "currant",
+  "de": [
+   "Korinthe",
+   "Rosine"
+  ],
+  "def": "a small dried fruit",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-raisin-aa6922",
+  "unit": "AC1",
+  "sub": "",
+  "en": "raisin",
+  "de": [
+   "Rosine"
+  ],
+  "def": "a dried grape",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac1-savoury-aba018",
+  "unit": "AC1",
+  "sub": "",
+  "en": "savoury",
+  "de": [
+   "pikant",
+   "salzig"
+  ],
+  "def": "having a salty taste rather than sweet",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-attend-fe11f0",
+  "unit": "U1",
+  "sub": "",
+  "en": "to attend",
+  "de": [
+   "teilnehmen",
+   "besuchen"
+  ],
+  "def": "to go to an event or place",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-academy-c80e56",
+  "unit": "U1",
+  "sub": "",
+  "en": "academy",
+  "de": [
+   "Akademie"
+  ],
+  "def": "a school or training institution",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-have-in-common-06fd2c",
+  "unit": "U1",
+  "sub": "",
+  "en": "to have in common",
+  "de": [
+   "gemeinsam haben"
+  ],
+  "def": "happening often or shared by many",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-community-b40480",
+  "unit": "U1",
+  "sub": "",
+  "en": "community",
+  "de": [
+   "Gemeinde",
+   "Gemeinschaft"
+  ],
+  "def": "a group of people living in the same area",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-bother-1a943f",
+  "unit": "U1",
+  "sub": "",
+  "en": "to bother",
+  "de": [
+   "stören",
+   "belästigen"
+  ],
+  "def": "to bother; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-change-3e4650",
+  "unit": "U1",
+  "sub": "",
+  "en": "to change",
+  "de": [
+   "(sich) verändern"
+  ],
+  "def": "to become different or make something different",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-lifestyle-61300f",
+  "unit": "U1",
+  "sub": "",
+  "en": "lifestyle",
+  "de": [
+   "Lebensstil",
+   "Lifestyle"
+  ],
+  "def": "the way a person lives their daily life",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-british-indian-2fdff5",
+  "unit": "U1",
+  "sub": "",
+  "en": "British-Indian",
+  "de": [
+   "britisch-indisch"
+  ],
+  "def": "having both British and Indian heritage",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-comfortable-5ca62d",
+  "unit": "U1",
+  "sub": "",
+  "en": "comfortable",
+  "de": [
+   "komfortabel",
+   "bequem"
+  ],
+  "def": "able to be or capable of",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-rough-029f4f",
+  "unit": "U1",
+  "sub": "",
+  "en": "rough",
+  "de": [
+   "rau"
+  ],
+  "def": "not smooth; having an uneven surface",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-council-estate-4490c8",
+  "unit": "U1",
+  "sub": "",
+  "en": "council estate",
+  "de": [
+   "Siedlung mit Sozialwohnungen"
+  ],
+  "def": "a group of houses built by the local government",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-crime-eda564",
+  "unit": "U1",
+  "sub": "",
+  "en": "crime",
+  "de": [
+   "Verbrechen",
+   "Kriminalität"
+  ],
+  "def": "an action that breaks the law",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-gang-d2dec5",
+  "unit": "U1",
+  "sub": "",
+  "en": "gang",
+  "de": [
+   "Gang",
+   "Gruppe",
+   "Bande"
+  ],
+  "def": "a group of people, sometimes causing trouble",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-scholarship-a9833a",
+  "unit": "U1",
+  "sub": "",
+  "en": "scholarship",
+  "de": [
+   "Stipendium"
+  ],
+  "def": "money given to a student to help pay for education",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-like-minded-e621c7",
+  "unit": "U1",
+  "sub": "",
+  "en": "like-minded",
+  "de": [
+   "gleich gesinnt"
+  ],
+  "def": "sharing the same ideas and opinions",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-open-minded-60569c",
+  "unit": "U1",
+  "sub": "",
+  "en": "open-minded",
+  "de": [
+   "offen",
+   "aufgeschlossen"
+  ],
+  "def": "willing to consider new ideas",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-opportunity-e3254e",
+  "unit": "U1",
+  "sub": "",
+  "en": "opportunity",
+  "de": [
+   "Chance",
+   "Gelegenheit",
+   "Möglichkeit"
+  ],
+  "def": "a chance to do something good",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-be-jealous-of-e47294",
+  "unit": "U1",
+  "sub": "",
+  "en": "to be jealous (of)",
+  "de": [
+   "eifersüchtig sein (auf)",
+   "neidisch sein (auf)"
+  ],
+  "def": "wanting what someone else has",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-be-uninterested-in-909678",
+  "unit": "U1",
+  "sub": "",
+  "en": "to be uninterested in",
+  "de": [
+   "nicht interessiert sein an",
+   "kein Interesse haben an"
+  ],
+  "def": "to be; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-extreme-f2c39b",
+  "unit": "U1",
+  "sub": "",
+  "en": "extreme",
+  "de": [
+   "extrem",
+   "radikal"
+  ],
+  "def": "very great in degree; far from normal",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-wealth-0ba0a9",
+  "unit": "U1",
+  "sub": "",
+  "en": "wealth",
+  "de": [
+   "Reichtum",
+   "Vermögen"
+  ],
+  "def": "having a lot of money or possessions",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-comfort-zone-32733e",
+  "unit": "U1",
+  "sub": "",
+  "en": "comfort zone",
+  "de": [
+   "Komfortzone"
+  ],
+  "def": "a situation where you feel safe and easy",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-be-able-to-do-sth-413b20",
+  "unit": "U1",
+  "sub": "",
+  "en": "to be able to (do sth)",
+  "de": [
+   "fähig sein zu",
+   "können",
+   "dürfen"
+  ],
+  "def": "a common English phrase or expression",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u1-to-be-allowed-to-do-sth-125a99",
+  "unit": "U1",
+  "sub": "",
+  "en": "to be allowed to (do sth)",
+  "de": [
+   "dürfen"
+  ],
+  "def": "a common English phrase or expression",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u1-i-can-t-help-the-fact-that-713900",
+  "unit": "U1",
+  "sub": "",
+  "en": "I can't help the fact that ...",
+  "de": [
+   "Ich kann nichts dafür, dass...."
+  ],
+  "def": "short for cannot; unable to do something",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u1-rural-88e329",
+  "unit": "U1",
+  "sub": "",
+  "en": "rural",
+  "de": [
+   "ländlich"
+  ],
+  "def": "relating to the countryside",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-catholic-d66fa3",
+  "unit": "U1",
+  "sub": "",
+  "en": "Catholic",
+  "de": [
+   "Katholik/-in",
+   "katholisch"
+  ],
+  "def": "relating to the Roman Catholic Church",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-peace-5cefb4",
+  "unit": "U1",
+  "sub": "",
+  "en": "peace",
+  "de": [
+   "Frieden"
+  ],
+  "def": "a time without war or fighting",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-separate-b49aee",
+  "unit": "U1",
+  "sub": "",
+  "en": "to separate",
+  "de": [
+   "(sich) trennen"
+  ],
+  "def": "to divide or move apart from each other",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-protestant-539eba",
+  "unit": "U1",
+  "sub": "",
+  "en": "Protestant",
+  "de": [
+   "Protestant/-in",
+   "protestantisch"
+  ],
+  "def": "relating to a branch of Christian churches",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-mostly-31bba9",
+  "unit": "U1",
+  "sub": "",
+  "en": "mostly",
+  "de": [
+   "überwiegend"
+  ],
+  "def": "the greatest amount or number",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-shall-f0c4eb",
+  "unit": "U1",
+  "sub": "",
+  "en": "shall",
+  "de": [
+   "sollen"
+  ],
+  "def": "used to make suggestions or ask what to do",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-mind-607417",
+  "unit": "U1",
+  "sub": "",
+  "en": "mind",
+  "de": [
+   "Geist",
+   "Verstand",
+   "Kopf"
+  ],
+  "def": "to be bothered or upset by something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-needn-t-13f769",
+  "unit": "U1",
+  "sub": "",
+  "en": "needn't",
+  "de": [
+   "nicht brauchen",
+   "nicht müssen"
+  ],
+  "def": "do not need to; it is not necessary",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-session-bb245a",
+  "unit": "U1",
+  "sub": "",
+  "en": "session",
+  "de": [
+   "Sitzung",
+   "Stunde"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-mustn-t-9a2aad",
+  "unit": "U1",
+  "sub": "",
+  "en": "mustn't",
+  "de": [
+   "nicht dürfen"
+  ],
+  "def": "must not; it is not allowed",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-switch-off-bda7a9",
+  "unit": "U1",
+  "sub": "",
+  "en": "to switch off",
+  "de": [
+   "ausschalten"
+  ],
+  "def": "to switch; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-hope-f52de4",
+  "unit": "U1",
+  "sub": "",
+  "en": "hope",
+  "de": [
+   "Hoffnung"
+  ],
+  "def": "to wish for something good to happen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-autism-d34bcb",
+  "unit": "U1",
+  "sub": "",
+  "en": "autism",
+  "de": [
+   "Autismus"
+  ],
+  "def": "a condition affecting communication and behaviour",
+  "tags": [
+   "no pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-hang-out-with-hung-out-with-hung-out--09c2b8",
+  "unit": "U1",
+  "sub": "",
+  "en": "to hang out (with), hung out (with), hung out (with)",
+  "de": [
+   "sich herumtreiben (mit)",
+   "rumhängen (mit)",
+   "sich treffen (mit)"
+  ],
+  "def": "to attach something at the top so it is free",
+  "tags": [
+   "infml"
+  ],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u1-lonely-fb16a4",
+  "unit": "U1",
+  "sub": "",
+  "en": "lonely",
+  "de": [
+   "einsam"
+  ],
+  "def": "feeling sad because you are alone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-carer-ab5d8f",
+  "unit": "U1",
+  "sub": "",
+  "en": "carer",
+  "de": [
+   "Betreuer/-in"
+  ],
+  "def": "a vehicle with four wheels and an engine",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-meet-up-3dfbf7",
+  "unit": "U1",
+  "sub": "",
+  "en": "to meet up",
+  "de": [
+   "sich treffen"
+  ],
+  "def": "to come together with someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-with-special-needs-7eb604",
+  "unit": "U1",
+  "sub": "",
+  "en": "with special needs",
+  "de": [
+   "mit Behinderung",
+   "mit besonderen Bedürfnissen"
+  ],
+  "def": "different from what is usual; better",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-recently-28693c",
+  "unit": "U1",
+  "sub": "",
+  "en": "recently",
+  "de": [
+   "kürzlich",
+   "neulich"
+  ],
+  "def": "not long ago",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-bright-805c4f",
+  "unit": "U1",
+  "sub": "",
+  "en": "bright",
+  "de": [
+   "hell",
+   "leuchtend",
+   "strahlend"
+  ],
+  "def": "giving out or filled with light",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-darkness-fed094",
+  "unit": "U1",
+  "sub": "",
+  "en": "darkness",
+  "de": [
+   "Dunkelheit"
+  ],
+  "def": "with little or no light",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-autistic-eb6eec",
+  "unit": "U1",
+  "sub": "",
+  "en": "autistic",
+  "de": [
+   "autistisch"
+  ],
+  "def": "having autism",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-whose-11bbf8",
+  "unit": "U1",
+  "sub": "",
+  "en": "whose",
+  "de": [
+   "wessen",
+   "dessen",
+   "deren (Relativpronomen)"
+  ],
+  "def": "asking about who something belongs to",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-active-0cb2c2",
+  "unit": "U1",
+  "sub": "",
+  "en": "active",
+  "de": [
+   "aktiv"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-council-flat-8f49e1",
+  "unit": "U1",
+  "sub": "",
+  "en": "council flat",
+  "de": [
+   "Sozialwohnung"
+  ],
+  "def": "having a smooth level surface without hills",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-tower-block-6ea754",
+  "unit": "U1",
+  "sub": "",
+  "en": "tower block",
+  "de": [
+   "Hochhaus"
+  ],
+  "def": "a tall narrow building or part of a building",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-quite-d2c6f3",
+  "unit": "U1",
+  "sub": "",
+  "en": "quite",
+  "de": [
+   "ziemlich",
+   "ganz",
+   "völlig"
+  ],
+  "def": "to a fair degree; fairly",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-successful-7f589f",
+  "unit": "U1",
+  "sub": "",
+  "en": "successful",
+  "de": [
+   "erfolgreich"
+  ],
+  "def": "having achieved what you wanted",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-since-zeitpunkt-35efbd",
+  "unit": "U1",
+  "sub": "",
+  "en": "since (+ Zeitpunkt)",
+  "de": [
+   "seit",
+   "seitdem"
+  ],
+  "def": "from a time in the past until now; because",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-experience-1d2258",
+  "unit": "U1",
+  "sub": "",
+  "en": "to experience",
+  "de": [
+   "erfahren",
+   "erleben"
+  ],
+  "def": "something that happens to you",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-a-bit-2e0dfd",
+  "unit": "U1",
+  "sub": "",
+  "en": "a bit",
+  "de": [
+   "ein bisschen",
+   "ein wenig"
+  ],
+  "def": "a small amount; slightly",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-urban-c30261",
+  "unit": "U1",
+  "sub": "",
+  "en": "urban",
+  "de": [
+   "städtisch",
+   "Stadt-"
+  ],
+  "def": "relating to a city",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-gardening-371f6e",
+  "unit": "U1",
+  "sub": "",
+  "en": "gardening",
+  "de": [
+   "Gärtnern",
+   "Gartenarbeit"
+  ],
+  "def": "an area of land next to a house with plants",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-change-86d4a3",
+  "unit": "U1",
+  "sub": "",
+  "en": "change",
+  "de": [
+   "Änderung",
+   "Veränderung",
+   "Wechsel"
+  ],
+  "def": "to become different or make something different",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-improvement-eb27e5",
+  "unit": "U1",
+  "sub": "",
+  "en": "improvement",
+  "de": [
+   "Verbesserung"
+  ],
+  "def": "to make something better",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-unpopular-a21075",
+  "unit": "U1",
+  "sub": "",
+  "en": "unpopular",
+  "de": [
+   "unpopulär",
+   "unbeliebt"
+  ],
+  "def": "not liked by many people",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-contrast-70f419",
+  "unit": "U1",
+  "sub": "",
+  "en": "to contrast",
+  "de": [
+   "kontrastieren",
+   "gegenüberstellen"
+  ],
+  "def": "a clear difference between two things",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-afford-5983a3",
+  "unit": "U1",
+  "sub": "",
+  "en": "to afford",
+  "de": [
+   "sich leisten"
+  ],
+  "def": "to have enough money to pay for something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-achieve-bff236",
+  "unit": "U1",
+  "sub": "",
+  "en": "to achieve",
+  "de": [
+   "erreichen",
+   "erlangen"
+  ],
+  "def": "to succeed in doing something you worked for",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-be-prejudiced-against-sb-sth-30220b",
+  "unit": "U1",
+  "sub": "",
+  "en": "to be prejudiced (against sb/sth)",
+  "de": [
+   "voreingenommen sein (gegenüber jmdm./etw.)"
+  ],
+  "def": "a common English phrase or expression",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u1-upper-class-d1d8b2",
+  "unit": "U1",
+  "sub": "",
+  "en": "upper class",
+  "de": [
+   "Oberschicht"
+  ],
+  "def": "a group of students; a lesson period",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-working-class-3a8e1e",
+  "unit": "U1",
+  "sub": "",
+  "en": "working class",
+  "de": [
+   "Arbeiterklasse"
+  ],
+  "def": "a group of students; a lesson period",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-saying-0f1833",
+  "unit": "U1",
+  "sub": "",
+  "en": "saying",
+  "de": [
+   "Redensart",
+   "Sprichwort"
+  ],
+  "def": "to speak words or express something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-society-e1a7f9",
+  "unit": "U1",
+  "sub": "",
+  "en": "society",
+  "de": [
+   "Gesellschaft"
+  ],
+  "def": "all the people living together in a group",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-that-1af9c8",
+  "unit": "U1",
+  "sub": "",
+  "en": "that",
+  "de": [
+   "der",
+   "dem",
+   "den",
+   "die",
+   "das (Relativpronomen)"
+  ],
+  "def": "used to point to something further away",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-anyone-else-d458e6",
+  "unit": "U1",
+  "sub": "",
+  "en": "anyone else",
+  "de": [
+   "jemand anderes"
+  ],
+  "def": "any other person",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-far-too-c9aba0",
+  "unit": "U1",
+  "sub": "",
+  "en": "far too",
+  "de": [
+   "viel zu"
+  ],
+  "def": "also; more than is needed",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-who-edd236",
+  "unit": "U1",
+  "sub": "",
+  "en": "who",
+  "de": [
+   "der",
+   "dem",
+   "den",
+   "die (Relativpronomen)"
+  ],
+  "def": "asking about which person",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-get-outside-2566c3",
+  "unit": "U1",
+  "sub": "",
+  "en": "to get outside",
+  "de": [
+   "an die frische Luft gehen"
+  ],
+  "def": "not inside; in the open air",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-supermarket-97a72b",
+  "unit": "U1",
+  "sub": "",
+  "en": "supermarket",
+  "de": [
+   "Supermarkt"
+  ],
+  "def": "a large shop selling food and household goods",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-which-aa390c",
+  "unit": "U1",
+  "sub": "",
+  "en": "which",
+  "de": [
+   "der",
+   "die",
+   "das",
+   "dem",
+   "den (Relativpronomen)"
+  ],
+  "def": "asking about a specific one from a group",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-get-on-76fd35",
+  "unit": "U1",
+  "sub": "",
+  "en": "to get on",
+  "de": [
+   "miteinander auskommen"
+  ],
+  "def": "resting on a surface; about",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-get-bored-ed4254",
+  "unit": "U1",
+  "sub": "",
+  "en": "to get bored",
+  "de": [
+   "sich langweilen"
+  ],
+  "def": "not interested because nothing is happening",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-former-00b8c1",
+  "unit": "U1",
+  "sub": "",
+  "en": "former",
+  "de": [
+   "ehemalige/-r",
+   "frühere/-r"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-own-c95a79",
+  "unit": "U1",
+  "sub": "",
+  "en": "to own",
+  "de": [
+   "besitzen"
+  ],
+  "def": "to have something that belongs to you",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-look-forward-to-05f766",
+  "unit": "U1",
+  "sub": "",
+  "en": "to look forward to",
+  "de": [
+   "sich freuen auf"
+  ],
+  "def": "to feel excited about something in the future",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-participant-bab88a",
+  "unit": "U1",
+  "sub": "",
+  "en": "participant",
+  "de": [
+   "Teilnehmer/-in"
+  ],
+  "def": "a person who takes part in something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-baker-9f45e8",
+  "unit": "U1",
+  "sub": "",
+  "en": "baker",
+  "de": [
+   "Bäcker/-in"
+  ],
+  "def": "to cook food in an oven",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-singer-89a58f",
+  "unit": "U1",
+  "sub": "",
+  "en": "singer",
+  "de": [
+   "Sänger/-in"
+  ],
+  "def": "to make music with your voice",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-advertise-d3abff",
+  "unit": "U1",
+  "sub": "",
+  "en": "to advertise",
+  "de": [
+   "Werbung machen",
+   "werben",
+   "anpreisen",
+   "inserieren"
+  ],
+  "def": "to tell people about a product to sell it",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-plogging-f5bae6",
+  "unit": "U1",
+  "sub": "",
+  "en": "plogging",
+  "de": [
+   "Plogging (Kombination aus Joggen und Mülleinsammeln als Sportart)"
+  ],
+  "def": "jogging while picking up litter",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-get-me-out-of-here-cb1047",
+  "unit": "U1",
+  "sub": "",
+  "en": "Get me out of here!",
+  "de": [
+   "Hol/Holt mich hier raus!"
+  ],
+  "def": "in or at this place",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u1-excitement-f800bd",
+  "unit": "U1",
+  "sub": "",
+  "en": "excitement",
+  "de": [
+   "Aufregung"
+  ],
+  "def": "the result or state of an action",
+  "tags": [
+   "no pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-council-tower-61f12f",
+  "unit": "U1",
+  "sub": "",
+  "en": "council tower",
+  "de": [
+   "Hochhaus mit Sozialwohnungen"
+  ],
+  "def": "a tall narrow building or part of a building",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-floor-dd63c3",
+  "unit": "U1",
+  "sub": "",
+  "en": "floor",
+  "de": [
+   "Stockwerk"
+  ],
+  "def": "the surface you walk on; a level of a building",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-dare-618e53",
+  "unit": "U1",
+  "sub": "",
+  "en": "to dare",
+  "de": [
+   "sich trauen",
+   "wagen"
+  ],
+  "def": "to dare; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-nightmare-cc4f3c",
+  "unit": "U1",
+  "sub": "",
+  "en": "nightmare",
+  "de": [
+   "Alptraum"
+  ],
+  "def": "a frightening dream; a very bad experience",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-discussion-ffa2e2",
+  "unit": "U1",
+  "sub": "",
+  "en": "discussion",
+  "de": [
+   "Diskussion"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-actually-7f433d",
+  "unit": "U1",
+  "sub": "",
+  "en": "actually",
+  "de": [
+   "tatsächlich",
+   "wirklich",
+   "eigentlich"
+  ],
+  "def": "in fact; really",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-catch-caught-caught-a46222",
+  "unit": "U1",
+  "sub": "",
+  "en": "to catch, caught, caught",
+  "de": [
+   "nehmen (Zug, Bus)"
+  ],
+  "def": "to grab and hold something moving",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-distance-e7b981",
+  "unit": "U1",
+  "sub": "",
+  "en": "distance",
+  "de": [
+   "Distanz",
+   "Entfernung"
+  ],
+  "def": "how far apart two things are",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-posh-574ac7",
+  "unit": "U1",
+  "sub": "",
+  "en": "posh",
+  "de": [
+   "vornehm"
+  ],
+  "def": "elegant and expensive",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-obviously-641296",
+  "unit": "U1",
+  "sub": "",
+  "en": "obviously",
+  "de": [
+   "offensichtlich",
+   "klar"
+  ],
+  "def": "in a way that is easy to see",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-push-dd6f54",
+  "unit": "U1",
+  "sub": "",
+  "en": "to push",
+  "de": [
+   "stoßen",
+   "schieben",
+   "schubsen"
+  ],
+  "def": "to use force to move something away",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-pass-b35729",
+  "unit": "U1",
+  "sub": "",
+  "en": "to pass",
+  "de": [
+   "durchgehen",
+   "vorbeigehen (an)",
+   "passieren"
+  ],
+  "def": "to go by or hand something to someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-stand-up-for-sb-sth-7599e0",
+  "unit": "U1",
+  "sub": "",
+  "en": "to stand up for sb/sth",
+  "de": [
+   "jmdn./etw. verteidigen",
+   "für jmdn./etw. einstehen"
+  ],
+  "def": "to be on your feet in an upright position",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u1-everyday-d32633",
+  "unit": "U1",
+  "sub": "",
+  "en": "everyday",
+  "de": [
+   "alltäglich"
+  ],
+  "def": "normal; not special",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-cheer-sb-up-c50270",
+  "unit": "U1",
+  "sub": "",
+  "en": "to cheer sb up",
+  "de": [
+   "jmdn. aufheitern"
+  ],
+  "def": "to cheer; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-enjoy-oneself-573a27",
+  "unit": "U1",
+  "sub": "",
+  "en": "to enjoy oneself",
+  "de": [
+   "Spaß haben",
+   "sich amüsieren"
+  ],
+  "def": "to get pleasure from doing something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-reach-for-895d9d",
+  "unit": "U1",
+  "sub": "",
+  "en": "to reach (for)",
+  "de": [
+   "greifen (nach)"
+  ],
+  "def": "to arrive at or stretch out to touch",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-discover-25feb0",
+  "unit": "U1",
+  "sub": "",
+  "en": "to discover",
+  "de": [
+   "entdecken"
+  ],
+  "def": "to find something for the first time",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-phone-e176b5",
+  "unit": "U1",
+  "sub": "",
+  "en": "to phone",
+  "de": [
+   "anrufen",
+   "telefonieren"
+  ],
+  "def": "a device for talking to people far away",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-bloke-59b102",
+  "unit": "U1",
+  "sub": "",
+  "en": "bloke",
+  "de": [
+   "Typ (ugs.)"
+  ],
+  "def": "an informal word for a man",
+  "tags": [
+   "fam"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-privacy-20d651",
+  "unit": "U1",
+  "sub": "",
+  "en": "privacy",
+  "de": [
+   "Privatsphäre"
+  ],
+  "def": "the state of being alone and not watched",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-trick-1a1791",
+  "unit": "U1",
+  "sub": "",
+  "en": "to trick",
+  "de": [
+   "austricksen",
+   "täuschen"
+  ],
+  "def": "a clever action to fool someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-freedom-4c905d",
+  "unit": "U1",
+  "sub": "",
+  "en": "freedom",
+  "de": [
+   "Freiheit",
+   "Unabhängigkeit"
+  ],
+  "def": "the state of being free and not controlled",
+  "tags": [
+   "no pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-danger-e6e783",
+  "unit": "U1",
+  "sub": "",
+  "en": "danger",
+  "de": [
+   "Gefahr"
+  ],
+  "def": "a situation where harm could happen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-lie-to-716276",
+  "unit": "U1",
+  "sub": "",
+  "en": "to lie (to)",
+  "de": [
+   "lügen",
+   "anlügen"
+  ],
+  "def": "to say something that is not true",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-smell-smelt-smelled-smelt-smelled-ff66a5",
+  "unit": "U1",
+  "sub": "",
+  "en": "to smell, smelt/smelled, smelt/smelled",
+  "de": [
+   "riechen",
+   "duften"
+  ],
+  "def": "to sense odours through your nose",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-password-4277b7",
+  "unit": "U1",
+  "sub": "",
+  "en": "password",
+  "de": [
+   "Passwort"
+  ],
+  "def": "a secret word used to access something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-underwear-cf2971",
+  "unit": "U1",
+  "sub": "",
+  "en": "underwear",
+  "de": [
+   "Unterwäsche"
+  ],
+  "def": "clothes worn under other clothes next to your body",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-skatepark-9ea165",
+  "unit": "U1",
+  "sub": "",
+  "en": "skatepark",
+  "de": [
+   "Skateboardanlage"
+  ],
+  "def": "an area built for skateboarding",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u1-to-grow-up-grew-up-grown-up-4f77c0",
+  "unit": "U1",
+  "sub": "",
+  "en": "to grow up, grew up, grown up",
+  "de": [
+   "aufwachsen",
+   "erwachsen werden"
+  ],
+  "def": "to become bigger or increase in size",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u1-poem-f83666",
+  "unit": "U1",
+  "sub": "",
+  "en": "poem",
+  "de": [
+   "Gedicht"
+  ],
+  "def": "a piece of writing with rhythm and strong feeling",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-lyrical-18a78f",
+  "unit": "TS1",
+  "sub": "",
+  "en": "lyrical",
+  "de": [
+   "lyrisch"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-direct-b3eb3f",
+  "unit": "TS1",
+  "sub": "",
+  "en": "direct",
+  "de": [
+   "direkt"
+  ],
+  "def": "going straight to a place; honest and clear",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-friendship-49035b",
+  "unit": "TS1",
+  "sub": "",
+  "en": "friendship",
+  "de": [
+   "Freundschaft"
+  ],
+  "def": "the relationship between friends",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-song-lyrics-5a8555",
+  "unit": "TS1",
+  "sub": "",
+  "en": "(song) lyrics",
+  "de": [
+   "Liedtext"
+  ],
+  "def": "the words of a song",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-sing-along-608c35",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to sing along",
+  "de": [
+   "mitsingen"
+  ],
+  "def": "following the length of something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-shine-shone-shone-d74c51",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to shine, shone, shone",
+  "de": [
+   "scheinen",
+   "glänzen"
+  ],
+  "def": "to shine,; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-forever-520f04",
+  "unit": "TS1",
+  "sub": "",
+  "en": "forever",
+  "de": [
+   "für immer",
+   "ewig"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-rain-f45c21",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to rain",
+  "de": [
+   "regnen"
+  ],
+  "def": "when water falls from clouds",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-basics-ee13a4",
+  "unit": "TS1",
+  "sub": "",
+  "en": "basics",
+  "de": [
+   "Grundlagen"
+  ],
+  "def": "simple and essential",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-care-about-4bc7b3",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to care (about)",
+  "de": [
+   "wichtig nehmen, sich kümmern (um)",
+   "sich interessieren (für)"
+  ],
+  "def": "to feel that something matters or look after",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-shadow-54fe9a",
+  "unit": "TS1",
+  "sub": "",
+  "en": "shadow",
+  "de": [
+   "Schatten"
+  ],
+  "def": "a dark area made when something blocks light",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-it-doesn-t-matter-597e78",
+  "unit": "TS1",
+  "sub": "",
+  "en": "It doesn't matter.",
+  "de": [
+   "Es ist egal."
+  ],
+  "def": "a common English phrase or expression",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-ts1-rose-8536ff",
+  "unit": "TS1",
+  "sub": "",
+  "en": "rose",
+  "de": [
+   "Rose"
+  ],
+  "def": "a flower with thorns and a sweet smell",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-violet-bacbb6",
+  "unit": "TS1",
+  "sub": "",
+  "en": "violet",
+  "de": [
+   "Veilchen"
+  ],
+  "def": "a small purple flower; a purple colour",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-poet-2da94e",
+  "unit": "TS1",
+  "sub": "",
+  "en": "poet",
+  "de": [
+   "Dichter/-in"
+  ],
+  "def": "a person who writes poems",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-silent-037221",
+  "unit": "TS1",
+  "sub": "",
+  "en": "silent",
+  "de": [
+   "still, ruhig",
+   "schweigsam",
+   "stumm"
+  ],
+  "def": "completely quiet; making no sound",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-happiness-020997",
+  "unit": "TS1",
+  "sub": "",
+  "en": "happiness",
+  "de": [
+   "Glück",
+   "Zufriedenheit",
+   "Fröhlichkeit"
+  ],
+  "def": "the state of being happi",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-make-ffee59",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to make",
+  "de": [
+   "hier: lassen"
+  ],
+  "def": "to create or produce something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-care-for-982898",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to care for",
+  "de": [
+   "sich kümmern um",
+   "Zuneigung spüren für"
+  ],
+  "def": "to feel that something matters or look after",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-ups-and-downs-e16058",
+  "unit": "TS1",
+  "sub": "",
+  "en": "ups and downs",
+  "de": [
+   "Höhen und Tiefen"
+  ],
+  "def": "used to connect words or ideas together",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-respect-8b575e",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to respect",
+  "de": [
+   "respektieren"
+  ],
+  "def": "to admire someone for their qualities",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-stick-together-d18c24",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to stick together",
+  "de": [
+   "zueinanderhalten",
+   "unzertrennlich sein"
+  ],
+  "def": "with each other; in one group",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-glue-ad7562",
+  "unit": "TS1",
+  "sub": "",
+  "en": "glue",
+  "de": [
+   "Klebstoff"
+  ],
+  "def": "a sticky substance for joining things together",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-sign-51aba2",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to sign",
+  "de": [
+   "unterschreiben",
+   "unterzeichnen"
+  ],
+  "def": "a board with words or pictures giving information",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-best-friends-forever-bff-623863",
+  "unit": "TS1",
+  "sub": "",
+  "en": "best friends forever (BFF)",
+  "de": [
+   "für immer beste Freunde"
+  ],
+  "def": "better than all others; the highest quality",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-break-through-sb-s-shell-0a2dd1",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to break through sb's shell",
+  "de": [
+   "jmds. Panzer knacken"
+  ],
+  "def": "from one side to the other",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-ts1-need-7ec0bd",
+  "unit": "TS1",
+  "sub": "",
+  "en": "need",
+  "de": [
+   "Bedürfnis",
+   "Bedarf"
+  ],
+  "def": "to require something that is necessary",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-ground-d029d3",
+  "unit": "TS1",
+  "sub": "",
+  "en": "ground",
+  "de": [
+   "Boden",
+   "Erdboden"
+  ],
+  "def": "the solid surface of the earth",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-pull-aside-2c69b9",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to pull aside",
+  "de": [
+   "zur Seite nehmen"
+  ],
+  "def": "to use force to move something towards you",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-alright-c75516",
+  "unit": "TS1",
+  "sub": "",
+  "en": "alright",
+  "de": [
+   "in Ordnung",
+   "alles klar"
+  ],
+  "def": "satisfactory; OK",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-somehow-237ba8",
+  "unit": "TS1",
+  "sub": "",
+  "en": "somehow",
+  "de": [
+   "irgendwie"
+  ],
+  "def": "in a way that is not known or explained",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-be-out-of-second-chances-ac3c16",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to be out of second chances",
+  "de": [
+   "keine Möglichkeit mehr haben"
+  ],
+  "def": "a very short unit of time",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-ts1-earth-d9e807",
+  "unit": "TS1",
+  "sub": "",
+  "en": "earth",
+  "de": [
+   "Erdboden",
+   "Erde",
+   "die Erde"
+  ],
+  "def": "the planet we live on, or soil",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-hang-on-8a1550",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to hang on",
+  "de": [
+   "(einen Augenblick) warten"
+  ],
+  "def": "to attach something at the top so it is free",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-no-matter-053387",
+  "unit": "TS1",
+  "sub": "",
+  "en": "no matter",
+  "de": [
+   "egal",
+   "ganz gleich"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-forgive-forgave-forgiven-89389e",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to forgive, forgave, forgiven",
+  "de": [
+   "vergeben",
+   "verzeihen"
+  ],
+  "def": "to forgive,; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-to-be-willing-to-do-sth-d848f8",
+  "unit": "TS1",
+  "sub": "",
+  "en": "to be willing to do sth",
+  "de": [
+   "gewillt sein, etw. zu tun",
+   "bereit sein, etw. zu tun"
+  ],
+  "def": "a common English phrase or expression",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-ts1-sensible-af5bdc",
+  "unit": "TS1",
+  "sub": "",
+  "en": "sensible",
+  "de": [
+   "vernünftig"
+  ],
+  "def": "one of the five abilities (sight, hearing, etc.); good judgment",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts1-practical-ea6e64",
+  "unit": "TS1",
+  "sub": "",
+  "en": "practical",
+  "de": [
+   "praktisch"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-organic-2399f4",
+  "unit": "U2",
+  "sub": "",
+  "en": "organic",
+  "de": [
+   "Bio-",
+   "organisch"
+  ],
+  "def": "grown without artificial chemicals",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-sheep-sheep-e2c269",
+  "unit": "U2",
+  "sub": "",
+  "en": "sheep, sheep",
+  "de": [
+   "Schaf"
+  ],
+  "def": "a farm animal kept for wool and meat",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-wool-dfcf31",
+  "unit": "U2",
+  "sub": "",
+  "en": "wool",
+  "de": [
+   "Wolle"
+  ],
+  "def": "soft fibre from sheep used to make clothes",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-farming-06cf9e",
+  "unit": "U2",
+  "sub": "",
+  "en": "farming",
+  "de": [
+   "Landwirtschaft"
+  ],
+  "def": "land used to grow crops and keep animals",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-speech-259c94",
+  "unit": "U2",
+  "sub": "",
+  "en": "speech",
+  "de": [
+   "Rede"
+  ],
+  "def": "a formal talk given to a group of people",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-national-51967a",
+  "unit": "U2",
+  "sub": "",
+  "en": "national",
+  "de": [
+   "national",
+   "landesweit"
+  ],
+  "def": "relating to a whole country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-go-crazy-42969e",
+  "unit": "U2",
+  "sub": "",
+  "en": "to go crazy",
+  "de": [
+   "ausflippen",
+   "durchdrehen",
+   "verrückt werden"
+  ],
+  "def": "very strange or foolish",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-absolutely-b69470",
+  "unit": "U2",
+  "sub": "",
+  "en": "absolutely",
+  "de": [
+   "absolut, völlig"
+  ],
+  "def": "completely; totally",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-symbol-48cf30",
+  "unit": "U2",
+  "sub": "",
+  "en": "symbol",
+  "de": [
+   "Symbol"
+  ],
+  "def": "something that represents an idea or quality",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-dragon-f67696",
+  "unit": "U2",
+  "sub": "",
+  "en": "dragon",
+  "de": [
+   "Drache"
+  ],
+  "def": "an imaginary fire-breathing creature",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-waterfront-0071d2",
+  "unit": "U2",
+  "sub": "",
+  "en": "waterfront",
+  "de": [
+   "Hafenviertel",
+   "Ufer"
+  ],
+  "def": "the part of a town next to water",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-exhibition-6eb98c",
+  "unit": "U2",
+  "sub": "",
+  "en": "exhibition",
+  "de": [
+   "Ausstellung"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-shopping-arcade-6e2925",
+  "unit": "U2",
+  "sub": "",
+  "en": "shopping arcade",
+  "de": [
+   "Einkaufspassage"
+  ],
+  "def": "buying things from shops",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-prefer-770aae",
+  "unit": "U2",
+  "sub": "",
+  "en": "to prefer",
+  "de": [
+   "vorziehen",
+   "bevorzugen"
+  ],
+  "def": "to like one thing more than another",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-you-ve-got-a-point-a856a4",
+  "unit": "U2",
+  "sub": "",
+  "en": "You've got a point.",
+  "de": [
+   "Da ist was dran."
+  ],
+  "def": "to show where something is with your finger",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u2-on-the-other-hand-8d2df9",
+  "unit": "U2",
+  "sub": "",
+  "en": "on the other hand",
+  "de": [
+   "andererseits"
+  ],
+  "def": "used to present a different view",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-lamb-8b15bb",
+  "unit": "U2",
+  "sub": "",
+  "en": "lamb",
+  "de": [
+   "Lamm"
+  ],
+  "def": "a young sheep",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-left-9cd306",
+  "unit": "U2",
+  "sub": "",
+  "en": "left",
+  "de": [
+   "übrig"
+  ],
+  "def": "the opposite side to right; remaining",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-chore-59d3e5",
+  "unit": "U2",
+  "sub": "",
+  "en": "chore",
+  "de": [
+   "(lästige) Pflicht",
+   "Bürde"
+  ],
+  "def": "a regular boring task in the house",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-mine-9a2db0",
+  "unit": "U2",
+  "sub": "",
+  "en": "mine",
+  "de": [
+   "mine"
+  ],
+  "def": "something that belongs to me",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-back-then-e4c3af",
+  "unit": "U2",
+  "sub": "",
+  "en": "back (then)",
+  "de": [
+   "damals"
+  ],
+  "def": "at that time in the past",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-mining-44f95a",
+  "unit": "U2",
+  "sub": "",
+  "en": "mining",
+  "de": [
+   "Bergbau"
+  ],
+  "def": "something that belongs to me",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-rucksack-043c0c",
+  "unit": "U2",
+  "sub": "",
+  "en": "rucksack",
+  "de": [
+   "Rucksack"
+  ],
+  "def": "a bag carried on your back",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-lady-2de81e",
+  "unit": "U2",
+  "sub": "",
+  "en": "lady",
+  "de": [
+   "Dame"
+  ],
+  "def": "a polite word for a woman",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-what-else-e16e05",
+  "unit": "U2",
+  "sub": "",
+  "en": "what else",
+  "de": [
+   "was sonst",
+   "was noch"
+  ],
+  "def": "asking about which thing",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-b-b-bed-and-breakfast-a7b32c",
+  "unit": "U2",
+  "sub": "",
+  "en": "B&B (= bed and breakfast)",
+  "de": [
+   "Frühstückspension"
+  ],
+  "def": "a piece of furniture for sleeping on",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u2-to-earn-31ae2e",
+  "unit": "U2",
+  "sub": "",
+  "en": "to earn",
+  "de": [
+   "verdienen"
+  ],
+  "def": "to get money by working",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-cheeky-b90da5",
+  "unit": "U2",
+  "sub": "",
+  "en": "cheeky",
+  "de": [
+   "frech",
+   "dreist"
+  ],
+  "def": "slightly rude in a funny way",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-welly-462449",
+  "unit": "U2",
+  "sub": "",
+  "en": "welly",
+  "de": [
+   "Gummistiefel"
+  ],
+  "def": "in a wel manner",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-challenge-4c5d7f",
+  "unit": "U2",
+  "sub": "",
+  "en": "challenge",
+  "de": [
+   "Herausforderung"
+  ],
+  "def": "something difficult that tests your ability",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-completely-33bacc",
+  "unit": "U2",
+  "sub": "",
+  "en": "completely",
+  "de": [
+   "völlig"
+  ],
+  "def": "totally; in every way",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-especially-d1b092",
+  "unit": "U2",
+  "sub": "",
+  "en": "especially",
+  "de": [
+   "besonders",
+   "vor allem"
+  ],
+  "def": "more than usual; particularly",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-discount-eb199c",
+  "unit": "U2",
+  "sub": "",
+  "en": "discount",
+  "de": [
+   "Rabatt",
+   "Preisnachlass"
+  ],
+  "def": "a reduction in the normal price",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-noisy-a29041",
+  "unit": "U2",
+  "sub": "",
+  "en": "noisy",
+  "de": [
+   "laut"
+  ],
+  "def": "making a lot of unwanted sound",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-dirt-2f064b",
+  "unit": "U2",
+  "sub": "",
+  "en": "dirt",
+  "de": [
+   "Schmutz",
+   "Dreck"
+  ],
+  "def": "loose earth; something that makes things unclean",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-if-you-don-t-mind-7884b5",
+  "unit": "U2",
+  "sub": "",
+  "en": "If you don't mind...",
+  "de": [
+   "Wenn du nichts dagegen hast...",
+   "Wenn es dir nichts ausmacht"
+  ],
+  "def": "to be bothered or upset by something",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u2-national-park-860660",
+  "unit": "U2",
+  "sub": "",
+  "en": "national park",
+  "de": [
+   "Nationalpark",
+   "Naturpark"
+  ],
+  "def": "relating to a whole country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-turn-into-a57812",
+  "unit": "U2",
+  "sub": "",
+  "en": "to turn into",
+  "de": [
+   "ändern in",
+   "umwandeln in"
+  ],
+  "def": "moving to the inside of",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-shed-cc666c",
+  "unit": "U2",
+  "sub": "",
+  "en": "shed",
+  "de": [
+   "Schuppen",
+   "Stall",
+   "Gartenhäuschen"
+  ],
+  "def": "a small building for storing tools or garden things",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-workshop-e13792",
+  "unit": "U2",
+  "sub": "",
+  "en": "workshop",
+  "de": [
+   "Werkstatt"
+  ],
+  "def": "a place where things are made; a training session",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-offer-2ac4be",
+  "unit": "U2",
+  "sub": "",
+  "en": "to offer",
+  "de": [
+   "anbieten"
+  ],
+  "def": "to say you will give something to someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-option-ee32b0",
+  "unit": "U2",
+  "sub": "",
+  "en": "option",
+  "de": [
+   "Möglichkeit, Wahl",
+   "Option"
+  ],
+  "def": "a choice; something you can choose",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-treasure-7b15b8",
+  "unit": "U2",
+  "sub": "",
+  "en": "treasure",
+  "de": [
+   "Schatz"
+  ],
+  "def": "a collection of valuable things like gold",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-legend-743826",
+  "unit": "U2",
+  "sub": "",
+  "en": "legend",
+  "de": [
+   "Legende",
+   "Sage"
+  ],
+  "def": "an old story passed down through time",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-trade-0747e5",
+  "unit": "U2",
+  "sub": "",
+  "en": "to trade",
+  "de": [
+   "tauschen",
+   "austauschen"
+  ],
+  "def": "buying and selling goods",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-coal-eeecb5",
+  "unit": "U2",
+  "sub": "",
+  "en": "coal",
+  "de": [
+   "Kohle"
+  ],
+  "def": "a black rock burned for heat and energy",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-underground-52e7b6",
+  "unit": "U2",
+  "sub": "",
+  "en": "underground",
+  "de": [
+   "Untergrund"
+  ],
+  "def": "a railway that runs beneath the city",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-tap-397f85",
+  "unit": "U2",
+  "sub": "",
+  "en": "to tap",
+  "de": [
+   "tippen",
+   "antippen",
+   "klopfen"
+  ],
+  "def": "to tap; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-wooden-17f750",
+  "unit": "U2",
+  "sub": "",
+  "en": "wooden",
+  "de": [
+   "hölzern",
+   "aus Holz"
+  ],
+  "def": "made of wood",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-cart-0b5178",
+  "unit": "U2",
+  "sub": "",
+  "en": "cart",
+  "de": [
+   "Karren"
+  ],
+  "def": "a vehicle with wheels pulled by animals",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-flow-aa9916",
+  "unit": "U2",
+  "sub": "",
+  "en": "to flow",
+  "de": [
+   "strömen"
+  ],
+  "def": "to flow; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-total-ad82ec",
+  "unit": "U2",
+  "sub": "",
+  "en": "total",
+  "de": [
+   "total",
+   "vollständig"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-ladder-fc3976",
+  "unit": "U2",
+  "sub": "",
+  "en": "ladder",
+  "de": [
+   "Leiter"
+  ],
+  "def": "a tool with steps for climbing up or down",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-come-loose-47f5e4",
+  "unit": "U2",
+  "sub": "",
+  "en": "to come loose",
+  "de": [
+   "sich lösen"
+  ],
+  "def": "to move towards the speaker or a place",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-helmet-e55c5d",
+  "unit": "U2",
+  "sub": "",
+  "en": "helmet",
+  "de": [
+   "Helm"
+  ],
+  "def": "a hard hat that protects your head",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-safe-a6622a",
+  "unit": "U2",
+  "sub": "",
+  "en": "safe",
+  "de": [
+   "sicher",
+   "ungefährlich"
+  ],
+  "def": "not in danger",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-that-27b668",
+  "unit": "U2",
+  "sub": "",
+  "en": "that",
+  "de": [
+   "so (Betonung)"
+  ],
+  "def": "used to point to something further away",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-backwards-d3cb66",
+  "unit": "U2",
+  "sub": "",
+  "en": "backwards",
+  "de": [
+   "rückwärts"
+  ],
+  "def": "towards the back; in the opposite direction",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-run-over-66e375",
+  "unit": "U2",
+  "sub": "",
+  "en": "to run over",
+  "de": [
+   "überrollen",
+   "überfahren"
+  ],
+  "def": "above or across something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-carry-432d2f",
+  "unit": "U2",
+  "sub": "",
+  "en": "to carry",
+  "de": [
+   "tragen"
+  ],
+  "def": "to hold and move something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-shocking-98f47a",
+  "unit": "U2",
+  "sub": "",
+  "en": "shocking",
+  "de": [
+   "schockierend"
+  ],
+  "def": "very surprising in a bad way",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-child-labour-d9b669",
+  "unit": "U2",
+  "sub": "",
+  "en": "child labour",
+  "de": [
+   "Kinderarbeit"
+  ],
+  "def": "a young person who is not yet an adult",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-economic-b74974",
+  "unit": "U2",
+  "sub": "",
+  "en": "economic",
+  "de": [
+   "ökonomisch",
+   "wirtschaftlich"
+  ],
+  "def": "relating to money and trade",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-industry-332cd4",
+  "unit": "U2",
+  "sub": "",
+  "en": "industry",
+  "de": [
+   "Industrie",
+   "Branche",
+   "Gewerbe"
+  ],
+  "def": "the production of goods in factories",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-service-4c373b",
+  "unit": "U2",
+  "sub": "",
+  "en": "service",
+  "de": [
+   "Service",
+   "Dienstleistung",
+   "Dienst"
+  ],
+  "def": "a ceremony; help provided",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-agriculture-b89795",
+  "unit": "U2",
+  "sub": "",
+  "en": "agriculture",
+  "de": [
+   "Landwirtschaft"
+  ],
+  "def": "farming; growing crops and keeping animals",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-catchy-596520",
+  "unit": "U2",
+  "sub": "",
+  "en": "catchy",
+  "de": [
+   "eingängig",
+   "einprägsam"
+  ],
+  "def": "easy to remember, especially a tune",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-conclusion-a6eb28",
+  "unit": "U2",
+  "sub": "",
+  "en": "conclusion",
+  "de": [
+   "Schluss",
+   "Schlussfolgerung"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-all-in-all-b3389d",
+  "unit": "U2",
+  "sub": "",
+  "en": "all in all",
+  "de": [
+   "alles in allem",
+   "schließlich"
+  ],
+  "def": "the whole amount or every one",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-finally-7b429b",
+  "unit": "U2",
+  "sub": "",
+  "en": "finally",
+  "de": [
+   "schließlich",
+   "endlich",
+   "zum Schluss",
+   "letztlich"
+  ],
+  "def": "at last; after a long time",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-edge-e9c310",
+  "unit": "U2",
+  "sub": "",
+  "en": "edge",
+  "de": [
+   "Rand",
+   "Kante"
+  ],
+  "def": "the outer border of something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-flat-a6d913",
+  "unit": "U2",
+  "sub": "",
+  "en": "flat",
+  "de": [
+   "flach",
+   "platt"
+  ],
+  "def": "having a smooth level surface without hills",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-old-school-d4e3bd",
+  "unit": "U2",
+  "sub": "",
+  "en": "old school",
+  "de": [
+   "altmodisch"
+  ],
+  "def": "a place where children go to learn",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-score-60b085",
+  "unit": "U2",
+  "sub": "",
+  "en": "to score",
+  "de": [
+   "erzielen",
+   "erreichen"
+  ],
+  "def": "to get a point in a game or competition",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-success-b02c67",
+  "unit": "U2",
+  "sub": "",
+  "en": "success",
+  "de": [
+   "Erfolg"
+  ],
+  "def": "achieving what you wanted",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-dress-up-b03330",
+  "unit": "U2",
+  "sub": "",
+  "en": "to dress up",
+  "de": [
+   "sich verkleiden"
+  ],
+  "def": "a piece of clothing worn by women and girls",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-celt-72b44e",
+  "unit": "U2",
+  "sub": "",
+  "en": "Celt",
+  "de": [
+   "Kelte/Keltin"
+  ],
+  "def": "an ancient person from Britain or Ireland",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-fit-35bc24",
+  "unit": "U2",
+  "sub": "",
+  "en": "to fit",
+  "de": [
+   "passen"
+  ],
+  "def": "to be the right size or shape",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-be-pronounced-6b1e2a",
+  "unit": "U2",
+  "sub": "",
+  "en": "to be pronounced",
+  "de": [
+   "ausgesprochen werden"
+  ],
+  "def": "to be; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-ourselves-aee9ea",
+  "unit": "U2",
+  "sub": "",
+  "en": "ourselves",
+  "de": [
+   "selber",
+   "wir (selbst)",
+   "selbst"
+  ],
+  "def": "used when we are both subject and object",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-responsible-2cec2a",
+  "unit": "U2",
+  "sub": "",
+  "en": "responsible",
+  "de": [
+   "verantwortlich",
+   "verantwortungsvoll"
+  ],
+  "def": "having a duty to take care of something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-defend-9c77b1",
+  "unit": "U2",
+  "sub": "",
+  "en": "to defend",
+  "de": [
+   "verteidigen"
+  ],
+  "def": "to defend; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-itself-63ec4a",
+  "unit": "U2",
+  "sub": "",
+  "en": "itself",
+  "de": [
+   "(sich) selbst"
+  ],
+  "def": "used when the subject and object are the same thing",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-farmer-ad5dca",
+  "unit": "U2",
+  "sub": "",
+  "en": "farmer",
+  "de": [
+   "Farmer/-in",
+   "Landwirt/-in"
+  ],
+  "def": "land used to grow crops and keep animals",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-attack-4e5a2f",
+  "unit": "U2",
+  "sub": "",
+  "en": "attack",
+  "de": [
+   "Angriff",
+   "Überfall"
+  ],
+  "def": "a violent action against someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-tribe-302b36",
+  "unit": "U2",
+  "sub": "",
+  "en": "tribe",
+  "de": [
+   "Stamm",
+   "Gesellschaft"
+  ],
+  "def": "a group of people sharing customs and beliefs",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-sword-eac5d6",
+  "unit": "U2",
+  "sub": "",
+  "en": "sword",
+  "de": [
+   "Schwert"
+  ],
+  "def": "a weapon with a long sharp metal blade",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-fighter-082271",
+  "unit": "U2",
+  "sub": "",
+  "en": "fighter",
+  "de": [
+   "Kämpfer/-in"
+  ],
+  "def": "to use force against someone in a conflict",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-fighting-16a78c",
+  "unit": "U2",
+  "sub": "",
+  "en": "fighting",
+  "de": [
+   "Kampf"
+  ],
+  "def": "to use force against someone in a conflict",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-weapon-c17f32",
+  "unit": "U2",
+  "sub": "",
+  "en": "weapon",
+  "de": [
+   "Waffe"
+  ],
+  "def": "an object used to fight or cause harm",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-copy-ff33cf",
+  "unit": "U2",
+  "sub": "",
+  "en": "copy",
+  "de": [
+   "Kopie"
+  ],
+  "def": "a duplicate of something; to make a duplicate",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-original-4911bb",
+  "unit": "U2",
+  "sub": "",
+  "en": "original",
+  "de": [
+   "original",
+   "ursprünglich"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-themselves-de33c1",
+  "unit": "U2",
+  "sub": "",
+  "en": "themselves",
+  "de": [
+   "selber",
+   "sie/sich selbst",
+   "selbst"
+  ],
+  "def": "used when they are both subject and object",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-tool-bc8e39",
+  "unit": "U2",
+  "sub": "",
+  "en": "tool",
+  "de": [
+   "Werkzeug",
+   "Gerät"
+  ],
+  "def": "an instrument used for doing a particular job",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-cup-e4e41c",
+  "unit": "U2",
+  "sub": "",
+  "en": "cup",
+  "de": [
+   "Tasse"
+  ],
+  "def": "a small container for drinking",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-make-sense-4813a5",
+  "unit": "U2",
+  "sub": "",
+  "en": "to make sense",
+  "de": [
+   "Sinn ergeben",
+   "einleuchten"
+  ],
+  "def": "one of the five abilities (sight, hearing, etc.); good judgment",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-hunting-e49eb9",
+  "unit": "U2",
+  "sub": "",
+  "en": "hunting",
+  "de": [
+   "Jagd",
+   "Jagd-"
+  ],
+  "def": "chasing and catching wild animals",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-fishing-3fa3fb",
+  "unit": "U2",
+  "sub": "",
+  "en": "fishing",
+  "de": [
+   "Angeln",
+   "Fischen",
+   "Fischerei"
+  ],
+  "def": "an animal that lives in water, often eaten",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-entertainment-76c235",
+  "unit": "U2",
+  "sub": "",
+  "en": "entertainment",
+  "de": [
+   "Unterhaltung"
+  ],
+  "def": "the result or state of an action",
+  "tags": [
+   "no pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-be-respected-b7d3cf",
+  "unit": "U2",
+  "sub": "",
+  "en": "to be respected",
+  "de": [
+   "respektiert werden"
+  ],
+  "def": "to be; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-help-oneself-to-9042ca",
+  "unit": "U2",
+  "sub": "",
+  "en": "to help oneself (to)",
+  "de": [
+   "sich bedienen"
+  ],
+  "def": "to make something easier for someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-fight-c7e449",
+  "unit": "U2",
+  "sub": "",
+  "en": "fight",
+  "de": [
+   "Kampf",
+   "Streit"
+  ],
+  "def": "to use force against someone in a conflict",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-sock-87aa79",
+  "unit": "U2",
+  "sub": "",
+  "en": "sock",
+  "de": [
+   "Socke"
+  ],
+  "def": "a piece of clothing worn on your foot inside a shoe",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-how-it-s-done-f0ccc8",
+  "unit": "U2",
+  "sub": "",
+  "en": "how it's done",
+  "de": [
+   "wie es gemacht wird"
+  ],
+  "def": "asking about the way something is done",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-wish-63cd9b",
+  "unit": "U2",
+  "sub": "",
+  "en": "to wish",
+  "de": [
+   "(sich) wünschen"
+  ],
+  "def": "to want something to happen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-the-the-c5fd5f",
+  "unit": "U2",
+  "sub": "",
+  "en": "the... the",
+  "de": [
+   "je... desto"
+  ],
+  "def": "used before a noun to show which one you mean",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u2-road-a357cf",
+  "unit": "U2",
+  "sub": "",
+  "en": "road",
+  "de": [
+   "Straße"
+  ],
+  "def": "a wide path for cars and other vehicles",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-coast-2e655e",
+  "unit": "U2",
+  "sub": "",
+  "en": "coast",
+  "de": [
+   "Küste"
+  ],
+  "def": "the land next to the sea",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-coastline-d99317",
+  "unit": "U2",
+  "sub": "",
+  "en": "coastline",
+  "de": [
+   "Küste",
+   "Küstenverlauf"
+  ],
+  "def": "the edge of the land along the sea",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-cliff-8b1b87",
+  "unit": "U2",
+  "sub": "",
+  "en": "cliff",
+  "de": [
+   "Klippe",
+   "Kliff"
+  ],
+  "def": "a steep rock face, often near the sea",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-cave-f1e57b",
+  "unit": "U2",
+  "sub": "",
+  "en": "cave",
+  "de": [
+   "Höhle"
+  ],
+  "def": "a large natural hole in rock or underground",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-never-mind-aa491d",
+  "unit": "U2",
+  "sub": "",
+  "en": "Never mind!",
+  "de": [
+   "Macht nichts.",
+   "Schon gut.",
+   "Vergiss es."
+  ],
+  "def": "not at any time",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u2-to-pass-on-c4fa10",
+  "unit": "U2",
+  "sub": "",
+  "en": "to pass (on)",
+  "de": [
+   "weitergeben"
+  ],
+  "def": "to go by or hand something to someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-perhaps-dad0da",
+  "unit": "U2",
+  "sub": "",
+  "en": "perhaps",
+  "de": [
+   "vielleicht"
+  ],
+  "def": "possibly; it might happen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-kingdom-428c25",
+  "unit": "U2",
+  "sub": "",
+  "en": "kingdom",
+  "de": [
+   "Königreich"
+  ],
+  "def": "a country ruled by a king or queen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-cover-5e2600",
+  "unit": "U2",
+  "sub": "",
+  "en": "to cover",
+  "de": [
+   "abdecken",
+   "bedecken",
+   "zudecken"
+  ],
+  "def": "to put something over or on top of",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-evil-16ba3e",
+  "unit": "U2",
+  "sub": "",
+  "en": "evil",
+  "de": [
+   "böse",
+   "schlecht"
+  ],
+  "def": "very bad or morally wrong",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-ear-8f512e",
+  "unit": "U2",
+  "sub": "",
+  "en": "ear",
+  "de": [
+   "Ohr"
+  ],
+  "def": "the body part on each side of your head for hearing",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-breathe-4e3511",
+  "unit": "U2",
+  "sub": "",
+  "en": "to breathe",
+  "de": [
+   "atmen"
+  ],
+  "def": "to breathe; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-burn-burnt-burnt-946ad0",
+  "unit": "U2",
+  "sub": "",
+  "en": "to burn, burnt, burnt",
+  "de": [
+   "brennen",
+   "verbrennen"
+  ],
+  "def": "to burn,; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-powerful-2fd5f5",
+  "unit": "U2",
+  "sub": "",
+  "en": "powerful",
+  "de": [
+   "stark",
+   "mächtig"
+  ],
+  "def": "the ability to control things or do something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-guard-258a69",
+  "unit": "U2",
+  "sub": "",
+  "en": "guard",
+  "de": [
+   "Wache",
+   "Wächter/-in"
+  ],
+  "def": "a person who protects a place or person",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-hunger-59e27b",
+  "unit": "U2",
+  "sub": "",
+  "en": "hunger",
+  "de": [
+   "Hunger"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-wise-c0225f",
+  "unit": "U2",
+  "sub": "",
+  "en": "wise",
+  "de": [
+   "weise"
+  ],
+  "def": "having good judgment from experience",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-oil-553460",
+  "unit": "U2",
+  "sub": "",
+  "en": "oil",
+  "de": [
+   "Öl",
+   "Ölfarbe"
+  ],
+  "def": "a thick liquid used for cooking or as fuel",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-destroy-8f7a7f",
+  "unit": "U2",
+  "sub": "",
+  "en": "to destroy",
+  "de": [
+   "zerstören"
+  ],
+  "def": "to damage something so badly it cannot be used",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-press-ffa674",
+  "unit": "U2",
+  "sub": "",
+  "en": "to press",
+  "de": [
+   "drücken",
+   "pressen"
+  ],
+  "def": "to press; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-return-6b9517",
+  "unit": "U2",
+  "sub": "",
+  "en": "to return",
+  "de": [
+   "zurückkehren",
+   "zurückfahren"
+  ],
+  "def": "to come or go back to a place",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-secret-a8b629",
+  "unit": "U2",
+  "sub": "",
+  "en": "secret",
+  "de": [
+   "geheim"
+  ],
+  "def": "something known by only a few people",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-war-3d758a",
+  "unit": "U2",
+  "sub": "",
+  "en": "war",
+  "de": [
+   "Krieg"
+  ],
+  "def": "a conflict between countries with weapons",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-respect-b4dab2",
+  "unit": "U2",
+  "sub": "",
+  "en": "respect",
+  "de": [
+   "Respekt"
+  ],
+  "def": "to admire someone for their qualities",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-icy-c22065",
+  "unit": "U2",
+  "sub": "",
+  "en": "icy",
+  "de": [
+   "eisig"
+  ],
+  "def": "very cold; covered with ice",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-promise-1b34fa",
+  "unit": "U2",
+  "sub": "",
+  "en": "promise",
+  "de": [
+   "Versprechen"
+  ],
+  "def": "to say you will definitely do something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-order-e07100",
+  "unit": "U2",
+  "sub": "",
+  "en": "to order",
+  "de": [
+   "befehlen"
+  ],
+  "def": "to ask for food or tell someone to do something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-hole-9c6212",
+  "unit": "U2",
+  "sub": "",
+  "en": "hole",
+  "de": [
+   "Loch"
+  ],
+  "def": "an opening or empty space in something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-fill-0c8e15",
+  "unit": "U2",
+  "sub": "",
+  "en": "to fill",
+  "de": [
+   "(sich) füllen"
+  ],
+  "def": "to fill; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-thirsty-033cd3",
+  "unit": "U2",
+  "sub": "",
+  "en": "thirsty",
+  "de": [
+   "durstig"
+  ],
+  "def": "wanting or needing a drink",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-sleep-1b9887",
+  "unit": "U2",
+  "sub": "",
+  "en": "sleep",
+  "de": [
+   "Schlaf"
+  ],
+  "def": "to rest with your eyes closed",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-tie-to-eb95bb",
+  "unit": "U2",
+  "sub": "",
+  "en": "to tie (to)",
+  "de": [
+   "binden (an)",
+   "fesseln (an)"
+  ],
+  "def": "to tie; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-rope-cecb0c",
+  "unit": "U2",
+  "sub": "",
+  "en": "rope",
+  "de": [
+   "Seil"
+  ],
+  "def": "a strong thick string",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-deep-2c66d4",
+  "unit": "U2",
+  "sub": "",
+  "en": "deep",
+  "de": [
+   "tief"
+  ],
+  "def": "going far down from the surface",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-protect-sb-sth-from-0c79f5",
+  "unit": "U2",
+  "sub": "",
+  "en": "to protect sb/sth (from)",
+  "de": [
+   "jmdn./etw. (be)schützen (vor)"
+  ],
+  "def": "to keep safe from harm",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-forest-f9fa3a",
+  "unit": "U2",
+  "sub": "",
+  "en": "forest",
+  "de": [
+   "Wald"
+  ],
+  "def": "a large area covered with many trees",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-grateful-925e21",
+  "unit": "U2",
+  "sub": "",
+  "en": "grateful",
+  "de": [
+   "dankbar"
+  ],
+  "def": "feeling thankful for something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-unicorn-25a8cb",
+  "unit": "U2",
+  "sub": "",
+  "en": "unicorn",
+  "de": [
+   "Einhorn"
+  ],
+  "def": "an imaginary horse with a horn on its head",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-federal-state-24b697",
+  "unit": "U2",
+  "sub": "",
+  "en": "federal state",
+  "de": [
+   "Bundesstaat",
+   "Bundesland"
+  ],
+  "def": "a state within a larger country like the US or Germany",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-to-convince-4d30fe",
+  "unit": "U2",
+  "sub": "",
+  "en": "to convince",
+  "de": [
+   "überzeugen"
+  ],
+  "def": "to make someone believe or agree",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-coin-99faff",
+  "unit": "U2",
+  "sub": "",
+  "en": "coin",
+  "de": [
+   "Münze"
+  ],
+  "def": "a small round piece of metal used as money",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-writer-dc2fae",
+  "unit": "U2",
+  "sub": "",
+  "en": "writer",
+  "de": [
+   "Autor/-in",
+   "Verfasser/-in"
+  ],
+  "def": "to put words on paper or a screen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u2-fashion-6adca5",
+  "unit": "U2",
+  "sub": "",
+  "en": "fashion",
+  "de": [
+   "Mode"
+  ],
+  "def": "a popular style of clothes or behaviour",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-to-stay-538a51",
+  "unit": "AC2",
+  "sub": "",
+  "en": "to stay",
+  "de": [
+   "übernachten",
+   "wohnen"
+  ],
+  "def": "to remain in a place or condition",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-host-family-8a7f96",
+  "unit": "AC2",
+  "sub": "",
+  "en": "host family",
+  "de": [
+   "Gastfamilie"
+  ],
+  "def": "a group of people related to each other",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-company-466377",
+  "unit": "AC2",
+  "sub": "",
+  "en": "company",
+  "de": [
+   "Firma: Unternehmen",
+   "Gesellschaft"
+  ],
+  "def": "a business that sells products or services",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-issue-9f65a3",
+  "unit": "AC2",
+  "sub": "",
+  "en": "issue",
+  "de": [
+   "Problem: Thema"
+  ],
+  "def": "to officially give or produce something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-whatever-4cf751",
+  "unit": "AC2",
+  "sub": "",
+  "en": "whatever",
+  "de": [
+   "was/wie auch immer",
+   "egal (was/welche)"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-compromise-a0e66c",
+  "unit": "AC2",
+  "sub": "",
+  "en": "compromise",
+  "de": [
+   "Kompromiss"
+  ],
+  "def": "an agreement where both sides give up something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-to-serve-efa577",
+  "unit": "AC2",
+  "sub": "",
+  "en": "to serve",
+  "de": [
+   "servieren",
+   "dienen",
+   "bedienen"
+  ],
+  "def": "to give food or help to someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-advice-ec52ab",
+  "unit": "AC2",
+  "sub": "",
+  "en": "advice",
+  "de": [
+   "Rat",
+   "Ratschlag"
+  ],
+  "def": "a suggestion about what someone should do",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-rather-79f9e0",
+  "unit": "AC2",
+  "sub": "",
+  "en": "rather",
+  "de": [
+   "ziemlich"
+  ],
+  "def": "to some extent; fairly",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-to-criticise-15da41",
+  "unit": "AC2",
+  "sub": "",
+  "en": "to criticise",
+  "de": [
+   "kritisieren"
+  ],
+  "def": "to criticise; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-to-lead-to-7436b8",
+  "unit": "AC2",
+  "sub": "",
+  "en": "to lead to",
+  "de": [
+   "führen zu"
+  ],
+  "def": "to guide or show the way to others",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-know-it-all-6dfa43",
+  "unit": "AC2",
+  "sub": "",
+  "en": "know-it-all",
+  "de": [
+   "Besserwisser/-in"
+  ],
+  "def": "a person who thinks they know everything",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-manners-ae9c58",
+  "unit": "AC2",
+  "sub": "",
+  "en": "manners",
+  "de": [
+   "Manieren",
+   "Benehmen"
+  ],
+  "def": "polite ways of behaving around others",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-overly-0f8d9b",
+  "unit": "AC2",
+  "sub": "",
+  "en": "overly",
+  "de": [
+   "allzu",
+   "übermäßig"
+  ],
+  "def": "above or across something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-to-participate-5f73d5",
+  "unit": "AC2",
+  "sub": "",
+  "en": "to participate",
+  "de": [
+   "teilnehmen"
+  ],
+  "def": "to take part in an activity",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-do-you-mind-a126d9",
+  "unit": "AC2",
+  "sub": "",
+  "en": "Do you mind.....",
+  "de": [
+   "Hast du was dagegen...",
+   "Macht es dir was aus...."
+  ],
+  "def": "to be bothered or upset by something",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-ac2-impolite-2d85b9",
+  "unit": "AC2",
+  "sub": "",
+  "en": "impolite",
+  "de": [
+   "unhöflich"
+  ],
+  "def": "showing bad manners; rude",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-to-treat-dad8d7",
+  "unit": "AC2",
+  "sub": "",
+  "en": "to treat",
+  "de": [
+   "behandeln"
+  ],
+  "def": "to behave towards someone in a certain way",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-yours-ec6675",
+  "unit": "AC2",
+  "sub": "",
+  "en": "yours",
+  "de": [
+   "dein/-er/-e/-es",
+   "eure/-r/-s",
+   "Ihr/-e/-s"
+  ],
+  "def": "something that belongs to you",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-permission-c59fdb",
+  "unit": "AC2",
+  "sub": "",
+  "en": "permission",
+  "de": [
+   "Erlaubnis",
+   "Genehmigung"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ac2-to-appreciate-ee7b78",
+  "unit": "AC2",
+  "sub": "",
+  "en": "to appreciate",
+  "de": [
+   "schätzen",
+   "anerkennen",
+   "würdigen"
+  ],
+  "def": "to appreciate; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-power-6c05c9",
+  "unit": "MS",
+  "sub": "",
+  "en": "power",
+  "de": [
+   "Kraft",
+   "Macht",
+   "Stärke"
+  ],
+  "def": "the ability to control things or do something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-ad-vertisement-c986ad",
+  "unit": "MS",
+  "sub": "",
+  "en": "ad(vertisement)",
+  "de": [
+   "Anzeige",
+   "Werbespot"
+  ],
+  "def": "short for advertisement",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-a-friend-of-mine-87a103",
+  "unit": "MS",
+  "sub": "",
+  "en": "a friend of mine",
+  "de": [
+   "ein Freund/eine Freundin von mir"
+  ],
+  "def": "a person you know well and like",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-right-d1bcfe",
+  "unit": "MS",
+  "sub": "",
+  "en": "right",
+  "de": [
+   "Recht"
+  ],
+  "def": "something you are allowed by law to do",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-donation-a09557",
+  "unit": "MS",
+  "sub": "",
+  "en": "donation",
+  "de": [
+   "Spende",
+   "Schenkung",
+   "Stiftung"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-to-mistreat-e560e9",
+  "unit": "MS",
+  "sub": "",
+  "en": "to mistreat",
+  "de": [
+   "misshandeln"
+  ],
+  "def": "to mistreat; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-influencer-e69915",
+  "unit": "MS",
+  "sub": "",
+  "en": "influencer",
+  "de": [
+   "Influencer/-in"
+  ],
+  "def": "to have an effect on how someone thinks",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-in-order-to-e7deca",
+  "unit": "MS",
+  "sub": "",
+  "en": "in order to",
+  "de": [
+   "um... zu",
+   "mit der Absicht"
+  ],
+  "def": "for the purpose of",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-envious-9920e9",
+  "unit": "MS",
+  "sub": "",
+  "en": "envious",
+  "de": [
+   "neidisch"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-to-shock-2fa94f",
+  "unit": "MS",
+  "sub": "",
+  "en": "to shock",
+  "de": [
+   "schockieren"
+  ],
+  "def": "to shock; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-to-erase-b854a1",
+  "unit": "MS",
+  "sub": "",
+  "en": "to erase",
+  "de": [
+   "löschen",
+   "ausradieren"
+  ],
+  "def": "to erase; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-pic-picture-1d4868",
+  "unit": "MS",
+  "sub": "",
+  "en": "pic (= picture)",
+  "de": [
+   "Foto"
+  ],
+  "def": "informal for picture or photograph",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-thai-fcbb1a",
+  "unit": "MS",
+  "sub": "",
+  "en": "Thai",
+  "de": [
+   "thailändisch",
+   "aus Thailand",
+   "Thailänder/-in"
+  ],
+  "def": "from or relating to Thailand",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-tourism-6402de",
+  "unit": "MS",
+  "sub": "",
+  "en": "tourism",
+  "de": [
+   "Tourismus"
+  ],
+  "def": "the business of providing services for travellers",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-not-either-5f2980",
+  "unit": "MS",
+  "sub": "",
+  "en": "not... either",
+  "de": [
+   "auch nicht"
+  ],
+  "def": "a sentence pattern used in everyday English",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-ms-operator-e3f12f",
+  "unit": "MS",
+  "sub": "",
+  "en": "operator",
+  "de": [
+   "Betreiber/-in"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-mix-131264",
+  "unit": "MS",
+  "sub": "",
+  "en": "mix",
+  "de": [
+   "Mix",
+   "Mischung"
+  ],
+  "def": "to combine different things together",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-flavour-691c56",
+  "unit": "MS",
+  "sub": "",
+  "en": "flavour",
+  "de": [
+   "Geschmack",
+   "Geschmacksrichtung: Aroma",
+   "Sorte"
+  ],
+  "def": "the taste of food or drink",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-sure-of-oneself-025ab9",
+  "unit": "MS",
+  "sub": "",
+  "en": "sure of oneself",
+  "de": [
+   "selbstsicher"
+  ],
+  "def": "certain about something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-gym-2e1abc",
+  "unit": "MS",
+  "sub": "",
+  "en": "gym",
+  "de": [
+   "Fitnessstudio"
+  ],
+  "def": "a room or building for physical exercise",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-shape-7a9c5a",
+  "unit": "MS",
+  "sub": "",
+  "en": "shape",
+  "de": [
+   "Form"
+  ],
+  "def": "the form of something like a circle or square",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-to-fit-in-0d6bc6",
+  "unit": "MS",
+  "sub": "",
+  "en": "to fit in",
+  "de": [
+   "hineinpassen",
+   "sich einfügen"
+  ],
+  "def": "to be the right size or shape",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-instead-of-5c54a3",
+  "unit": "MS",
+  "sub": "",
+  "en": "instead of",
+  "de": [
+   "statt",
+   "anstatt",
+   "an Stelle von"
+  ],
+  "def": "in place of something else",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ms-alternative-6184b1",
+  "unit": "MS",
+  "sub": "",
+  "en": "alternative",
+  "de": [
+   "Alternative",
+   "Alternativ-"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-emerald-03bd46",
+  "unit": "U3",
+  "sub": "",
+  "en": "emerald",
+  "de": [
+   "Smaragd"
+  ],
+  "def": "a bright green precious stone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-northern-548dad",
+  "unit": "U3",
+  "sub": "",
+  "en": "northern",
+  "de": [
+   "nördlich",
+   "Nord-"
+  ],
+  "def": "in or from the north",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-climate-273900",
+  "unit": "U3",
+  "sub": "",
+  "en": "climate",
+  "de": [
+   "Klima"
+  ],
+  "def": "the usual weather conditions in a region",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-economy-c50472",
+  "unit": "U3",
+  "sub": "",
+  "en": "economy",
+  "de": [
+   "Ökonomie",
+   "Wirtschaft"
+  ],
+  "def": "the system of money and trade in a country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-famine-fe0306",
+  "unit": "U3",
+  "sub": "",
+  "en": "famine",
+  "de": [
+   "Hungersnot"
+  ],
+  "def": "a time when many people have no food",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-the-irish-b9e3b4",
+  "unit": "U3",
+  "sub": "",
+  "en": "the Irish",
+  "de": [
+   "die Irinnen und Iren"
+  ],
+  "def": "from or relating to Ireland",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-plant-d41888",
+  "unit": "U3",
+  "sub": "",
+  "en": "plant",
+  "de": [
+   "Pflanze"
+  ],
+  "def": "a living thing that grows in soil",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-disease-163712",
+  "unit": "U3",
+  "sub": "",
+  "en": "disease",
+  "de": [
+   "Krankheit"
+  ],
+  "def": "an illness that affects the body",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-wipe-out-84401d",
+  "unit": "U3",
+  "sub": "",
+  "en": "to wipe out",
+  "de": [
+   "vernichten"
+  ],
+  "def": "to wipe; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-crop-a83c9d",
+  "unit": "U3",
+  "sub": "",
+  "en": "crop",
+  "de": [
+   "Ernte"
+  ],
+  "def": "plants grown by farmers for food",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-lead-led-led-b17171",
+  "unit": "U3",
+  "sub": "",
+  "en": "to lead, led, led",
+  "de": [
+   "führen",
+   "anführen"
+  ],
+  "def": "to guide or show the way to others",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-focus-f1e746",
+  "unit": "U3",
+  "sub": "",
+  "en": "focus",
+  "de": [
+   "Blickpunkt, Schwerpunkt",
+   "Fokus"
+  ],
+  "def": "to pay special attention to something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-production-0130ac",
+  "unit": "U3",
+  "sub": "",
+  "en": "production",
+  "de": [
+   "Produktion",
+   "Herstellung"
+  ],
+  "def": "to make or create something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-medicine-657ae3",
+  "unit": "U3",
+  "sub": "",
+  "en": "medicine",
+  "de": [
+   "Medizin",
+   "Medikamente"
+  ],
+  "def": "substances used to treat illness; the study of health",
+  "tags": [
+   "no pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-financial-53f150",
+  "unit": "U3",
+  "sub": "",
+  "en": "financial",
+  "de": [
+   "Finanz-",
+   "finanziell"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-western-c336ee",
+  "unit": "U3",
+  "sub": "",
+  "en": "western",
+  "de": [
+   "westlich",
+   "West-"
+  ],
+  "def": "in or from the west",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-mild-f3fb2e",
+  "unit": "U3",
+  "sub": "",
+  "en": "mild",
+  "de": [
+   "mild"
+  ],
+  "def": "not strong or extreme; gentle",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-independent-8e4e99",
+  "unit": "U3",
+  "sub": "",
+  "en": "independent",
+  "de": [
+   "unabhängig"
+  ],
+  "def": "able to do things without help",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-nation-494b58",
+  "unit": "U3",
+  "sub": "",
+  "en": "nation",
+  "de": [
+   "Nation"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-reunited-2acb90",
+  "unit": "U3",
+  "sub": "",
+  "en": "reunited",
+  "de": [
+   "wiedervereint"
+  ],
+  "def": "brought back together again",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-single-dd06dd",
+  "unit": "U3",
+  "sub": "",
+  "en": "single",
+  "de": [
+   "einzeln",
+   "einzig",
+   "alleinstehend",
+   "Einzel-"
+  ],
+  "def": "not married; only one",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-violent-befaba",
+  "unit": "U3",
+  "sub": "",
+  "en": "violent",
+  "de": [
+   "gewaltsam",
+   "gewalttätig, brutal"
+  ],
+  "def": "using force to hurt people",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-conflict-82398a",
+  "unit": "U3",
+  "sub": "",
+  "en": "conflict",
+  "de": [
+   "Konflikt: Auseinandersetzung"
+  ],
+  "def": "a serious disagreement or fight",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-religion-645062",
+  "unit": "U3",
+  "sub": "",
+  "en": "religion",
+  "de": [
+   "Religion"
+  ],
+  "def": "a system of belief in a god or gods",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-starvation-d6cf78",
+  "unit": "U3",
+  "sub": "",
+  "en": "starvation",
+  "de": [
+   "Hungertod",
+   "Verhungern"
+  ],
+  "def": "the process or result of an action",
+  "tags": [
+   "no pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-rocky-836247",
+  "unit": "U3",
+  "sub": "",
+  "en": "rocky",
+  "de": [
+   "felsig",
+   "steinig"
+  ],
+  "def": "full of rocks; uneven",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-clover-1d2cd1",
+  "unit": "U3",
+  "sub": "",
+  "en": "clover",
+  "de": [
+   "Klee"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [
+   "no pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-shamrock-6b5529",
+  "unit": "U3",
+  "sub": "",
+  "en": "shamrock",
+  "de": [
+   "Klee",
+   "Kleeblatt"
+  ],
+  "def": "a plant with three leaves, symbol of Ireland",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-rugged-0866a8",
+  "unit": "U3",
+  "sub": "",
+  "en": "rugged",
+  "de": [
+   "rau",
+   "wild",
+   "zerklüftet"
+  ],
+  "def": "rough and uneven; strong and tough",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-local-619a11",
+  "unit": "U3",
+  "sub": "",
+  "en": "local",
+  "de": [
+   "Ortsansässige/-r",
+   "Einheimische/-r"
+  ],
+  "def": "relating to a nearby area",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-district-e28549",
+  "unit": "U3",
+  "sub": "",
+  "en": "district",
+  "de": [
+   "Distrikt",
+   "Bezirk"
+  ],
+  "def": "an area of a city or country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-busker-367453",
+  "unit": "U3",
+  "sub": "",
+  "en": "busker",
+  "de": [
+   "Straßenmusikant/-in"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-by-ffe6c6",
+  "unit": "U3",
+  "sub": "",
+  "en": "by",
+  "de": [
+   "von"
+  ],
+  "def": "next to; done through; not later than",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-agreement-093e48",
+  "unit": "U3",
+  "sub": "",
+  "en": "agreement",
+  "de": [
+   "Übereinstimmung",
+   "Einigkeit"
+  ],
+  "def": "to have the same opinion as someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-violence-de216e",
+  "unit": "U3",
+  "sub": "",
+  "en": "violence",
+  "de": [
+   "Gewalt"
+  ],
+  "def": "using physical force to hurt people",
+  "tags": [
+   "no pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-proof-a99ecf",
+  "unit": "U3",
+  "sub": "",
+  "en": "proof",
+  "de": [
+   "Beweis"
+  ],
+  "def": "evidence showing something is true",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-minority-d4b5b8",
+  "unit": "U3",
+  "sub": "",
+  "en": "minority",
+  "de": [
+   "Minderheit"
+  ],
+  "def": "a smaller group within a larger group",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-majority-c4a19f",
+  "unit": "U3",
+  "sub": "",
+  "en": "majority",
+  "de": [
+   "Mehrheit",
+   "Mehrzahl"
+  ],
+  "def": "more than half of a group",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-keep-8de050",
+  "unit": "U3",
+  "sub": "",
+  "en": "to keep",
+  "de": [
+   "erhalten"
+  ],
+  "def": "to continue to have or hold something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-visitor-6b3af6",
+  "unit": "U3",
+  "sub": "",
+  "en": "visitor",
+  "de": [
+   "Besucher/-in"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-tragedy-88419f",
+  "unit": "U3",
+  "sub": "",
+  "en": "tragedy",
+  "de": [
+   "Tragödie"
+  ],
+  "def": "a very sad event; a serious type of play",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-produce-642417",
+  "unit": "U3",
+  "sub": "",
+  "en": "to produce",
+  "de": [
+   "herstellen",
+   "produzieren"
+  ],
+  "def": "to make or create something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-landowner-24d5f9",
+  "unit": "U3",
+  "sub": "",
+  "en": "landowner",
+  "de": [
+   "Grundbesitzer/-in"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-cause-a6fc5f",
+  "unit": "U3",
+  "sub": "",
+  "en": "to cause",
+  "de": [
+   "verursachen"
+  ],
+  "def": "to make something happen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-emigrate-7c48a9",
+  "unit": "U3",
+  "sub": "",
+  "en": "to emigrate",
+  "de": [
+   "emigrieren",
+   "auswandern"
+  ],
+  "def": "to emigrate; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-settle-17554e",
+  "unit": "U3",
+  "sub": "",
+  "en": "to settle",
+  "de": [
+   "siedeln",
+   "besiedeln",
+   "sich niederlassen"
+  ],
+  "def": "to make a home in a new place",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-memorial-7b5510",
+  "unit": "U3",
+  "sub": "",
+  "en": "memorial",
+  "de": [
+   "Denkmal",
+   "Gedenkstätte"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-present-db398f",
+  "unit": "U3",
+  "sub": "",
+  "en": "present",
+  "de": [
+   "Gegenwart",
+   "Präsens"
+  ],
+  "def": "to show or give something officially",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-progress-61d34f",
+  "unit": "U3",
+  "sub": "",
+  "en": "progress",
+  "de": [
+   "Fortschritt"
+  ],
+  "def": "moving forward; getting better over time",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-tech-industry-bca328",
+  "unit": "U3",
+  "sub": "",
+  "en": "tech industry",
+  "de": [
+   "Technologiebranche",
+   "IT-Branche"
+  ],
+  "def": "the production of goods in factories",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-no-longer-e4f488",
+  "unit": "U3",
+  "sub": "",
+  "en": "no longer",
+  "de": [
+   "nicht länger",
+   "nicht mehr"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-european-da59e7",
+  "unit": "U3",
+  "sub": "",
+  "en": "European",
+  "de": [
+   "Europäer/-in",
+   "europäisch",
+   "aus Europa"
+  ],
+  "def": "from or relating to Europe",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-emigration-bce471",
+  "unit": "U3",
+  "sub": "",
+  "en": "emigration",
+  "de": [
+   "Auswanderung"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-criticism-8eb09c",
+  "unit": "U3",
+  "sub": "",
+  "en": "criticism",
+  "de": [
+   "Kritik"
+  ],
+  "def": "comments about what is wrong with something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-hold-held-held-130ed2",
+  "unit": "U3",
+  "sub": "",
+  "en": "to hold, held, held",
+  "de": [
+   "abhalten"
+  ],
+  "def": "to have something in your hands",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-colour-6925f5",
+  "unit": "U3",
+  "sub": "",
+  "en": "to colour",
+  "de": [
+   "färben"
+  ],
+  "def": "red, blue, green and other visual qualities",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-invent-ad18d9",
+  "unit": "U3",
+  "sub": "",
+  "en": "to invent",
+  "de": [
+   "erfinden"
+  ],
+  "def": "to invent; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-found-98771d",
+  "unit": "U3",
+  "sub": "",
+  "en": "to found",
+  "de": [
+   "gründen"
+  ],
+  "def": "to start an organization or city",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-musical-6a5ce6",
+  "unit": "U3",
+  "sub": "",
+  "en": "musical",
+  "de": [
+   "musikalisch",
+   "Musik-"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-perform-841d55",
+  "unit": "U3",
+  "sub": "",
+  "en": "to perform",
+  "de": [
+   "aufführen",
+   "auftreten"
+  ],
+  "def": "to do something or act in front of people",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-flavour-88bf99",
+  "unit": "U3",
+  "sub": "",
+  "en": "to flavour",
+  "de": [
+   "würzen"
+  ],
+  "def": "the taste of food or drink",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-sort-573bd3",
+  "unit": "U3",
+  "sub": "",
+  "en": "sort",
+  "de": [
+   "Sorte",
+   "Art"
+  ],
+  "def": "a type or kind of something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-mention-073639",
+  "unit": "U3",
+  "sub": "",
+  "en": "to mention",
+  "de": [
+   "erwähnen"
+  ],
+  "def": "to talk about something briefly",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-ham-e65a60",
+  "unit": "U3",
+  "sub": "",
+  "en": "ham",
+  "de": [
+   "Schinken"
+  ],
+  "def": "meat from a pig's leg, often salted or smoked",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-police-350cdc",
+  "unit": "U3",
+  "sub": "",
+  "en": "police",
+  "de": [
+   "Polizei"
+  ],
+  "def": "the organisation that keeps law and order",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-smash-f41e5f",
+  "unit": "U3",
+  "sub": "",
+  "en": "to smash",
+  "de": [
+   "zerschlagen, zerschmettern"
+  ],
+  "def": "to smash; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-cancel-7586fa",
+  "unit": "U3",
+  "sub": "",
+  "en": "to cancel",
+  "de": [
+   "absagen",
+   "stornieren"
+  ],
+  "def": "to cancel; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-fever-3e2522",
+  "unit": "U3",
+  "sub": "",
+  "en": "fever",
+  "de": [
+   "Fieber"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-truck-8a1c1c",
+  "unit": "U3",
+  "sub": "",
+  "en": "truck",
+  "de": [
+   "Lastwagen"
+  ],
+  "def": "a large vehicle for carrying goods",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-trip-over-05b4e1",
+  "unit": "U3",
+  "sub": "",
+  "en": "to trip (over)",
+  "de": [
+   "stolpern (über)"
+  ],
+  "def": "a journey to a place and back again",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-while-eae654",
+  "unit": "U3",
+  "sub": "",
+  "en": "while",
+  "de": [
+   "während"
+  ],
+  "def": "during the time that",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-lie-lay-lain-4cf23c",
+  "unit": "U3",
+  "sub": "",
+  "en": "to lie, lay, lain",
+  "de": [
+   "liegen"
+  ],
+  "def": "to say something that is not true",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-goalkeeper-641304",
+  "unit": "U3",
+  "sub": "",
+  "en": "goalkeeper",
+  "de": [
+   "Torwart/-in"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-count-676fce",
+  "unit": "U3",
+  "sub": "",
+  "en": "to count",
+  "de": [
+   "zählen"
+  ],
+  "def": "to count; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-police-officer-4d2986",
+  "unit": "U3",
+  "sub": "",
+  "en": "police officer",
+  "de": [
+   "Polizeibeamter/Polizeibeamtin",
+   "Polizist/-in"
+  ],
+  "def": "the organisation that keeps law and order",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-wife-wives-9e3c95",
+  "unit": "U3",
+  "sub": "",
+  "en": "wife, wives",
+  "de": [
+   "Ehefrau"
+  ],
+  "def": "a married woman",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-fall-down-7b9b72",
+  "unit": "U3",
+  "sub": "",
+  "en": "to fall down",
+  "de": [
+   "stürzen",
+   "hinunterfallen"
+  ],
+  "def": "to move downward quickly",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-properly-1915fd",
+  "unit": "U3",
+  "sub": "",
+  "en": "properly",
+  "de": [
+   "richtig ordentlich",
+   "angemessen"
+  ],
+  "def": "in the correct way",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-busk-5236d1",
+  "unit": "U3",
+  "sub": "",
+  "en": "to busk",
+  "de": [
+   "Straßenmusik machen"
+  ],
+  "def": "to busk; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-get-ready-bf82bc",
+  "unit": "U3",
+  "sub": "",
+  "en": "to get ready",
+  "de": [
+   "sich vorbereiten",
+   "sich fertig machen"
+  ],
+  "def": "prepared for something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-busking-a65dfd",
+  "unit": "U3",
+  "sub": "",
+  "en": "busking",
+  "de": [
+   "Straßenmusik-"
+  ],
+  "def": "playing music in the street for money",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-fiddle-4a48ca",
+  "unit": "U3",
+  "sub": "",
+  "en": "fiddle",
+  "de": [
+   "Geige"
+  ],
+  "def": "an informal word for a violin",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-blazer-117ec4",
+  "unit": "U3",
+  "sub": "",
+  "en": "blazer",
+  "de": [
+   "Blazer",
+   "Jackett"
+  ],
+  "def": "a type of formal jacket",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-hoodie-e0835b",
+  "unit": "U3",
+  "sub": "",
+  "en": "hoodie",
+  "de": [
+   "Kapuzenpulli"
+  ],
+  "def": "a jacket or top with a hood",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-course-599220",
+  "unit": "U3",
+  "sub": "",
+  "en": "course",
+  "de": [
+   "Kurs"
+  ],
+  "def": "a series of lessons; a part of a meal",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-pack-9c596c",
+  "unit": "U3",
+  "sub": "",
+  "en": "to pack",
+  "de": [
+   "packen",
+   "einpacken"
+  ],
+  "def": "to pack; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-sense-7de6a1",
+  "unit": "U3",
+  "sub": "",
+  "en": "sense",
+  "de": [
+   "Sinn"
+  ],
+  "def": "one of the five abilities (sight, hearing, etc.); good judgment",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-curious-5357da",
+  "unit": "U3",
+  "sub": "",
+  "en": "curious",
+  "de": [
+   "neugierig"
+  ],
+  "def": "wanting to learn or know more",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-influence-ac2978",
+  "unit": "U3",
+  "sub": "",
+  "en": "influence",
+  "de": [
+   "Einfluss"
+  ],
+  "def": "to have an effect on how someone thinks",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-piano-9c0dea",
+  "unit": "U3",
+  "sub": "",
+  "en": "piano",
+  "de": [
+   "Klavier",
+   "Piano"
+  ],
+  "def": "a large musical instrument with black and white keys",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-weekly-6e5b22",
+  "unit": "U3",
+  "sub": "",
+  "en": "weekly",
+  "de": [
+   "wöchentlich"
+  ],
+  "def": "a period of seven days",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-several-22410d",
+  "unit": "U3",
+  "sub": "",
+  "en": "several",
+  "de": [
+   "einige",
+   "mehrere",
+   "verschiedene"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-listener-406098",
+  "unit": "U3",
+  "sub": "",
+  "en": "listener",
+  "de": [
+   "Zuhörer/-in"
+  ],
+  "def": "to pay attention to sounds",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-traffic-560f05",
+  "unit": "U3",
+  "sub": "",
+  "en": "traffic",
+  "de": [
+   "Verkehr"
+  ],
+  "def": "vehicles moving on roads",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-caller-f8a9a3",
+  "unit": "U3",
+  "sub": "",
+  "en": "caller",
+  "de": [
+   "Anrufer/-in"
+  ],
+  "def": "to shout, phone, or give a name to someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-giant-24e253",
+  "unit": "U3",
+  "sub": "",
+  "en": "giant",
+  "de": [
+   "Riese/Riesin",
+   "Gigant/-in"
+  ],
+  "def": "extremely large; much bigger than normal",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-county-090cc8",
+  "unit": "U3",
+  "sub": "",
+  "en": "county",
+  "de": [
+   "Grafschaft",
+   "Kreis",
+   "Landkreis"
+  ],
+  "def": "an area of a country with local government",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-civil-rights-e67cac",
+  "unit": "U3",
+  "sub": "",
+  "en": "civil rights",
+  "de": [
+   "Bürgerrechte"
+  ],
+  "def": "the rights of all people to be treated equally",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-united-7d13cb",
+  "unit": "U3",
+  "sub": "",
+  "en": "united",
+  "de": [
+   "vereint",
+   "vereinigt"
+  ],
+  "def": "joined together as one",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-government-56b58c",
+  "unit": "U3",
+  "sub": "",
+  "en": "government",
+  "de": [
+   "Regierung"
+  ],
+  "def": "the group of people who rule a country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-full-of-hate-3690c2",
+  "unit": "U3",
+  "sub": "",
+  "en": "full of hate",
+  "de": [
+   "hasserfüllt"
+  ],
+  "def": "containing as much as possible",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-mural-5c5f86",
+  "unit": "U3",
+  "sub": "",
+  "en": "mural",
+  "de": [
+   "Wandgemälde"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-print-103a3e",
+  "unit": "U3",
+  "sub": "",
+  "en": "to print",
+  "de": [
+   "drucken"
+  ],
+  "def": "to print; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-memory-31cad3",
+  "unit": "U3",
+  "sub": "",
+  "en": "memory",
+  "de": [
+   "Erinnerung",
+   "Gedächtnis"
+  ],
+  "def": "something you remember from the past",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-soldier-c1c829",
+  "unit": "U3",
+  "sub": "",
+  "en": "soldier",
+  "de": [
+   "Soldat/-in"
+  ],
+  "def": "a person in the military",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-demand-d78d22",
+  "unit": "U3",
+  "sub": "",
+  "en": "to demand",
+  "de": [
+   "fordern",
+   "verlangen",
+   "fragen"
+  ],
+  "def": "to ask for something strongly",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-hardly-8ce30f",
+  "unit": "U3",
+  "sub": "",
+  "en": "hardly",
+  "de": [
+   "kaum"
+  ],
+  "def": "almost not; barely",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-be-made-up-of-from-1d72ed",
+  "unit": "U3",
+  "sub": "",
+  "en": "to be made up of/from",
+  "de": [
+   "zusammengesetzt sein aus",
+   "bestehen aus"
+  ],
+  "def": "a common English phrase or expression",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u3-brick-ca9165",
+  "unit": "U3",
+  "sub": "",
+  "en": "brick",
+  "de": [
+   "Ziegelstein",
+   "Backstein"
+  ],
+  "def": "a block of clay used for building",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-link-b271a9",
+  "unit": "U3",
+  "sub": "",
+  "en": "to link",
+  "de": [
+   "verbinden"
+  ],
+  "def": "to connect two things together",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-hang-hung-hung-1bbc28",
+  "unit": "U3",
+  "sub": "",
+  "en": "to hang, hung, hung",
+  "de": [
+   "hängen"
+  ],
+  "def": "to attach something at the top so it is free",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-bang-95f749",
+  "unit": "U3",
+  "sub": "",
+  "en": "to bang",
+  "de": [
+   "schlagen",
+   "knallen"
+  ],
+  "def": "to bang; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-drum-4c54f4",
+  "unit": "U3",
+  "sub": "",
+  "en": "drum",
+  "de": [
+   "Trommel"
+  ],
+  "def": "a musical instrument you hit to make sound",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-shut-shut-shut-6cdad5",
+  "unit": "U3",
+  "sub": "",
+  "en": "to shut, shut, shut",
+  "de": [
+   "zumachen",
+   "schließen"
+  ],
+  "def": "to shut,; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-except-221e34",
+  "unit": "U3",
+  "sub": "",
+  "en": "except",
+  "de": [
+   "außer",
+   "bis auf"
+  ],
+  "def": "not including; other than",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-youth-f7656b",
+  "unit": "U3",
+  "sub": "",
+  "en": "youth",
+  "de": [
+   "männlicher Jugendlicher"
+  ],
+  "def": "the time when you are young; young people",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-recognise-09e2ba",
+  "unit": "U3",
+  "sub": "",
+  "en": "to recognise",
+  "de": [
+   "erkennen",
+   "anerkennen"
+  ],
+  "def": "to know who someone is when you see them",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-streetlight-e29c82",
+  "unit": "U3",
+  "sub": "",
+  "en": "streetlight",
+  "de": [
+   "Straßenlampe"
+  ],
+  "def": "a light on a tall pole beside a road",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-stranger-264aa9",
+  "unit": "U3",
+  "sub": "",
+  "en": "stranger",
+  "de": [
+   "Fremde/-r"
+  ],
+  "def": "a person you do not know",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-pot-bb5587",
+  "unit": "U3",
+  "sub": "",
+  "en": "pot",
+  "de": [
+   "Topf"
+  ],
+  "def": "a round container used for cooking or plants",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-paint-34d67b",
+  "unit": "U3",
+  "sub": "",
+  "en": "paint",
+  "de": [
+   "Farbe"
+  ],
+  "def": "to put colour on a surface with a brush",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-tip-over-78e340",
+  "unit": "U3",
+  "sub": "",
+  "en": "to tip over",
+  "de": [
+   "umkippen"
+  ],
+  "def": "above or across something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-pavement-cc3a3f",
+  "unit": "U3",
+  "sub": "",
+  "en": "pavement",
+  "de": [
+   "Bürgersteig"
+  ],
+  "def": "the hard surface beside a road for walking",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-slip-a394e8",
+  "unit": "U3",
+  "sub": "",
+  "en": "to slip",
+  "de": [
+   "rutschen",
+   "ausrutschen"
+  ],
+  "def": "to slip; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-runner-2d834e",
+  "unit": "U3",
+  "sub": "",
+  "en": "runner",
+  "de": [
+   "Läufer/-in"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-speed-30b62e",
+  "unit": "U3",
+  "sub": "",
+  "en": "speed",
+  "de": [
+   "Geschwindigkeit"
+  ],
+  "def": "how fast something moves",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-rise-rose-risen-b16f1e",
+  "unit": "U3",
+  "sub": "",
+  "en": "to rise, rose, risen",
+  "de": [
+   "sich erheben",
+   "aufstehen"
+  ],
+  "def": "to rise,; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-run-d71914",
+  "unit": "U3",
+  "sub": "",
+  "en": "run",
+  "de": [
+   "Rennen",
+   "Lauf"
+  ],
+  "def": "to move quickly using your legs",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-pope-e6e236",
+  "unit": "U3",
+  "sub": "",
+  "en": "pope",
+  "de": [
+   "Papst"
+  ],
+  "def": "the head of the Roman Catholic Church",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-hers-439206",
+  "unit": "U3",
+  "sub": "",
+  "en": "hers",
+  "de": [
+   "ihre/-r/-s"
+  ],
+  "def": "something that belongs to her",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-footstep-af278d",
+  "unit": "U3",
+  "sub": "",
+  "en": "footstep",
+  "de": [
+   "Schritt"
+  ],
+  "def": "the sound of a foot stepping",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-beat-sb-up-beat-sb-up-beaten-sb-up-0e5163",
+  "unit": "U3",
+  "sub": "",
+  "en": "to beat sb up, beat sb up, beaten sb up",
+  "de": [
+   "jmdn. zusammenschlagen"
+  ],
+  "def": "a common English phrase or expression",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u3-to-jog-7ad724",
+  "unit": "U3",
+  "sub": "",
+  "en": "to jog",
+  "de": [
+   "joggen"
+  ],
+  "def": "to jog; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-off-345848",
+  "unit": "U3",
+  "sub": "",
+  "en": "off",
+  "de": [
+   "von... weg/herunter"
+  ],
+  "def": "away from; not on",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-hurry-1a525d",
+  "unit": "U3",
+  "sub": "",
+  "en": "hurry",
+  "de": [
+   "Eile",
+   "Hast"
+  ],
+  "def": "to move or act quickly",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-jail-b9ded7",
+  "unit": "U3",
+  "sub": "",
+  "en": "jail",
+  "de": [
+   "Gefängnis"
+  ],
+  "def": "a place where criminals are kept; prison",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-be-ashamed-of-592e3d",
+  "unit": "U3",
+  "sub": "",
+  "en": "to be ashamed of",
+  "de": [
+   "sich schämen für/wegen"
+  ],
+  "def": "to be; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-turn-to-02b205",
+  "unit": "U3",
+  "sub": "",
+  "en": "to turn to",
+  "de": [
+   "sich wenden an",
+   "sich jmdm. zuwenden"
+  ],
+  "def": "to turn; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-immigration-13c125",
+  "unit": "U3",
+  "sub": "",
+  "en": "immigration",
+  "de": [
+   "Immigration",
+   "Einwanderung",
+   "Einreise"
+  ],
+  "def": "moving to live in a new country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-wide-671de4",
+  "unit": "U3",
+  "sub": "",
+  "en": "wide",
+  "de": [
+   "breit, weit, ausgedehnt"
+  ],
+  "def": "having a large distance from side to side",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-saint-f22ceb",
+  "unit": "U3",
+  "sub": "",
+  "en": "saint",
+  "de": [
+   "Heilige/-r"
+  ],
+  "def": "a very holy person recognised by a church",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-bury-df3ae6",
+  "unit": "U3",
+  "sub": "",
+  "en": "to bury",
+  "de": [
+   "begraben",
+   "beerdigen"
+  ],
+  "def": "to bury; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-get-out-of-13740d",
+  "unit": "U3",
+  "sub": "",
+  "en": "to get out (of)",
+  "de": [
+   "aussteigen",
+   "herauskommen aus"
+  ],
+  "def": "to receive, obtain, or become something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-bark-99722a",
+  "unit": "U3",
+  "sub": "",
+  "en": "to bark",
+  "de": [
+   "bellen"
+  ],
+  "def": "to bark; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-college-8370d6",
+  "unit": "U3",
+  "sub": "",
+  "en": "college",
+  "de": [
+   "College",
+   "Institut"
+  ],
+  "def": "a place for education after school",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u3-to-ruin-7ac651",
+  "unit": "U3",
+  "sub": "",
+  "en": "to ruin",
+  "de": [
+   "ruinieren",
+   "zerstören"
+  ],
+  "def": "to ruin; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-factual-bbce6a",
+  "unit": "TS2",
+  "sub": "",
+  "en": "factual",
+  "de": [
+   "sachlich",
+   "Sach-"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-contain-433ff4",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to contain",
+  "de": [
+   "enthalten"
+  ],
+  "def": "to contain; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-coach-8de102",
+  "unit": "TS2",
+  "sub": "",
+  "en": "coach",
+  "de": [
+   "hier: Wagen (Zug)",
+   "Waggon"
+  ],
+  "def": "a person who trains a sports team",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-leave-behind-326e26",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to leave behind",
+  "de": [
+   "zurücklassen"
+  ],
+  "def": "at the back of something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-apologise-8a91dd",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to apologise",
+  "de": [
+   "sich entschuldigen"
+  ],
+  "def": "to say you are sorry for something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-teenage-b95017",
+  "unit": "TS2",
+  "sub": "",
+  "en": "teenage",
+  "de": [
+   "jugendlich, Jugend-"
+  ],
+  "def": "relating to people aged 13 to 19",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-admit-b8b278",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to admit",
+  "de": [
+   "zugeben",
+   "einräumen"
+  ],
+  "def": "to admit; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-pupil-d35e7c",
+  "unit": "TS2",
+  "sub": "",
+  "en": "pupil",
+  "de": [
+   "Schüler/-in"
+  ],
+  "def": "a student in a school",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-field-trip-d02cd3",
+  "unit": "TS2",
+  "sub": "",
+  "en": "field trip",
+  "de": [
+   "Schulausflug",
+   "Exkursion"
+  ],
+  "def": "an open area of land, often used for farming",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-cookbook-c784fe",
+  "unit": "TS2",
+  "sub": "",
+  "en": "cookbook",
+  "de": [
+   "Kochbuch"
+  ],
+  "def": "a book containing recipes for cooking",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-frequently-97de64",
+  "unit": "TS2",
+  "sub": "",
+  "en": "frequently",
+  "de": [
+   "häufig"
+  ],
+  "def": "happening often",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-instruction-manual-fddc69",
+  "unit": "TS2",
+  "sub": "",
+  "en": "instruction manual",
+  "de": [
+   "Handbuch",
+   "Gebrauchsanweisung"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-get-sunburnt-dc60e9",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to get sunburnt",
+  "de": [
+   "einen Sonnenbrand bekommen"
+  ],
+  "def": "to receive, obtain, or become something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-thigh-418cf4",
+  "unit": "TS2",
+  "sub": "",
+  "en": "thigh",
+  "de": [
+   "Oberschenkel"
+  ],
+  "def": "the upper part of your leg",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-toe-9115bd",
+  "unit": "TS2",
+  "sub": "",
+  "en": "toe",
+  "de": [
+   "Zeh"
+  ],
+  "def": "one of the five parts at the end of your foot",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-hospital-90f6cb",
+  "unit": "TS2",
+  "sub": "",
+  "en": "hospital",
+  "de": [
+   "Krankenhaus"
+  ],
+  "def": "a place where sick people are treated",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-pain-0d5566",
+  "unit": "TS2",
+  "sub": "",
+  "en": "pain",
+  "de": [
+   "Schmerz"
+  ],
+  "def": "the feeling when your body hurts",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-skin-2b3781",
+  "unit": "TS2",
+  "sub": "",
+  "en": "skin",
+  "de": [
+   "Haut"
+  ],
+  "def": "the outer covering of your body",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-be-unable-to-do-sth-87d8d7",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to be unable to do sth",
+  "de": [
+   "unfähig sein, etw. zu tun",
+   "nicht in der Lage sein, etw. zu tun"
+  ],
+  "def": "a common English phrase or expression",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-ts2-to-face-54f3e7",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to face",
+  "de": [
+   "gegenüber stehen, konfrontiert werden mit"
+  ],
+  "def": "the front part of your head",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-report-cc5aee",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to report",
+  "de": [
+   "berichten",
+   "wiedergeben"
+  ],
+  "def": "to tell others about something that happened",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-sunburn-e757f8",
+  "unit": "TS2",
+  "sub": "",
+  "en": "sunburn",
+  "de": [
+   "Sonnenbrand"
+  ],
+  "def": "red painful skin from too much sun",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-commenter-7b2d39",
+  "unit": "TS2",
+  "sub": "",
+  "en": "commenter",
+  "de": [
+   "Kommentierende/-r"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-sunscreen-c45b89",
+  "unit": "TS2",
+  "sub": "",
+  "en": "sunscreen",
+  "de": [
+   "Sonnencreme"
+  ],
+  "def": "cream that protects skin from the sun",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-tank-top-130372",
+  "unit": "TS2",
+  "sub": "",
+  "en": "tank top",
+  "de": [
+   "ärmelloses T-Shirt",
+   "Tanktop"
+  ],
+  "def": "the highest point of something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-lobster-bc9ca8",
+  "unit": "TS2",
+  "sub": "",
+  "en": "lobster",
+  "de": [
+   "Hummer"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-affect-c8ba62",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to affect",
+  "de": [
+   "beeinflussen",
+   "beeinträchtigen, betreffen"
+  ],
+  "def": "to have an influence or effect on something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-across-c5bdde",
+  "unit": "TS2",
+  "sub": "",
+  "en": "across",
+  "de": [
+   "über",
+   "quer über"
+  ],
+  "def": "from one side to the other",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-education-1192d4",
+  "unit": "TS2",
+  "sub": "",
+  "en": "education",
+  "de": [
+   "Erziehung",
+   "Bildung"
+  ],
+  "def": "the process of learning at school",
+  "tags": [
+   "no pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-gorge-walking-0ff5be",
+  "unit": "TS2",
+  "sub": "",
+  "en": "gorge walking",
+  "de": [
+   "Schluchtenwandern"
+  ],
+  "def": "walking through narrow rocky river valleys",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-explore-f86f58",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to explore",
+  "de": [
+   "auf Entdeckungsreise gehen",
+   "sich umschauen",
+   "erkunden",
+   "erforschen"
+  ],
+  "def": "to travel through a place to learn about it",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-otherwise-f6a87b",
+  "unit": "TS2",
+  "sub": "",
+  "en": "otherwise",
+  "de": [
+   "sonst"
+  ],
+  "def": "if not; in a different way",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-pandemic-06b896",
+  "unit": "TS2",
+  "sub": "",
+  "en": "pandemic",
+  "de": [
+   "Pandemie",
+   "Seuche"
+  ],
+  "def": "a disease spreading across the whole world",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-damage-afc5d7",
+  "unit": "TS2",
+  "sub": "",
+  "en": "damage",
+  "de": [
+   "Schaden",
+   "Beschädigung"
+  ],
+  "def": "to harm or break something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-miss-out-on-sth-a351ae",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to miss out on sth",
+  "de": [
+   "etw. verpassen"
+  ],
+  "def": "to feel sad because someone is not there",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-ts2-path-8b03f5",
+  "unit": "TS2",
+  "sub": "",
+  "en": "path",
+  "de": [
+   "Pfad",
+   "Weg"
+  ],
+  "def": "a narrow way for walking",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-wish-ebcc4d",
+  "unit": "TS2",
+  "sub": "",
+  "en": "wish",
+  "de": [
+   "Wunsch"
+  ],
+  "def": "to want something to happen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-expert-d7f297",
+  "unit": "TS2",
+  "sub": "",
+  "en": "expert",
+  "de": [
+   "Experte/Expertin"
+  ],
+  "def": "a person with great knowledge about something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-no-one-b23fa5",
+  "unit": "TS2",
+  "sub": "",
+  "en": "no one",
+  "de": [
+   "niemand"
+  ],
+  "def": "the number 1; a single thing",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-planet-7b1af2",
+  "unit": "TS2",
+  "sub": "",
+  "en": "planet",
+  "de": [
+   "Planet"
+  ],
+  "def": "a large round object orbiting a star",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-relate-to-9a7444",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to relate to",
+  "de": [
+   "eine Beziehung/Zugang finden zu"
+  ],
+  "def": "to relate; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-remind-sb-of-sth-sb-0b00f5",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to remind (sb of sth/sb)",
+  "de": [
+   "(jmdn. an etw./jmdn.) erinnern"
+  ],
+  "def": "a common English phrase or expression",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-ts2-to-crash-into-c671e6",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to crash into",
+  "de": [
+   "zusammenstoßen",
+   "prallen auf"
+  ],
+  "def": "to hit something violently; to stop working suddenly",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-motorway-96d0e2",
+  "unit": "TS2",
+  "sub": "",
+  "en": "motorway",
+  "de": [
+   "Autobahn"
+  ],
+  "def": "a wide road for fast long-distance driving",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-plane-216ce8",
+  "unit": "TS2",
+  "sub": "",
+  "en": "plane",
+  "de": [
+   "Flugzeug"
+  ],
+  "def": "a vehicle with wings that flies through the air",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-include-bfe4d0",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to include",
+  "de": [
+   "einschließen",
+   "beinhalten"
+  ],
+  "def": "to contain as part of something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-to-inform-0a1bf9",
+  "unit": "TS2",
+  "sub": "",
+  "en": "to inform",
+  "de": [
+   "informieren"
+  ],
+  "def": "to tell someone about something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-ts2-necessary-c899d6",
+  "unit": "TS2",
+  "sub": "",
+  "en": "necessary",
+  "de": [
+   "nötig",
+   "notwendig",
+   "erforderlich"
+  ],
+  "def": "needed; that must happen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-expect-e3139d",
+  "unit": "U4",
+  "sub": "",
+  "en": "to expect",
+  "de": [
+   "erwarten"
+  ],
+  "def": "to think something will happen",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-middle-bebad6",
+  "unit": "U4",
+  "sub": "",
+  "en": "middle",
+  "de": [
+   "Mitte"
+  ],
+  "def": "the centre point between two ends",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-chicken-tikka-masala-5542be",
+  "unit": "U4",
+  "sub": "",
+  "en": "chicken tikka masala",
+  "de": [
+   "indisches Hühnchengericht"
+  ],
+  "def": "a popular curry dish with chicken in spicy sauce",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-used-to-infinitive-939a65",
+  "unit": "U4",
+  "sub": "",
+  "en": "used to (+ infinitive)",
+  "de": [
+   "pflegte(n) zu",
+   "tat(en) früher"
+  ],
+  "def": "describing something that happened regularly in the past",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-embarrassed-b2c6ba",
+  "unit": "U4",
+  "sub": "",
+  "en": "embarrassed",
+  "de": [
+   "verlegen"
+  ],
+  "def": "feeling shy or ashamed in front of others",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-empire-20e9ac",
+  "unit": "U4",
+  "sub": "",
+  "en": "empire",
+  "de": [
+   "Reich",
+   "Kaiserreich"
+  ],
+  "def": "a group of countries ruled by one power",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-colony-299c43",
+  "unit": "U4",
+  "sub": "",
+  "en": "colony",
+  "de": [
+   "Kolonie"
+  ],
+  "def": "a country controlled by another country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-exploit-e770c1",
+  "unit": "U4",
+  "sub": "",
+  "en": "to exploit",
+  "de": [
+   "ausbeuten"
+  ],
+  "def": "to exploit; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-colonialism-050ef7",
+  "unit": "U4",
+  "sub": "",
+  "en": "colonialism",
+  "de": [
+   "Kolonialismus"
+  ],
+  "def": "one country controlling another country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-overseas-dfc0fd",
+  "unit": "U4",
+  "sub": "",
+  "en": "overseas",
+  "de": [
+   "in Übersee",
+   "im Ausland"
+  ],
+  "def": "in or to countries across the sea",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-advantage-d91d86",
+  "unit": "U4",
+  "sub": "",
+  "en": "advantage",
+  "de": [
+   "Vorteil"
+  ],
+  "def": "something that helps you do better",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-transport-3ac2c8",
+  "unit": "U4",
+  "sub": "",
+  "en": "to transport",
+  "de": [
+   "transportieren, befördern"
+  ],
+  "def": "vehicles for carrying people or goods",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-goods-3314be",
+  "unit": "U4",
+  "sub": "",
+  "en": "goods",
+  "de": [
+   "Güter",
+   "Waren"
+  ],
+  "def": "of a high quality or standard",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-population-1038a7",
+  "unit": "U4",
+  "sub": "",
+  "en": "population",
+  "de": [
+   "Bevölkerung",
+   "Population"
+  ],
+  "def": "the number of people living in an area",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-mixed-82dffe",
+  "unit": "U4",
+  "sub": "",
+  "en": "mixed",
+  "de": [
+   "Bezeichnung für Menschen mit beispielsweise einem Schwarzen"
+  ],
+  "def": "to combine different things together",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-black-black-a0a74c",
+  "unit": "U4",
+  "sub": "",
+  "en": "Black/black",
+  "de": [
+   "Schwarz/schwarz (soziale Kategorie)"
+  ],
+  "def": "relating to people of African descent",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-white-white-c3ba0a",
+  "unit": "U4",
+  "sub": "",
+  "en": "White/white",
+  "de": [
+   "Weiß/weiß (soziale Kategorie)"
+  ],
+  "def": "relating to people of European descent",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-low-f86243",
+  "unit": "U4",
+  "sub": "",
+  "en": "low",
+  "de": [
+   "niedrig"
+  ],
+  "def": "not high; close to the ground",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-attitude-58927a",
+  "unit": "U4",
+  "sub": "",
+  "en": "attitude",
+  "de": [
+   "Haltung",
+   "Einstellung"
+  ],
+  "def": "the way you think or feel about something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-cheerful-dc7288",
+  "unit": "U4",
+  "sub": "",
+  "en": "cheerful",
+  "de": [
+   "fröhlich",
+   "vergnügt",
+   "gut gelaunt"
+  ],
+  "def": "full of cheer",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-lay-the-table-e93a0d",
+  "unit": "U4",
+  "sub": "",
+  "en": "to lay the table",
+  "de": [
+   "den Tisch decken"
+  ],
+  "def": "a flat surface with legs for eating or working",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-inspirational-7ff2c6",
+  "unit": "U4",
+  "sub": "",
+  "en": "inspirational",
+  "de": [
+   "inspirierend",
+   "fähig, andere zu begeistern"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-turn-against-sb-sth-cf2cdf",
+  "unit": "U4",
+  "sub": "",
+  "en": "to turn against sb/sth",
+  "de": [
+   "sich gegen jmdm./etw. wenden"
+  ],
+  "def": "in opposition to; touching",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-racism-b245cd",
+  "unit": "U4",
+  "sub": "",
+  "en": "racism",
+  "de": [
+   "Rassismus"
+  ],
+  "def": "unfair treatment of people because of their race",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-mock-9ba195",
+  "unit": "U4",
+  "sub": "",
+  "en": "to mock",
+  "de": [
+   "verhöhnen",
+   "verspotten"
+  ],
+  "def": "to mock; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-indian-5fed21",
+  "unit": "U4",
+  "sub": "",
+  "en": "Indian",
+  "de": [
+   "indisch",
+   "Inder/-in"
+  ],
+  "def": "relating to India; a native person",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-sympathetic-d1a1d8",
+  "unit": "U4",
+  "sub": "",
+  "en": "sympathetic",
+  "de": [
+   "mitfühlend"
+  ],
+  "def": "showing understanding for others' feelings",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-inspire-6a9cc1",
+  "unit": "U4",
+  "sub": "",
+  "en": "to inspire",
+  "de": [
+   "inspirieren",
+   "anregen"
+  ],
+  "def": "to give someone the desire to do something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-mission-793aed",
+  "unit": "U4",
+  "sub": "",
+  "en": "mission",
+  "de": [
+   "Mission",
+   "Auftrag"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-be-born-8775e5",
+  "unit": "U4",
+  "sub": "",
+  "en": "to be born",
+  "de": [
+   "geboren werden"
+  ],
+  "def": "to be; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-single-4bcb2e",
+  "unit": "U4",
+  "sub": "",
+  "en": "single",
+  "de": [
+   "alleinerziehend"
+  ],
+  "def": "not married; only one",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-tireless-cbf3cc",
+  "unit": "U4",
+  "sub": "",
+  "en": "tireless",
+  "de": [
+   "unermüdlich"
+  ],
+  "def": "without tire",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-receive-64d0cf",
+  "unit": "U4",
+  "sub": "",
+  "en": "to receive",
+  "de": [
+   "empfangen",
+   "erhalten",
+   "bekommen"
+  ],
+  "def": "to get something that is given or sent",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-racist-2b0d7c",
+  "unit": "U4",
+  "sub": "",
+  "en": "racist",
+  "de": [
+   "rassistisch",
+   "Rassist/-in"
+  ],
+  "def": "treating people unfairly because of their race",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-heart-71aeb9",
+  "unit": "U4",
+  "sub": "",
+  "en": "heart",
+  "de": [
+   "Herz"
+  ],
+  "def": "the organ that pumps blood through your body",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-hero-heroes-6e3b86",
+  "unit": "U4",
+  "sub": "",
+  "en": "hero, heroes",
+  "de": [
+   "Held"
+  ],
+  "def": "a person admired for brave or good actions",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-explorer-d6c82e",
+  "unit": "U4",
+  "sub": "",
+  "en": "explorer",
+  "de": [
+   "Forscher/-in",
+   "Forschungsreisende/-r",
+   "Entdecker/-in"
+  ],
+  "def": "to travel through a place to learn about it",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-transatlantic-fe88e8",
+  "unit": "U4",
+  "sub": "",
+  "en": "transatlantic",
+  "de": [
+   "transatlantisch"
+  ],
+  "def": "crossing the Atlantic Ocean",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-slave-b9c616",
+  "unit": "U4",
+  "sub": "",
+  "en": "slave",
+  "de": [
+   "Sklave/Sklavin"
+  ],
+  "def": "a person owned by another person and forced to work",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-trade-46b530",
+  "unit": "U4",
+  "sub": "",
+  "en": "trade",
+  "de": [
+   "Handel"
+  ],
+  "def": "buying and selling goods",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-capture-bb96f9",
+  "unit": "U4",
+  "sub": "",
+  "en": "to capture",
+  "de": [
+   "ergreifen",
+   "einfangen"
+  ],
+  "def": "to capture; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-spanish-5beb6a",
+  "unit": "U4",
+  "sub": "",
+  "en": "Spanish",
+  "de": [
+   "spanisch",
+   "Spanisch",
+   "die Spanierinnen und Spanier"
+  ],
+  "def": "from or relating to Spain",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-leading-06aa70",
+  "unit": "U4",
+  "sub": "",
+  "en": "leading",
+  "de": [
+   "führend"
+  ],
+  "def": "to guide or show the way to others",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-defeat-beee97",
+  "unit": "U4",
+  "sub": "",
+  "en": "to defeat",
+  "de": [
+   "besiegen"
+  ],
+  "def": "to win against someone in a competition",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-warship-c48adc",
+  "unit": "U4",
+  "sub": "",
+  "en": "warship",
+  "de": [
+   "Kriegsschiff"
+  ],
+  "def": "a ship built for fighting in war",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-invade-c7e6bc",
+  "unit": "U4",
+  "sub": "",
+  "en": "to invade",
+  "de": [
+   "einmarschieren (in)",
+   "eindringen (in)",
+   "Überfallen"
+  ],
+  "def": "to invade; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-pirate-9a763f",
+  "unit": "U4",
+  "sub": "",
+  "en": "pirate",
+  "de": [
+   "Pirat/-in",
+   "Seeräuber/-in"
+  ],
+  "def": "a person who attacks and robs ships at sea",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-knight-e8f6bc",
+  "unit": "U4",
+  "sub": "",
+  "en": "knight",
+  "de": [
+   "Ritter"
+  ],
+  "def": "a man given a special title for bravery",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-engineer-23b539",
+  "unit": "U4",
+  "sub": "",
+  "en": "engineer",
+  "de": [
+   "Ingenieur/-in",
+   "Techniker/-in"
+  ],
+  "def": "a machine that produces power to move something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-inventor-f7eca6",
+  "unit": "U4",
+  "sub": "",
+  "en": "inventor",
+  "de": [
+   "Erfinder/-in"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-railway-53959b",
+  "unit": "U4",
+  "sub": "",
+  "en": "railway",
+  "de": [
+   "Eisenbahn"
+  ],
+  "def": "a track for trains; the system of train travel",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-engine-229d44",
+  "unit": "U4",
+  "sub": "",
+  "en": "engine",
+  "de": [
+   "Motor"
+  ],
+  "def": "a machine that produces power to move something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-locomotive-d00e5b",
+  "unit": "U4",
+  "sub": "",
+  "en": "locomotive",
+  "de": [
+   "Lokomotive"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-invention-2e8fdc",
+  "unit": "U4",
+  "sub": "",
+  "en": "invention",
+  "de": [
+   "Erfindung"
+  ],
+  "def": "a new device or method created by someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-anti-1cf53c",
+  "unit": "U4",
+  "sub": "",
+  "en": "anti-",
+  "de": [
+   "un-",
+   "anti-"
+  ],
+  "def": "a prefix meaning against or opposite",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-slavery-2d6a1b",
+  "unit": "U4",
+  "sub": "",
+  "en": "slavery",
+  "de": [
+   "Sklaverei"
+  ],
+  "def": "the practice of owning people as property",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-publish-e9cb8d",
+  "unit": "U4",
+  "sub": "",
+  "en": "to publish",
+  "de": [
+   "veröffentlichen",
+   "publizieren, verlegen"
+  ],
+  "def": "to make a book or article available to read",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-campaign-6ae852",
+  "unit": "U4",
+  "sub": "",
+  "en": "campaign",
+  "de": [
+   "Kampagne",
+   "Aktion"
+  ],
+  "def": "organized actions to achieve a goal",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-abolish-e81122",
+  "unit": "U4",
+  "sub": "",
+  "en": "to abolish",
+  "de": [
+   "abschaffen"
+  ],
+  "def": "to abolish; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-controversial-b6cc13",
+  "unit": "U4",
+  "sub": "",
+  "en": "controversial",
+  "de": [
+   "umstritten",
+   "kontrovers"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-protest-89781c",
+  "unit": "U4",
+  "sub": "",
+  "en": "protest",
+  "de": [
+   "Protest"
+  ],
+  "def": "a public action to show disagreement",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-pull-down-22b4c1",
+  "unit": "U4",
+  "sub": "",
+  "en": "to pull down",
+  "de": [
+   "abreißen"
+  ],
+  "def": "to use force to move something towards you",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-protester-09ad2e",
+  "unit": "U4",
+  "sub": "",
+  "en": "protester",
+  "de": [
+   "Protestierende/-r",
+   "Demonstrant/-in"
+  ],
+  "def": "a public action to show disagreement",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-remove-c92f27",
+  "unit": "U4",
+  "sub": "",
+  "en": "to remove",
+  "de": [
+   "entfernen",
+   "abreißen"
+  ],
+  "def": "to take something away from its place",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-past-842f10",
+  "unit": "U4",
+  "sub": "",
+  "en": "past",
+  "de": [
+   "letzte/-r/-s",
+   "vergangene/-r/-s"
+  ],
+  "def": "the time before now",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-rewrite-fc66f8",
+  "unit": "U4",
+  "sub": "",
+  "en": "to rewrite",
+  "de": [
+   "umschreiben",
+   "neu schreiben"
+  ],
+  "def": "to rewrite; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-belief-63a5fd",
+  "unit": "U4",
+  "sub": "",
+  "en": "belief",
+  "de": [
+   "Glaube",
+   "Überzeugung"
+  ],
+  "def": "something you think is true; a religious faith",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-jewel-400bec",
+  "unit": "U4",
+  "sub": "",
+  "en": "jewel",
+  "de": [
+   "Juwel, Edelstein"
+  ],
+  "def": "a precious stone like a diamond or ruby",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-immigrant-82224e",
+  "unit": "U4",
+  "sub": "",
+  "en": "immigrant",
+  "de": [
+   "Immigrant/-in",
+   "Einwanderer/-in"
+  ],
+  "def": "a person who moves to live in another country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-ours-d897f6",
+  "unit": "U4",
+  "sub": "",
+  "en": "ours",
+  "de": [
+   "unser/-er/-e/-es"
+  ],
+  "def": "something that belongs to us",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-textile-4310ac",
+  "unit": "U4",
+  "sub": "",
+  "en": "textile",
+  "de": [
+   "Stoff, Gewebe"
+  ],
+  "def": "cloth or fabric made by weaving",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-develop-a99bfb",
+  "unit": "U4",
+  "sub": "",
+  "en": "to develop",
+  "de": [
+   "(sich) entwickeln"
+  ],
+  "def": "to grow or change over time",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-machine-f5e0f6",
+  "unit": "U4",
+  "sub": "",
+  "en": "machine",
+  "de": [
+   "Automat",
+   "Maschine",
+   "Apparat",
+   "Gerät"
+  ],
+  "def": "a device with moving parts that does work",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-rule-7907e6",
+  "unit": "U4",
+  "sub": "",
+  "en": "rule",
+  "de": [
+   "Herrschaft"
+  ],
+  "def": "an instruction about what you must do",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-raw-material-b904ba",
+  "unit": "U4",
+  "sub": "",
+  "en": "raw material",
+  "de": [
+   "Rohstoff",
+   "Rohmaterial"
+  ],
+  "def": "what something is made of",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-material-5a4ee7",
+  "unit": "U4",
+  "sub": "",
+  "en": "material",
+  "de": [
+   "Material",
+   "Stoff"
+  ],
+  "def": "what something is made of",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-industrial-e6f476",
+  "unit": "U4",
+  "sub": "",
+  "en": "industrial",
+  "de": [
+   "industriell",
+   "Industrie-"
+  ],
+  "def": "relating to factories and manufacturing",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-run-ae0ddf",
+  "unit": "U4",
+  "sub": "",
+  "en": "to run",
+  "de": [
+   "betreiben",
+   "leiten",
+   "führen"
+  ],
+  "def": "to move quickly using your legs",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-generation-42122e",
+  "unit": "U4",
+  "sub": "",
+  "en": "generation",
+  "de": [
+   "Generation"
+  ],
+  "def": "all people born around the same time",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-survive-3444b5",
+  "unit": "U4",
+  "sub": "",
+  "en": "to survive",
+  "de": [
+   "Überleben"
+  ],
+  "def": "to continue to live through difficulty",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-force-6f802b",
+  "unit": "U4",
+  "sub": "",
+  "en": "to force",
+  "de": [
+   "zwingen"
+  ],
+  "def": "to make someone do something they don't want",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-pros-and-cons-aa5d13",
+  "unit": "U4",
+  "sub": "",
+  "en": "pros and cons",
+  "de": [
+   "Argumente für und gegen etw.",
+   "Pro und Kontra"
+  ],
+  "def": "used to connect words or ideas together",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-belongings-42caa7",
+  "unit": "U4",
+  "sub": "",
+  "en": "belongings",
+  "de": [
+   "Habseligkeiten",
+   "Hab und Gut"
+  ],
+  "def": "the things that belong to you",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-electricity-94f987",
+  "unit": "U4",
+  "sub": "",
+  "en": "electricity",
+  "de": [
+   "Elektrizität, Strom"
+  ],
+  "def": "a form of energy used to power machines",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-extremely-dd2a06",
+  "unit": "U4",
+  "sub": "",
+  "en": "extremely",
+  "de": [
+   "extrem",
+   "äußerst",
+   "sehr"
+  ],
+  "def": "to a very great degree",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-grandfather-821bd4",
+  "unit": "U4",
+  "sub": "",
+  "en": "grandfather",
+  "de": [
+   "Großvater"
+  ],
+  "def": "your parent's father",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-banker-83b74e",
+  "unit": "U4",
+  "sub": "",
+  "en": "banker",
+  "de": [
+   "Banker/-in"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-servant-6c4b77",
+  "unit": "U4",
+  "sub": "",
+  "en": "servant",
+  "de": [
+   "Diener/-in",
+   "Bedienstete/-r"
+  ],
+  "def": "a person who works in someone's house",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-law-ef1ea0",
+  "unit": "U4",
+  "sub": "",
+  "en": "law",
+  "de": [
+   "Gesetz",
+   "Recht"
+  ],
+  "def": "a rule made by the government that must be followed",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-carriage-531d89",
+  "unit": "U4",
+  "sub": "",
+  "en": "carriage",
+  "de": [
+   "Wagen",
+   "Wagon (historisch)"
+  ],
+  "def": "a vehicle pulled by horses; a train car",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-beat-beat-beaten-51c43a",
+  "unit": "U4",
+  "sub": "",
+  "en": "to beat, beat, beaten",
+  "de": [
+   "schlagen",
+   "besiegen"
+  ],
+  "def": "to beat,; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-opposite-335174",
+  "unit": "U4",
+  "sub": "",
+  "en": "opposite",
+  "de": [
+   "gegenteilig",
+   "entgegengesetzt"
+  ],
+  "def": "completely different; facing something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-migration-478daa",
+  "unit": "U4",
+  "sub": "",
+  "en": "migration",
+  "de": [
+   "Migration",
+   "Wanderung"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-walk-57ce64",
+  "unit": "U4",
+  "sub": "",
+  "en": "walk",
+  "de": [
+   "Spaziergang",
+   "Gang"
+  ],
+  "def": "to move on foot at a normal speed",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-suitcase-69f764",
+  "unit": "U4",
+  "sub": "",
+  "en": "suitcase",
+  "de": [
+   "Koffer"
+  ],
+  "def": "a bag with a handle for carrying clothes when travelling",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-jewish-eb4217",
+  "unit": "U4",
+  "sub": "",
+  "en": "Jewish",
+  "de": [
+   "jüdisch"
+  ],
+  "def": "relating to the religion or culture of Judaism",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-wood-c8797a",
+  "unit": "U4",
+  "sub": "",
+  "en": "wood",
+  "de": [
+   "Holz"
+  ],
+  "def": "the material from trees; a small forest",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-leather-d7a57a",
+  "unit": "U4",
+  "sub": "",
+  "en": "leather",
+  "de": [
+   "Leder"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-jew-351672",
+  "unit": "U4",
+  "sub": "",
+  "en": "Jew",
+  "de": [
+   "Jude/Jüdin"
+  ],
+  "def": "a person of Jewish faith or culture",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-synagogue-53b749",
+  "unit": "U4",
+  "sub": "",
+  "en": "synagogue",
+  "de": [
+   "Synagoge"
+  ],
+  "def": "a Jewish place of worship",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-label-341e12",
+  "unit": "U4",
+  "sub": "",
+  "en": "label",
+  "de": [
+   "Etikett",
+   "Beschriftung"
+  ],
+  "def": "a small piece of paper with information on it",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-russian-f2fbc1",
+  "unit": "U4",
+  "sub": "",
+  "en": "Russian",
+  "de": [
+   "Russe/Russin",
+   "russisch",
+   "Russisch"
+  ],
+  "def": "from or relating to Russia",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-vendor-c2cb46",
+  "unit": "U4",
+  "sub": "",
+  "en": "vendor",
+  "de": [
+   "Verkäufer/-in"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-well-paid-7f1ee9",
+  "unit": "U4",
+  "sub": "",
+  "en": "well-paid",
+  "de": [
+   "gut bezahlt"
+  ],
+  "def": "earning a good amount of money",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-nationality-1a921a",
+  "unit": "U4",
+  "sub": "",
+  "en": "nationality",
+  "de": [
+   "Nationalität",
+   "Staatsangehörigkeit"
+  ],
+  "def": "the country someone belongs to",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-career-9d9631",
+  "unit": "U4",
+  "sub": "",
+  "en": "career",
+  "de": [
+   "Beruf",
+   "Laufbahn",
+   "Karriere"
+  ],
+  "def": "to feel that something matters or look after",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-grow-grew-grown-cc1c36",
+  "unit": "U4",
+  "sub": "",
+  "en": "to grow, grew, grown",
+  "de": [
+   "anbauen",
+   "züchten"
+  ],
+  "def": "to become bigger or increase in size",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-trade-33b839",
+  "unit": "U4",
+  "sub": "",
+  "en": "to trade",
+  "de": [
+   "handeln",
+   "Handel treiben"
+  ],
+  "def": "buying and selling goods",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-pass-on-3ffeda",
+  "unit": "U4",
+  "sub": "",
+  "en": "to pass on",
+  "de": [
+   "weitergeben"
+  ],
+  "def": "to go by or hand something to someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-knowledge-24cd75",
+  "unit": "U4",
+  "sub": "",
+  "en": "knowledge",
+  "de": [
+   "Wissen",
+   "Kenntnisse"
+  ],
+  "def": "information and understanding you have learned",
+  "tags": [
+   "no pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-point-of-view-c66fb7",
+  "unit": "U4",
+  "sub": "",
+  "en": "point of view",
+  "de": [
+   "Standpunkt, Ansicht",
+   "Perspektive"
+  ],
+  "def": "to show where something is with your finger",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-african-b8cf2b",
+  "unit": "U4",
+  "sub": "",
+  "en": "African",
+  "de": [
+   "Afrikaner/-in",
+   "afrikanisch"
+  ],
+  "def": "from or relating to Africa",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-force-688e89",
+  "unit": "U4",
+  "sub": "",
+  "en": "force",
+  "de": [
+   "Kraft, Macht, Gewalt"
+  ],
+  "def": "to make someone do something they don't want",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-chew-b48c98",
+  "unit": "U4",
+  "sub": "",
+  "en": "to chew",
+  "de": [
+   "kauen"
+  ],
+  "def": "to chew; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-plantation-ea7b50",
+  "unit": "U4",
+  "sub": "",
+  "en": "plantation",
+  "de": [
+   "Plantage"
+  ],
+  "def": "the process or result of an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-tooth-teeth-c51002",
+  "unit": "U4",
+  "sub": "",
+  "en": "tooth, teeth",
+  "de": [
+   "Zahn"
+  ],
+  "def": "one of the hard white parts in your mouth",
+  "tags": [
+   "pl"
+  ],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-port-e3041b",
+  "unit": "U4",
+  "sub": "",
+  "en": "port",
+  "de": [
+   "Hafen"
+  ],
+  "def": "a town with a harbour for ships",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-sail-7f0742",
+  "unit": "U4",
+  "sub": "",
+  "en": "to sail",
+  "de": [
+   "segeln",
+   "umsegeln"
+  ],
+  "def": "to sail; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-descend-from-919920",
+  "unit": "U4",
+  "sub": "",
+  "en": "to descend from",
+  "de": [
+   "abstammen von",
+   "herstammen von"
+  ],
+  "def": "starting at a particular place or time",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-route-d35915",
+  "unit": "U4",
+  "sub": "",
+  "en": "route",
+  "de": [
+   "Strecke",
+   "Route"
+  ],
+  "def": "the way you travel from one place to another",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-on-715a38",
+  "unit": "U4",
+  "sub": "",
+  "en": "on",
+  "de": [
+   "weiter"
+  ],
+  "def": "resting on a surface; about",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-rebuild-rebuilt-rebuilt-a70d22",
+  "unit": "U4",
+  "sub": "",
+  "en": "to rebuild, rebuilt, rebuilt",
+  "de": [
+   "wieder aufbauen"
+  ],
+  "def": "to rebuild,; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-citizen-e282cb",
+  "unit": "U4",
+  "sub": "",
+  "en": "citizen",
+  "de": [
+   "Bürger/-in"
+  ],
+  "def": "a person who belongs to a particular country",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-resist-b48d3c",
+  "unit": "U4",
+  "sub": "",
+  "en": "to resist",
+  "de": [
+   "widerstehen",
+   "sich widersetzen"
+  ],
+  "def": "to fight against or refuse to accept",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-fork-4b4373",
+  "unit": "U4",
+  "sub": "",
+  "en": "fork",
+  "de": [
+   "Gabel"
+  ],
+  "def": "a tool with points for picking up food",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-change-one-s-mind-f532a3",
+  "unit": "U4",
+  "sub": "",
+  "en": "to change one's mind",
+  "de": [
+   "seine Meinung ändern"
+  ],
+  "def": "to become different or make something different",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-act-a70b32",
+  "unit": "U4",
+  "sub": "",
+  "en": "to act",
+  "de": [
+   "sich verhalten",
+   "handeln"
+  ],
+  "def": "to act; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-announce-4ed300",
+  "unit": "U4",
+  "sub": "",
+  "en": "to announce",
+  "de": [
+   "ankündigen",
+   "durchsagen",
+   "verkünden"
+  ],
+  "def": "to tell people about something publicly",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-cabin-e4d990",
+  "unit": "U4",
+  "sub": "",
+  "en": "cabin",
+  "de": [
+   "Kabine"
+  ],
+  "def": "a small wooden house; a room on a ship",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-get-dressed-01417b",
+  "unit": "U4",
+  "sub": "",
+  "en": "to get dressed",
+  "de": [
+   "sich anziehen"
+  ],
+  "def": "to receive, obtain, or become something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-occasion-0b5fe1",
+  "unit": "U4",
+  "sub": "",
+  "en": "occasion",
+  "de": [
+   "Gelegenheit, Anlass",
+   "Ereignis"
+  ],
+  "def": "a special event or time",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-wait-in-line-97ee8e",
+  "unit": "U4",
+  "sub": "",
+  "en": "to wait in line",
+  "de": [
+   "anstehen",
+   "Schlange stehen"
+  ],
+  "def": "to stay until something happens",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-for-2437b8",
+  "unit": "U4",
+  "sub": "",
+  "en": "for....",
+  "de": [
+   "lang"
+  ],
+  "def": "intended to be given to; because of",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u4-cold-b216bd",
+  "unit": "U4",
+  "sub": "",
+  "en": "cold",
+  "de": [
+   "Kälte"
+  ],
+  "def": "having a low temperature",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-freezing-833e57",
+  "unit": "U4",
+  "sub": "",
+  "en": "freezing",
+  "de": [
+   "eiskalt"
+  ],
+  "def": "extremely cold",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-sharp-1df603",
+  "unit": "U4",
+  "sub": "",
+  "en": "sharp",
+  "de": [
+   "scharf",
+   "schneidend"
+  ],
+  "def": "having a thin edge that can cut",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-wrap-8df99b",
+  "unit": "U4",
+  "sub": "",
+  "en": "to wrap",
+  "de": [
+   "einwickeln",
+   "einpacken"
+  ],
+  "def": "to cover something with paper or cloth",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-approach-f7242e",
+  "unit": "U4",
+  "sub": "",
+  "en": "to approach",
+  "de": [
+   "sich nähern"
+  ],
+  "def": "to come closer to someone or something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-respectful-8f0b04",
+  "unit": "U4",
+  "sub": "",
+  "en": "respectful",
+  "de": [
+   "respektvoll"
+  ],
+  "def": "to admire someone for their qualities",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-husband-96301c",
+  "unit": "U4",
+  "sub": "",
+  "en": "husband",
+  "de": [
+   "Ehemann"
+  ],
+  "def": "a married man",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-sir-d84933",
+  "unit": "U4",
+  "sub": "",
+  "en": "sir",
+  "de": [
+   "mein Herr (Anrede)"
+  ],
+  "def": "a polite way to address a man",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-factory-113749",
+  "unit": "U4",
+  "sub": "",
+  "en": "factory",
+  "de": [
+   "Fabrik",
+   "Werk"
+  ],
+  "def": "a building where things are made by machines",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-smoke-4ee2f6",
+  "unit": "U4",
+  "sub": "",
+  "en": "smoke",
+  "de": [
+   "Rauch"
+  ],
+  "def": "the grey cloud produced by fire",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-chimney-a7bfbe",
+  "unit": "U4",
+  "sub": "",
+  "en": "chimney",
+  "de": [
+   "Kamin",
+   "Schornstein"
+  ],
+  "def": "a structure on a roof for smoke to escape",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-upset-upset-upset-6cf254",
+  "unit": "U4",
+  "sub": "",
+  "en": "to upset, upset, upset",
+  "de": [
+   "aus der Fassung bringen"
+  ],
+  "def": "feeling unhappy or worried about something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-roar-566057",
+  "unit": "U4",
+  "sub": "",
+  "en": "to roar",
+  "de": [
+   "brüllen",
+   "dröhnen",
+   "rauschen"
+  ],
+  "def": "to roar; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-counter-a6bd8c",
+  "unit": "U4",
+  "sub": "",
+  "en": "counter",
+  "de": [
+   "Theke",
+   "Tresen",
+   "Schalter"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-shopkeeper-1340d9",
+  "unit": "U4",
+  "sub": "",
+  "en": "shopkeeper",
+  "de": [
+   "Ladeninhaber/-in"
+  ],
+  "def": "a person or thing that does something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-apply-for-6e91ac",
+  "unit": "U4",
+  "sub": "",
+  "en": "to apply (for)",
+  "de": [
+   "sich bewerben (um)",
+   "beantragen"
+  ],
+  "def": "to ask officially for a job or place",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-border-8630a9",
+  "unit": "U4",
+  "sub": "",
+  "en": "border",
+  "de": [
+   "Grenze"
+  ],
+  "def": "the line between two countries or areas",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-officer-dabefc",
+  "unit": "U4",
+  "sub": "",
+  "en": "officer",
+  "de": [
+   "Beamter/Beamtin"
+  ],
+  "def": "a room where people work at desks",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-arrest-131f6e",
+  "unit": "U4",
+  "sub": "",
+  "en": "to arrest",
+  "de": [
+   "festnehmen",
+   "verhaften"
+  ],
+  "def": "to take someone to a police station by law",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-illegal-986d44",
+  "unit": "U4",
+  "sub": "",
+  "en": "illegal",
+  "de": [
+   "illegal",
+   "unrechtmäßig",
+   "rechtswidrig"
+  ],
+  "def": "against the law",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-desperate-67097a",
+  "unit": "U4",
+  "sub": "",
+  "en": "desperate",
+  "de": [
+   "verzweifelt",
+   "hoffnungslos",
+   "ausweglos"
+  ],
+  "def": "feeling hopeless and ready to try anything",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-rule-ff2a61",
+  "unit": "U4",
+  "sub": "",
+  "en": "to rule",
+  "de": [
+   "herrschen",
+   "regieren"
+  ],
+  "def": "an instruction about what you must do",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-empress-aec440",
+  "unit": "U4",
+  "sub": "",
+  "en": "empress",
+  "de": [
+   "Kaiserin"
+  ],
+  "def": "a female ruler of an empire",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-grandchild-21a073",
+  "unit": "U4",
+  "sub": "",
+  "en": "grandchild",
+  "de": [
+   "Enkel/-in",
+   "Enkelkind"
+  ],
+  "def": "the child of your son or daughter",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-reign-b7d97f",
+  "unit": "U4",
+  "sub": "",
+  "en": "reign",
+  "de": [
+   "Herrschaft, Regierungszeit"
+  ],
+  "def": "the period a king or queen rules",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-critical-385da8",
+  "unit": "U4",
+  "sub": "",
+  "en": "critical",
+  "de": [
+   "kritisch"
+  ],
+  "def": "describing a quality or characteristic",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-miss-48655a",
+  "unit": "U4",
+  "sub": "",
+  "en": "Miss",
+  "de": [
+   "Fräulein (Anrede)"
+  ],
+  "def": "to feel sad because someone is not there",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-head-teacher-645382",
+  "unit": "U4",
+  "sub": "",
+  "en": "head teacher",
+  "de": [
+   "Schulleiter/-in"
+  ],
+  "def": "the person in charge of a school",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-love-04836c",
+  "unit": "U4",
+  "sub": "",
+  "en": "Love",
+  "de": [
+   "Liebe Grüße (am Briefende)",
+   "Herzliche Grüße (am Briefende)"
+  ],
+  "def": "a very strong feeling of caring for someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-fall-in-love-with-b31b2c",
+  "unit": "U4",
+  "sub": "",
+  "en": "to fall in love (with)",
+  "de": [
+   "sich verlieben (in)"
+  ],
+  "def": "to move downward quickly",
+  "tags": [],
+  "phrase": true
+ },
+ {
+  "id": "jg7-u4-couple-6c2ed5",
+  "unit": "U4",
+  "sub": "",
+  "en": "couple",
+  "de": [
+   "Paar"
+  ],
+  "def": "two people together, often in a relationship",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-marry-3db490",
+  "unit": "U4",
+  "sub": "",
+  "en": "to marry",
+  "de": [
+   "heiraten"
+  ],
+  "def": "to marry; an action",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-give-up-6b66a2",
+  "unit": "U4",
+  "sub": "",
+  "en": "to give up",
+  "de": [
+   "aufgeben"
+  ],
+  "def": "to stop trying to do something",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-to-pass-an-exam-6ac0e6",
+  "unit": "U4",
+  "sub": "",
+  "en": "to pass an exam",
+  "de": [
+   "eine Prüfung bestehen"
+  ],
+  "def": "to go by or hand something to someone",
+  "tags": [],
+  "phrase": false
+ },
+ {
+  "id": "jg7-u4-supporter-9f051a",
+  "unit": "U4",
+  "sub": "",
+  "en": "supporter",
+  "de": [
+   "Unterstützer/-in"
+  ],
+  "def": "to help or encourage someone",
+  "tags": [],
+  "phrase": false
+ }
+]
