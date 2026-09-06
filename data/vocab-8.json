@@ -9,7 +9,7 @@
    "Unterschied",
    "Gegensatz"
   ],
-  "def": "a clear difference between two things",
+  "def": "a clear difference between two things when they are compared",
   "tags": [],
   "phrase": false
  },
@@ -21,7 +21,7 @@
   "de": [
    "die USA (= die Vereinigten Staaten)"
   ],
-  "def": "joined together as one",
+  "def": "the common short name for the United States of America",
   "tags": [],
   "phrase": true
  },
@@ -34,7 +34,7 @@
    "städtisch",
    "Stadt-"
   ],
-  "def": "relating to a city",
+  "def": "relating to a city or town rather than the countryside",
   "tags": [],
   "phrase": false
  },
@@ -48,7 +48,7 @@
    "unendlich",
    "unzählig"
   ],
-  "def": "the final part of something",
+  "def": "seeming to have no end because it goes on for so long",
   "tags": [],
   "phrase": false
  },
@@ -61,7 +61,7 @@
    "dünn",
    "spärlich"
   ],
-  "def": "spread thinly; not dense",
+  "def": "spread out thinly, with only a little of something over a large area",
   "tags": [],
   "phrase": false
  },
@@ -74,7 +74,7 @@
    "bevölkert",
    "besiedelt"
   ],
-  "def": "having people living there",
+  "def": "having people living there, especially in some number",
   "tags": [],
   "phrase": false
  },
@@ -86,7 +86,7 @@
   "de": [
    "ländlich"
   ],
-  "def": "relating to the countryside",
+  "def": "relating to the countryside rather than towns or cities",
   "tags": [],
   "phrase": false
  },
@@ -100,7 +100,7 @@
    "einzig",
    "alleinstehend"
   ],
-  "def": "not married; only one",
+  "def": "being only one, or not married or in a relationship",
   "tags": [],
   "phrase": false
  },
@@ -112,7 +112,7 @@
   "de": [
    "Traktor"
   ],
-  "def": "a person or thing that does something",
+  "def": "a large farm vehicle used to pull heavy machinery",
   "tags": [],
   "phrase": false
  },
@@ -124,7 +124,7 @@
   "de": [
    "Wüste"
   ],
-  "def": "a very dry area with little rain",
+  "def": "a large, very dry area of land, often covered in sand",
   "tags": [],
   "phrase": false
  },
@@ -137,7 +137,7 @@
    "(der) Südwesten",
    "im Südwesten"
   ],
-  "def": "the area in the south and west",
+  "def": "the region of the US that lies in the south-western part of the country",
   "tags": [],
   "phrase": false
  },
@@ -149,7 +149,7 @@
   "de": [
    "Temperatur"
   ],
-  "def": "how hot or cold something is",
+  "def": "a measurement of how hot or cold something is",
   "tags": [],
   "phrase": false
  },
@@ -161,7 +161,7 @@
   "de": [
    "Grad Fahrenheit"
   ],
-  "def": "a unit of measurement for temperature or angles",
+  "def": "a unit for measuring temperature, used mainly in the US",
   "tags": [],
   "phrase": false
  },
@@ -173,7 +173,7 @@
   "de": [
    "Kaktus"
   ],
-  "def": "a thick plant with spines that grows in deserts",
+  "def": "a desert plant with thick stems and sharp spines instead of leaves",
   "tags": [],
   "phrase": false
  },
@@ -185,7 +185,7 @@
   "de": [
    "kühl"
   ],
-  "def": "slightly cold or fashionably attractive",
+  "def": "slightly cold in temperature, but not so cold that it's unpleasant",
   "tags": [],
   "phrase": false
  },
@@ -197,7 +197,7 @@
   "de": [
    "Zone"
   ],
-  "def": "an area with a particular purpose or feature",
+  "def": "an area that has a particular feature, purpose, or set of rules",
   "tags": [],
   "phrase": false
  },
@@ -210,7 +210,7 @@
    "Immigrant/-in",
    "Einwanderer/-in"
   ],
-  "def": "a person who moves to live in another country",
+  "def": "a person who has moved to live permanently in another country",
   "tags": [],
   "phrase": false
  },
@@ -224,7 +224,7 @@
    "europäisch",
    "aus"
   ],
-  "def": "from or relating to Europe",
+  "def": "a person from Europe, or relating to that continent",
   "tags": [],
   "phrase": false
  },
@@ -236,7 +236,7 @@
   "de": [
    "kulturell"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "relating to the customs, art, and way of life of a group of people",
   "tags": [],
   "phrase": false
  },
@@ -248,7 +248,7 @@
   "de": [
    "Mammutbaum"
   ],
-  "def": "a very tall tree found in California",
+  "def": "a very tall type of tree native to California",
   "tags": [],
   "phrase": false
  },
@@ -260,7 +260,7 @@
   "de": [
    "Fuß (Längenmaß: 30,48 cm)"
   ],
-  "def": "the body part at the end of your leg",
+  "def": "a unit of length equal to about 30 centimeters, used in the US",
   "tags": [
    "pl"
   ],
@@ -274,7 +274,7 @@
   "de": [
    "Wolkenkratzer"
   ],
-  "def": "a person or thing that does something",
+  "def": "a very tall modern building found in big cities",
   "tags": [],
   "phrase": false
  },
@@ -288,7 +288,7 @@
    "Bundesstaat",
    "Land"
   ],
-  "def": "a country or part of a country; a condition",
+  "def": "one of the political regions that together make up a country like the US",
   "tags": [],
   "phrase": false
  },
@@ -300,7 +300,7 @@
   "de": [
    "hissen"
   ],
-  "def": "to move through the air",
+  "def": "to raise a flag so that it moves freely in the wind",
   "tags": [],
   "phrase": false
  },
@@ -312,7 +312,7 @@
   "de": [
    "pro (Tag/Woche/Jahr)"
   ],
-  "def": "used before a noun meaning one or any",
+  "def": "used with a time word to mean 'for each', as in 'three times a week'",
   "tags": [],
   "phrase": false
  },
@@ -325,7 +325,7 @@
    "Bevölkerung",
    "Population"
   ],
-  "def": "the number of people living in an area",
+  "def": "the total number of people who live in a place",
   "tags": [],
   "phrase": false
  },
@@ -337,7 +337,7 @@
   "de": [
    "Milliardär/-in"
   ],
-  "def": "a person who has more than a billion dollars",
+  "def": "a person whose wealth is worth more than a billion dollars",
   "tags": [],
   "phrase": false
  },
@@ -349,7 +349,7 @@
   "de": [
    "Landschaft"
   ],
-  "def": "the natural features of a landscape",
+  "def": "the natural landscape and views of a place, such as hills or fields",
   "tags": [],
   "phrase": false
  },
@@ -361,7 +361,7 @@
   "de": [
    "einfach nur"
   ],
-  "def": "in a simp manner",
+  "def": "just, or only, without anything more than that",
   "tags": [],
   "phrase": false
  },
@@ -373,7 +373,7 @@
   "de": [
    "dicht"
   ],
-  "def": "thick; closely packed together",
+  "def": "having a lot of people or things packed closely together",
   "tags": [],
   "phrase": false
  },
@@ -385,7 +385,7 @@
   "de": [
    "auf dem Land"
   ],
-  "def": "a nation with its own government, or rural land",
+  "def": "in a rural area, away from towns and cities",
   "tags": [],
   "phrase": false
  },
@@ -397,7 +397,7 @@
   "de": [
    "bergig"
   ],
-  "def": "a very high area of land with steep sides",
+  "def": "describing an area of land that has many mountains across it",
   "tags": [],
   "phrase": false
  },
@@ -410,7 +410,7 @@
    "flach",
    "platt"
   ],
-  "def": "having a smooth level surface without hills",
+  "def": "level and even, with no hills or slopes",
   "tags": [],
   "phrase": false
  },
@@ -423,7 +423,7 @@
    "gigantisch",
    "riesig"
   ],
-  "def": "extremely large; enormous",
+  "def": "extremely large in size, much bigger than usual",
   "tags": [],
   "phrase": false
  },
@@ -436,7 +436,7 @@
    "wohlhabend",
    "reich"
   ],
-  "def": "having a lot of money; rich",
+  "def": "having a lot of money or valuable possessions",
   "tags": [],
   "phrase": false
  },
@@ -448,7 +448,7 @@
   "de": [
    "verschwenderisch"
   ],
-  "def": "things thrown away or not used properly",
+  "def": "using far more of something, like time or resources, than is needed",
   "tags": [],
   "phrase": false
  },
@@ -460,7 +460,7 @@
   "de": [
    "Luxus"
   ],
-  "def": "great comfort and expensive things",
+  "def": "great and expensive comfort that is enjoyable but not really necessary",
   "tags": [],
   "phrase": false
  },
@@ -474,7 +474,7 @@
    "darstellen",
    "stehen"
   ],
-  "def": "to speak or act for someone else",
+  "def": "to stand for, or to speak and act on behalf of a person or group",
   "tags": [],
   "phrase": false
  },
@@ -486,7 +486,7 @@
   "de": [
    "symbolisieren"
   ],
-  "def": "to symbolize; an action",
+  "def": "to be a sign or symbol that stands for an idea or quality",
   "tags": [
    "AE"
   ],
@@ -501,7 +501,7 @@
    "rau",
    "hart"
   ],
-  "def": "unpleasantly rough or severe",
+  "def": "very severe or unpleasant, especially when describing weather or conditions",
   "tags": [],
   "phrase": false
  },
@@ -514,7 +514,7 @@
    "extrem",
    "radikal"
   ],
-  "def": "very great in degree; far from normal",
+  "def": "very great in degree, far beyond what is usual or normal",
   "tags": [],
   "phrase": false
  },
@@ -526,7 +526,7 @@
   "de": [
    "Lebensstandard"
   ],
-  "def": "the level of comfort people enjoy",
+  "def": "the level of comfort and wealth that a person or group has",
   "tags": [],
   "phrase": false
  },
@@ -539,7 +539,7 @@
    "sich anfreunden",
    "Freundschaft"
   ],
-  "def": "to start to be something new",
+  "def": "to start being friendly with someone you have just met",
   "tags": [],
   "phrase": false
  },
@@ -552,7 +552,7 @@
    "Ferien",
    "Urlaub"
   ],
-  "def": "the process or result of an action",
+  "def": "the American English word for a holiday away from school or work",
   "tags": [
    "AE"
   ],
@@ -567,7 +567,7 @@
    "Mann",
    "Alter (ugs.)"
   ],
-  "def": "informal word for a man or boy",
+  "def": "an informal American word for a man, similar to 'guy'",
   "tags": [
    "coll"
   ],
@@ -582,7 +582,7 @@
    "super",
    "spitze"
   ],
-  "def": "extremely impressive or good",
+  "def": "an informal word meaning extremely impressive, exciting, or good",
   "tags": [],
   "phrase": false
  },
@@ -594,7 +594,7 @@
   "de": [
    "keine Ahnung haben"
   ],
-  "def": "to own or possess something",
+  "def": "to not know or understand something at all",
   "tags": [],
   "phrase": false
  },
@@ -606,7 +606,7 @@
   "de": [
    "Routenplaner"
   ],
-  "def": "a book for recording homework and schedules",
+  "def": "a tool or app that works out the best way to travel between places",
   "tags": [],
   "phrase": false
  },
@@ -618,7 +618,7 @@
   "de": [
    "Brite/Britin (ugs.)"
   ],
-  "def": "informal word for a British person",
+  "def": "an informal, friendly word used for a British person",
   "tags": [],
   "phrase": false
  },
@@ -631,7 +631,7 @@
    "Siedler/-in",
    "Kolonist/-in"
   ],
-  "def": "a person who specializes in something",
+  "def": "a person who settles in a new land to build a colony there",
   "tags": [],
   "phrase": false
  },
@@ -645,7 +645,7 @@
    "Mais",
    "Getreide"
   ],
-  "def": "a tall plant with yellow seeds on a cob",
+  "def": "a tall cereal plant grown for its kernels, called maize in British English",
   "tags": [],
   "phrase": false
  },
@@ -657,7 +657,7 @@
   "de": [
    "Weizen"
   ],
-  "def": "a grain plant used to make flour and bread",
+  "def": "a cereal plant that is ground into flour to make bread",
   "tags": [],
   "phrase": false
  },
@@ -670,7 +670,7 @@
    "fahren",
    "reiten"
   ],
-  "def": "to sit on and control a bike or horse",
+  "def": "to travel by sitting on and controlling a horse, bike, or similar",
   "tags": [],
   "phrase": false
  },
@@ -683,7 +683,7 @@
    "episch",
    "hier: geil"
   ],
-  "def": "very large or impressive; a long exciting story",
+  "def": "informally, used to describe something extremely impressive or exciting",
   "tags": [],
   "phrase": false
  },
@@ -697,7 +697,7 @@
    "massiv",
    "hier: super"
   ],
-  "def": "very large and heavy",
+  "def": "extremely large in size, or informally used to mean extremely good",
   "tags": [],
   "phrase": false
  },
@@ -711,7 +711,7 @@
    "komplett",
    "völlig"
   ],
-  "def": "having all parts; finished",
+  "def": "including every part that is needed; whole, not partial",
   "tags": [],
   "phrase": false
  },
@@ -724,7 +724,7 @@
    "Jugendliche/-r",
    "Kind"
   ],
-  "def": "a child or young person",
+  "def": "an informal word for a child or young person",
   "tags": [],
   "phrase": false
  },
@@ -737,7 +737,7 @@
    "Impression",
    "Eindruck"
   ],
-  "def": "the process or result of an action",
+  "def": "the thoughts or feelings you get about something after experiencing it",
   "tags": [],
   "phrase": false
  },
@@ -750,7 +750,7 @@
    "Orientierung",
    "Orientierungs-"
   ],
-  "def": "the process or result of an action",
+  "def": "an introductory event that helps new students settle in and find their way",
   "tags": [],
   "phrase": false
  },
@@ -762,7 +762,7 @@
   "de": [
    "einen Vortrag halten"
   ],
-  "def": "to hand something to someone",
+  "def": "to speak in front of an audience about a particular topic",
   "tags": [],
   "phrase": false
  },
@@ -774,7 +774,7 @@
   "de": [
    "Vorort"
   ],
-  "def": "a residential area outside the centre of a city",
+  "def": "a residential area on the edge of a city",
   "tags": [],
   "phrase": false
  },
@@ -786,7 +786,7 @@
   "de": [
    "Vorstadt-"
   ],
-  "def": "relating to areas outside city centres",
+  "def": "relating to or typical of a suburb outside a city",
   "tags": [],
   "phrase": false
  },
@@ -798,7 +798,7 @@
   "de": [
    "Vorgarten"
   ],
-  "def": "the garden area in front of a house",
+  "def": "the American English word for the garden area in front of a house",
   "tags": [
    "AE"
   ],
@@ -812,7 +812,7 @@
   "de": [
    "Einkaufszentrum"
   ],
-  "def": "buying things from shops",
+  "def": "a large indoor building that contains many different shops",
   "tags": [],
   "phrase": false
  },
@@ -822,9 +822,9 @@
   "sub": "IN",
   "en": "middle school",
   "de": [
-   "Mittelschule (weiterführende"
+   "Mittelschule (weiterführende Schule in den USA)"
   ],
-  "def": "the centre point between two ends",
+  "def": "an American school for students roughly aged 11 to 14",
   "tags": [
    "AE"
   ],
@@ -836,9 +836,9 @@
   "sub": "IN",
   "en": "high school",
   "de": [
-   "High School (weiterführende"
+   "High School (weiterführende Schule in den USA)"
   ],
-  "def": "a place where children go to learn",
+  "def": "an American school for teenagers, usually aged 14 to 18",
   "tags": [
    "AE"
   ],
@@ -854,7 +854,7 @@
    "Diele",
    "Korridor"
   ],
-  "def": "a passage inside a building",
+  "def": "a long passage inside a building that connects different rooms",
   "tags": [],
   "phrase": false
  },
@@ -866,7 +866,7 @@
   "de": [
    "Erlaubnis, sich während des"
   ],
-  "def": "a large room for gatherings or events",
+  "def": "a written permission slip that lets a US student leave class briefly",
   "tags": [],
   "phrase": false
  },
@@ -878,7 +878,7 @@
   "de": [
    "aufzuhalten"
   ],
-  "def": "rules about what clothes you can wear",
+  "def": "rules about what clothing is acceptable to wear in a place",
   "tags": [],
   "phrase": false
  },
@@ -890,7 +890,7 @@
   "de": [
    "Toilette"
   ],
-  "def": "a toilet in a public place (American English)",
+  "def": "the American English word for a public toilet",
   "tags": [
    "AE"
   ],
@@ -904,7 +904,7 @@
   "de": [
    "Film"
   ],
-  "def": "a story shown as moving pictures on a screen",
+  "def": "the American English word used instead of 'film'",
   "tags": [
    "AE"
   ],
@@ -918,7 +918,7 @@
   "de": [
    "begehbarer Kleiderschrank"
   ],
-  "def": "a large cupboard you can walk into",
+  "def": "a closet large enough to walk into, used to store clothes",
   "tags": [],
   "phrase": false
  },
@@ -931,7 +931,7 @@
    "da sein",
    "zusammen sein mit"
   ],
-  "def": "to exist or have a particular quality",
+  "def": "to be present nearby, or to spend time in someone's company",
   "tags": [],
   "phrase": false
  },
@@ -944,7 +944,7 @@
    "nicht vor",
    "erst um/im"
   ],
-  "def": "up to a particular time",
+  "def": "not before a particular time; only starting then",
   "tags": [],
   "phrase": false
  },
@@ -957,7 +957,7 @@
    "Laden",
    "Geschäft"
   ],
-  "def": "a place where goods are sold",
+  "def": "the American English word used instead of 'shop'",
   "tags": [
    "AE"
   ],
@@ -973,7 +973,7 @@
    "Anfahrt",
    "Autofahrt"
   ],
-  "def": "to control and operate a vehicle",
+  "def": "a journey made in a vehicle such as a car",
   "tags": [],
   "phrase": false
  },
@@ -985,7 +985,7 @@
   "de": [
    "mit dabei"
   ],
-  "def": "following the length of something",
+  "def": "joining in an activity or trip without taking an active part",
   "tags": [],
   "phrase": false
  },
@@ -998,7 +998,7 @@
    "Fahrt",
    "Ritt"
   ],
-  "def": "to sit on and control a bike or horse",
+  "def": "a journey made on a vehicle or an animal such as a horse",
   "tags": [],
   "phrase": false
  },
@@ -1011,7 +1011,7 @@
    "Sperrstunde",
    "Ausgangssperre"
   ],
-  "def": "a time by which you must be home",
+  "def": "a rule that says someone must be home by a certain time",
   "tags": [],
   "phrase": false
  },
@@ -1023,7 +1023,7 @@
   "de": [
    "sich treffen"
   ],
-  "def": "to come together with someone",
+  "def": "to arrange to meet somebody, usually for a social reason",
   "tags": [],
   "phrase": false
  },
@@ -1035,7 +1035,7 @@
   "de": [
    "im Stadtzentrum"
   ],
-  "def": "in the centre of a city",
+  "def": "the American English word for towards or in the center of a city",
   "tags": [
    "AE"
   ],
@@ -1049,7 +1049,7 @@
   "de": [
    "sich an etw. gewöhnen"
   ],
-  "def": "to receive, obtain, or become something",
+  "def": "to gradually become familiar with something so that it feels normal",
   "tags": [],
   "phrase": true
  },
@@ -1061,7 +1061,7 @@
   "de": [
    "Stockwerk"
   ],
-  "def": "the surface you walk on; a level of a building",
+  "def": "one storey or level within a building that has several",
   "tags": [],
   "phrase": false
  },
@@ -1074,7 +1074,7 @@
    "Aufzug",
    "Lift"
   ],
-  "def": "a machine that carries people between floors",
+  "def": "the American English word for a lift that carries people between floors",
   "tags": [
    "AE"
   ],
@@ -1088,7 +1088,7 @@
   "de": [
    "glücklicherweise"
   ],
-  "def": "in a fortunate way",
+  "def": "used to say that something good happened by chance",
   "tags": [],
   "phrase": false
  },
@@ -1100,7 +1100,7 @@
   "de": [
    "Kino"
   ],
-  "def": "a story shown as moving pictures on a screen",
+  "def": "the American English word used instead of 'cinema'",
   "tags": [
    "AE"
   ],
@@ -1114,7 +1114,7 @@
   "de": [
    "Fußball"
   ],
-  "def": "the American word for football",
+  "def": "the American English word used instead of 'football'",
   "tags": [
    "AE"
   ],
@@ -1128,7 +1128,7 @@
   "de": [
    "Leider …"
   ],
-  "def": "feeling fear about something",
+  "def": "a polite way of introducing bad news you feel sorry about",
   "tags": [],
   "phrase": true
  },
@@ -1140,7 +1140,7 @@
   "de": [
    "in Kontakt bleiben"
   ],
-  "def": "to put your hand on something",
+  "def": "to keep contacting someone regularly, especially after moving apart",
   "tags": [],
   "phrase": false
  },
@@ -1153,7 +1153,7 @@
    "hier: weiter tun",
    "immer wieder tun"
   ],
-  "def": "to continue to have or hold something",
+  "def": "to keep doing something means to continue it, or to do it again and again",
   "tags": [],
   "phrase": false
  },
@@ -1165,7 +1165,7 @@
   "de": [
    "kein Wunder"
   ],
-  "def": "to want to know about something",
+  "def": "used to say that something is not at all surprising",
   "tags": [],
   "phrase": false
  },
@@ -1177,7 +1177,7 @@
   "de": [
    "Pilger/-in"
   ],
-  "def": "an early English settler in America",
+  "def": "one of the English settlers who sailed to America in 1620",
   "tags": [],
   "phrase": false
  },
@@ -1189,7 +1189,7 @@
   "de": [
    "eine Religion ausüben"
   ],
-  "def": "to do something again and again to improve",
+  "def": "to follow the customs and beliefs of a religion in everyday life",
   "tags": [],
   "phrase": false
  },
@@ -1201,7 +1201,7 @@
   "de": [
    "Überlebende/-r"
   ],
-  "def": "a person or thing that does something",
+  "def": "a person who continues living through a dangerous or difficult event",
   "tags": [],
   "phrase": false
  },
@@ -1213,7 +1213,7 @@
   "de": [
    "Ureinwohner/-in Amerikas"
   ],
-  "def": "from or relating to the United States",
+  "def": "a member of the peoples who lived in America before Europeans arrived",
   "tags": [],
   "phrase": false
  },
@@ -1225,7 +1225,7 @@
   "de": [
    "Ernte"
   ],
-  "def": "the time when crops are gathered from fields",
+  "def": "the time when crops are gathered from the fields, or the crops themselves",
   "tags": [],
   "phrase": false
  },
@@ -1237,7 +1237,7 @@
   "de": [
    "danken"
   ],
-  "def": "a short way of saying thank you",
+  "def": "to express gratitude, especially at a special occasion like Thanksgiving",
   "tags": [],
   "phrase": false
  },
@@ -1250,7 +1250,7 @@
    "Indianer/-in",
    "indianisch"
   ],
-  "def": "relating to India; a native person",
+  "def": "an older, now less accurate term once used for a Native American",
   "tags": [],
   "phrase": false
  },
@@ -1262,7 +1262,7 @@
   "de": [
    "Speisekarte"
   ],
-  "def": "a list of food and drinks in a restaurant",
+  "def": "a list of the food and drinks a restaurant offers",
   "tags": [],
   "phrase": false
  },
@@ -1275,7 +1275,7 @@
    "Gericht",
    "Speise"
   ],
-  "def": "a particular type of prepared food",
+  "def": "a particular type of food prepared and served as part of a meal",
   "tags": [],
   "phrase": false
  },
@@ -1289,7 +1289,7 @@
    "anstatt",
    "an Stelle von"
   ],
-  "def": "in place of something else",
+  "def": "used to say that one thing replaces another",
   "tags": [],
   "phrase": false
  },
@@ -1301,7 +1301,7 @@
   "de": [
    "soziale Netzwerke"
   ],
-  "def": "websites and apps for sharing content online",
+  "def": "websites and apps that let people share posts and connect with others online",
   "tags": [],
   "phrase": false
  },
@@ -1314,7 +1314,7 @@
    "etwas dagegen haben",
    "einem"
   ],
-  "def": "to be bothered or upset by something",
+  "def": "to feel bothered, annoyed, or uncomfortable about something",
   "tags": [],
   "phrase": false
  },
@@ -1326,7 +1326,7 @@
   "de": [
    "mitten im Nirgendwo"
   ],
-  "def": "the centre point between two ends",
+  "def": "in a very isolated place, far away from any town or city",
   "tags": [],
   "phrase": true
  },
@@ -1338,7 +1338,7 @@
   "de": [
    "sich zurechtfinden"
   ],
-  "def": "to discover or locate something",
+  "def": "to learn how to get from place to place in an unfamiliar area",
   "tags": [],
   "phrase": true
  },
@@ -1351,7 +1351,7 @@
    "es müde sein (zu)",
    "es leid sein (zu)"
   ],
-  "def": "needing rest or sleep",
+  "def": "to be bored or annoyed by too much of something",
   "tags": [],
   "phrase": false
  },
@@ -1363,7 +1363,7 @@
   "de": [
    "Vorlieben"
   ],
-  "def": "similar to; in the same way as",
+  "def": "the things that a person enjoys or is interested in",
   "tags": [
    "pl"
   ],
@@ -1377,7 +1377,7 @@
   "de": [
    "Abneigungen"
   ],
-  "def": "things someone does not enjoy",
+  "def": "the things that a person does not enjoy, or is against",
   "tags": [
    "pl"
   ],
@@ -1391,7 +1391,7 @@
   "de": [
    "auspacken"
   ],
-  "def": "to unpack; an action",
+  "def": "to take things out of a suitcase or box after arriving somewhere",
   "tags": [],
   "phrase": false
  },
@@ -1403,7 +1403,7 @@
   "de": [
    "nicht mögen"
   ],
-  "def": "to dislike; an action",
+  "def": "to feel that you do not like something or someone",
   "tags": [],
   "phrase": false
  },
@@ -1415,7 +1415,7 @@
   "de": [
    "träumen"
   ],
-  "def": "pictures in your mind while sleeping, or a hope",
+  "def": "to imagine pictures and events while asleep, or to hope strongly for something",
   "tags": [],
   "phrase": false
  },
@@ -1428,7 +1428,7 @@
    "verrückt sein nach",
    "abfahren auf"
   ],
-  "def": "very strange or foolish",
+  "def": "to like a person or thing very much",
   "tags": [],
   "phrase": false
  },
@@ -1440,7 +1440,7 @@
   "de": [
    "unsicher"
   ],
-  "def": "not feeling confident about yourself",
+  "def": "not feeling confident, safe, or sure of yourself",
   "tags": [],
   "phrase": false
  },
@@ -1452,7 +1452,7 @@
   "de": [
    "Vordergrund"
   ],
-  "def": "the part of a view nearest to you",
+  "def": "the part of a picture or scene closest to the person looking at it",
   "tags": [],
   "phrase": false
  },
@@ -1465,7 +1465,7 @@
    "Komitee",
    "Ausschuss"
   ],
-  "def": "a group chosen to make decisions",
+  "def": "a small group of people chosen to organize or decide something",
   "tags": [],
   "phrase": false
  },
@@ -1477,7 +1477,7 @@
   "de": [
    "Achtklässler/-in"
   ],
-  "def": "a person or thing that does something",
+  "def": "an American student in the eighth year of school, about 13 to 14 years old",
   "tags": [
    "AE"
   ],
@@ -1492,7 +1492,7 @@
    "Stunde",
    "Unterrichtsstunde"
   ],
-  "def": "a length of time; a lesson at school",
+  "def": "one lesson within the school day, American English",
   "tags": [
    "AE"
   ],
@@ -1506,7 +1506,7 @@
   "de": [
    "Außenseiter/-in"
   ],
-  "def": "a person very interested in technology or studying",
+  "def": "a person other students see as socially awkward or an outsider",
   "tags": [],
   "phrase": false
  },
@@ -1518,7 +1518,7 @@
   "de": [
    "Was für ein/-e …"
   ],
-  "def": "asking about which thing",
+  "def": "used before a noun to express a strong feeling such as surprise or admiration",
   "tags": [],
   "phrase": true
  },
@@ -1530,7 +1530,7 @@
   "de": [
    "Käufer/-in"
   ],
-  "def": "a person or thing that does something",
+  "def": "a person who is buying goods in a shop",
   "tags": [],
   "phrase": false
  },
@@ -1542,7 +1542,7 @@
   "de": [
    "Kinderarbeit"
   ],
-  "def": "a young person who is not yet an adult",
+  "def": "work done by children instead of going to school, often in poor conditions",
   "tags": [
    "AE"
   ],
@@ -1556,7 +1556,7 @@
   "de": [
    "Ausbeuterbetrieb"
   ],
-  "def": "a factory with very bad working conditions",
+  "def": "a factory where workers are paid very little to work long hours in bad conditions",
   "tags": [],
   "phrase": false
  },
@@ -1568,7 +1568,7 @@
   "de": [
    "demonstrieren"
   ],
-  "def": "to show how something works or protest publicly",
+  "def": "to take part in a public protest about something",
   "tags": [],
   "phrase": false
  },
@@ -1581,7 +1581,7 @@
    "Recht",
    "direkt"
   ],
-  "def": "something you are allowed by law to do",
+  "def": "something a person is morally or legally entitled to have, do, or expect",
   "tags": [],
   "phrase": false
  },
@@ -1593,7 +1593,7 @@
   "de": [
    "ob"
   ],
-  "def": "a person or thing that does something",
+  "def": "used to introduce a question or choice between two possibilities",
   "tags": [],
   "phrase": false
  },
@@ -1605,7 +1605,7 @@
   "de": [
    "vorziehen"
   ],
-  "def": "to like one thing more than another",
+  "def": "to like one thing or option more than another",
   "tags": [],
   "phrase": false
  },
@@ -1618,7 +1618,7 @@
    "kontrollieren",
    "steuern"
   ],
-  "def": "the power to direct something",
+  "def": "to have power over how something happens or behaves",
   "tags": [],
   "phrase": false
  },
@@ -1630,7 +1630,7 @@
   "de": [
    "könnte/-n (vielleicht)"
   ],
-  "def": "used to say something is possible",
+  "def": "used before a verb to say something could possibly happen",
   "tags": [],
   "phrase": false
  },
@@ -1643,7 +1643,7 @@
    "argumentieren",
    "streiten"
   ],
-  "def": "to disagree with someone using words",
+  "def": "to give reasons for an opinion, or to disagree with someone angrily",
   "tags": [],
   "phrase": false
  },
@@ -1656,7 +1656,7 @@
    "ausräumen",
    "entrümpeln"
   ],
-  "def": "free from dirt",
+  "def": "to empty and tidy a space by removing things that are not wanted",
   "tags": [],
   "phrase": false
  },
@@ -1668,7 +1668,7 @@
   "de": [
    "Kleidersammlung"
   ],
-  "def": "to control and operate a vehicle",
+  "def": "an organized collection of clothes given to people in need",
   "tags": [],
   "phrase": false
  },
@@ -1680,7 +1680,7 @@
   "de": [
    "Obdachlosenunterkunft"
   ],
-  "def": "a person or thing that does something",
+  "def": "a place that provides food and a bed for people who have no home",
   "tags": [],
   "phrase": false
  },
@@ -1692,7 +1692,7 @@
   "de": [
    "obdachlos"
   ],
-  "def": "the place where you live with your family",
+  "def": "describing someone who has no home or place to live",
   "tags": [],
   "phrase": false
  },
@@ -1704,7 +1704,7 @@
   "de": [
    "(sich) wünschen"
   ],
-  "def": "to want something to happen",
+  "def": "to want something to happen or to be true",
   "tags": [],
   "phrase": false
  },
@@ -1717,7 +1717,7 @@
    "spenden",
    "stiften"
   ],
-  "def": "to give something as a gift to help others",
+  "def": "to give money, goods, or time to help a cause",
   "tags": [],
   "phrase": false
  },
@@ -1731,7 +1731,7 @@
    "Nutzen",
    "Unterstützung"
   ],
-  "def": "to gain an advantage or help from something",
+  "def": "an advantage or helpful effect that something provides",
   "tags": [],
   "phrase": false
  },
@@ -1743,7 +1743,7 @@
   "de": [
    "Pfund (Maßeinheit)"
   ],
-  "def": "a unit of British money; a unit of weight",
+  "def": "a unit of weight used in the US, equal to about 0.45 kilograms",
   "tags": [],
   "phrase": false
  },
@@ -1756,7 +1756,7 @@
    "Gegenstand",
    "Objekt"
   ],
-  "def": "a single thing or object",
+  "def": "a single thing, especially one on a list or offered for sale",
   "tags": [],
   "phrase": false
  },
@@ -1768,7 +1768,7 @@
   "de": [
    "Abgabe"
   ],
-  "def": "a place to leave something; giving something",
+  "def": "a place or time where something is left or handed in",
   "tags": [],
   "phrase": false
  },
@@ -1780,7 +1780,7 @@
   "de": [
    "Alptraum"
   ],
-  "def": "a frightening dream; a very bad experience",
+  "def": "a frightening dream, or a very unpleasant experience",
   "tags": [],
   "phrase": false
  },
@@ -1792,7 +1792,7 @@
   "de": [
    "glaubwürdig"
   ],
-  "def": "to think that something is true",
+  "def": "able to be believed because it seems realistic",
   "tags": [],
   "phrase": false
  },
@@ -1804,7 +1804,7 @@
   "de": [
    "übertrieben"
   ],
-  "def": "made to seem more than it really is",
+  "def": "described as bigger, better, or worse than it really is",
   "tags": [],
   "phrase": false
  },
@@ -1816,7 +1816,7 @@
   "de": [
    "unrealistisch"
   ],
-  "def": "not likely to happen in real life",
+  "def": "not likely to happen, or not based on what is actually possible",
   "tags": [],
   "phrase": false
  },
@@ -1828,7 +1828,7 @@
   "de": [
    "Zufall"
   ],
-  "def": "things happening at the same time by chance",
+  "def": "something that happens by chance at the same time as something else",
   "tags": [],
   "phrase": false
  },
@@ -1840,7 +1840,7 @@
   "de": [
    "eröffnen"
   ],
-  "def": "to make something no longer closed",
+  "def": "here: to start a new business, such as a shop",
   "tags": [],
   "phrase": false
  },
@@ -1853,7 +1853,7 @@
    "unterschreiben",
    "unterzeichnen"
   ],
-  "def": "a board with words or pictures giving information",
+  "def": "to write your name on a document to show you agree to it",
   "tags": [],
   "phrase": false
  },
@@ -1866,7 +1866,7 @@
    "erstaunt",
    "verblüfft"
   ],
-  "def": "very surprised and impressed",
+  "def": "feeling great surprise, often because something seems hard to believe",
   "tags": [],
   "phrase": false
  },
@@ -1879,7 +1879,7 @@
    "verängstigt",
    "ängstlich"
   ],
-  "def": "feeling afraid of something",
+  "def": "feeling frightened or afraid of someone or something",
   "tags": [],
   "phrase": false
  },
@@ -1892,7 +1892,7 @@
    "Jubel",
    "Hurraruf"
   ],
-  "def": "a person or thing that does something",
+  "def": "a shout of joy, encouragement, or approval from a crowd",
   "tags": [],
   "phrase": false
  },
@@ -1904,7 +1904,7 @@
   "de": [
    "schwindelig"
   ],
-  "def": "feeling like everything is spinning",
+  "def": "feeling as if everything is spinning, so you might lose your balance",
   "tags": [],
   "phrase": false
  },
@@ -1916,7 +1916,7 @@
   "de": [
    "nieder"
   ],
-  "def": "towards a lower place",
+  "def": "in or towards a lower position, or on the ground",
   "tags": [],
   "phrase": false
  },
@@ -1930,7 +1930,7 @@
    "entfliehen",
    "flüchten"
   ],
-  "def": "to get away from a dangerous place",
+  "def": "to get away from a dangerous or unpleasant place or situation",
   "tags": [],
   "phrase": false
  },
@@ -1943,7 +1943,7 @@
    "Protestierende/-r",
    "Demonstrant/-"
   ],
-  "def": "a public action to show disagreement",
+  "def": "a person who publicly objects to something, e.g. at a demonstration",
   "tags": [],
   "phrase": false
  },
@@ -1956,7 +1956,7 @@
    "berühren",
    "antippen"
   ],
-  "def": "to put your hand on something",
+  "def": "to put your hand or finger on something to feel it",
   "tags": [],
   "phrase": false
  },
@@ -1968,7 +1968,7 @@
   "de": [
    "Unruhestifter/-in"
   ],
-  "def": "a person or thing that does something",
+  "def": "a person who often causes problems or conflict for others",
   "tags": [],
   "phrase": false
  },
@@ -1980,7 +1980,7 @@
   "de": [
    "jmdn. in Ruhe lassen"
   ],
-  "def": "to go away from a place",
+  "def": "to stop bothering, disturbing, or annoying a person",
   "tags": [],
   "phrase": false
  },
@@ -1992,7 +1992,7 @@
   "de": [
    "offensichtlich"
   ],
-  "def": "easy to see or understand",
+  "def": "very easy to see, notice, or understand; clear",
   "tags": [],
   "phrase": false
  },
@@ -2004,7 +2004,7 @@
   "de": [
    "zweimal"
   ],
-  "def": "two times",
+  "def": "happening two times, or on two separate occasions",
   "tags": [],
   "phrase": false
  },
@@ -2017,7 +2017,7 @@
    "Unordnung",
    "Durcheinander"
   ],
-  "def": "a dirty or untidy state",
+  "def": "a state of being messy, untidy, or disorganized",
   "tags": [],
   "phrase": false
  },
@@ -2029,7 +2029,7 @@
   "de": [
    "zusammenpassen"
   ],
-  "def": "to combine different things together",
+  "def": "to go well together, or to blend different things smoothly",
   "tags": [],
   "phrase": false
  },
@@ -2041,7 +2041,7 @@
   "de": [
    "Los!"
   ],
-  "def": "to continue or happen",
+  "def": "used to tell someone to keep doing something, or to hurry up",
   "tags": [],
   "phrase": true
  },
@@ -2053,7 +2053,7 @@
   "de": [
    "attraktiv"
   ],
-  "def": "to make someone interested or come closer",
+  "def": "pleasant to look at, or appealing in general",
   "tags": [],
   "phrase": false
  },
@@ -2065,7 +2065,7 @@
   "de": [
    "Freund (in einer Paarbeziehung)"
   ],
-  "def": "a male romantic partner",
+  "def": "a male romantic partner in a dating relationship",
   "tags": [],
   "phrase": false
  },
@@ -2078,7 +2078,7 @@
    "Haltung",
    "Einstellung"
   ],
-  "def": "the way you think or feel about something",
+  "def": "a person's general way of thinking or feeling about something",
   "tags": [],
   "phrase": false
  },
@@ -2091,7 +2091,7 @@
    "übertreiben",
    "zu weit gehen"
   ],
-  "def": "to overdo,; an action",
+  "def": "to do something too much, or to take it further than is sensible",
   "tags": [],
   "phrase": false
  },
@@ -2104,7 +2104,7 @@
    "Verabredung",
    "Date"
   ],
-  "def": "a particular day; a romantic meeting",
+  "def": "a planned romantic meeting between two people who like each other",
   "tags": [],
   "phrase": false
  },
@@ -2116,7 +2116,7 @@
   "de": [
    "Inhalt"
   ],
-  "def": "the information inside something; satisfied",
+  "def": "the information or ideas contained in something, such as a video or book",
   "tags": [],
   "phrase": false
  },
@@ -2128,7 +2128,7 @@
   "de": [
    "Zahnpasta"
   ],
-  "def": "a paste used on a toothbrush to clean teeth",
+  "def": "a paste used with a toothbrush to clean your teeth",
   "tags": [],
   "phrase": false
  },
@@ -2140,7 +2140,7 @@
   "de": [
    "ironisch"
   ],
-  "def": "meaning the opposite of what is said",
+  "def": "having a meaning that is the opposite of what you would expect",
   "tags": [],
   "phrase": false
  },
@@ -2152,7 +2152,7 @@
   "de": [
    "informativ"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "giving useful facts or knowledge about a subject",
   "tags": [],
   "phrase": false
  },
@@ -2165,7 +2165,7 @@
    "natürlich",
    "Natur-"
   ],
-  "def": "existing in nature; not made by people",
+  "def": "existing in nature, not made or caused by people",
   "tags": [],
   "phrase": false
  },
@@ -2178,7 +2178,7 @@
    "Einzelperson",
    "Einzelne/-r"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "a single person, thought of separately from a group",
   "tags": [],
   "phrase": false
  },
@@ -2191,7 +2191,7 @@
    "Pose",
    "Haltung"
   ],
-  "def": "a position of the body for a photo",
+  "def": "a particular position of the body, especially held for a photo",
   "tags": [],
   "phrase": false
  },
@@ -2204,7 +2204,7 @@
    "Saison",
    "Jahreszeit"
   ],
-  "def": "one of four periods of the year; a time for something",
+  "def": "one of the four parts of the year, e.g. summer",
   "tags": [],
   "phrase": false
  },
@@ -2216,7 +2216,7 @@
   "de": [
    "Meisterschaft"
   ],
-  "def": "a competition to find the best team or player",
+  "def": "a competition to find the best team or player in a sport",
   "tags": [],
   "phrase": false
  },
@@ -2229,7 +2229,7 @@
    "Doppel-",
    "zweimal"
   ],
-  "def": "twice as much; two of something",
+  "def": "twice as much or as many, or made of two matching parts",
   "tags": [],
   "phrase": false
  },
@@ -2241,7 +2241,7 @@
   "de": [
    "Konzert"
   ],
-  "def": "a live music performance",
+  "def": "a public performance of music given in front of an audience",
   "tags": [],
   "phrase": false
  },
@@ -2254,7 +2254,7 @@
    "Anzeige",
    "Werbespot"
   ],
-  "def": "short for advertisement",
+  "def": "a short message, picture, or video used to promote a product",
   "tags": [],
   "phrase": false
  },
@@ -2267,7 +2267,7 @@
    "Produkt",
    "Erzeugnis"
   ],
-  "def": "something made to be sold",
+  "def": "something that is made in order to be sold",
   "tags": [],
   "phrase": false
  },
@@ -2279,7 +2279,7 @@
   "de": [
    "praktisch überall"
   ],
-  "def": "in or to any place",
+  "def": "in almost any place you can think of",
   "tags": [],
   "phrase": false
  },
@@ -2291,7 +2291,7 @@
   "de": [
    "Werbefachmann/-frau"
   ],
-  "def": "to tell people about a product to sell it",
+  "def": "a person or company whose job is to promote products to the public",
   "tags": [],
   "phrase": false
  },
@@ -2304,7 +2304,7 @@
    "jmdn. für sich gewinnen",
    "jmdn."
   ],
-  "def": "above or across something",
+  "def": "to persuade someone to like or support you",
   "tags": [],
   "phrase": false
  },
@@ -2316,7 +2316,7 @@
   "de": [
    "Marke"
   ],
-  "def": "a company's name or product identity",
+  "def": "the name a company gives its products so people recognize them",
   "tags": [],
   "phrase": false
  },
@@ -2329,7 +2329,7 @@
    "sofort",
    "gleich"
   ],
-  "def": "right away; without delay",
+  "def": "happening at once, without any delay at all",
   "tags": [],
   "phrase": false
  },
@@ -2342,7 +2342,7 @@
    "verteilen",
    "verschenken"
   ],
-  "def": "to hand something to someone",
+  "def": "to give something to people without charging money for it",
   "tags": [],
   "phrase": false
  },
@@ -2355,7 +2355,7 @@
    "Probe",
    "Muster"
   ],
-  "def": "a small amount to try before buying",
+  "def": "a small amount of a product given out for people to try",
   "tags": [],
   "phrase": false
  },
@@ -2367,7 +2367,7 @@
   "de": [
    "Schokoriegel"
   ],
-  "def": "a sweet brown food made from cocoa beans",
+  "def": "a small block or strip of chocolate for eating",
   "tags": [],
   "phrase": false
  },
@@ -2379,7 +2379,7 @@
   "de": [
    "hereinfallen auf"
   ],
-  "def": "to move downward quickly",
+  "def": "to be tricked into believing something that is not true",
   "tags": [],
   "phrase": false
  },
@@ -2392,7 +2392,7 @@
    "Haar",
    "Haare"
   ],
-  "def": "the thin strands growing on your head",
+  "def": "the strands that grow on a person's head and body",
   "tags": [],
   "phrase": false
  },
@@ -2405,7 +2405,7 @@
    "Werbung machen",
    "werben"
   ],
-  "def": "to tell people about a product to sell it",
+  "def": "to tell the public about a product in order to persuade them to buy it",
   "tags": [],
   "phrase": false
  },
@@ -2417,7 +2417,7 @@
   "de": [
    "empfänglich"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "willing to listen to and consider new ideas",
   "tags": [],
   "phrase": false
  },
@@ -2429,7 +2429,7 @@
   "de": [
    "Versuchung"
   ],
-  "def": "the process or result of an action",
+  "def": "a strong wish to do or have something, even though it may not be wise",
   "tags": [],
   "phrase": false
  },
@@ -2441,7 +2441,7 @@
   "de": [
    "skeptisch"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "doubtful that something is true, honest, or will work",
   "tags": [],
   "phrase": false
  },
@@ -2454,7 +2454,7 @@
    "Werbung",
    "Reklame"
   ],
-  "def": "to tell people about a product to sell it",
+  "def": "the business of creating and showing adverts to the public",
   "tags": [
    "no pl"
   ],
@@ -2468,7 +2468,7 @@
   "de": [
    "aufpeppen"
   ],
-  "def": "a substance from plants used to flavour food",
+  "def": "to make something more interesting, lively, or exciting",
   "tags": [],
   "phrase": false
  },
@@ -2480,7 +2480,7 @@
   "de": [
    "höchst-"
   ],
-  "def": "far above the ground",
+  "def": "used before an adjective to mean 'to a very great degree'",
   "tags": [],
   "phrase": false
  },
@@ -2492,7 +2492,7 @@
   "de": [
    "brandneu"
   ],
-  "def": "completely new; never used before",
+  "def": "completely new, and not used by anyone before",
   "tags": [],
   "phrase": false
  },
@@ -2505,7 +2505,7 @@
    "erhältlich",
    "verfügbar"
   ],
-  "def": "able to be used or obtained",
+  "def": "able to be bought, found, or obtained right now",
   "tags": [],
   "phrase": false
  },
@@ -2517,7 +2517,7 @@
   "de": [
    "glamourös"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "attractively exciting, and looking expensive, stylish, or special",
   "tags": [],
   "phrase": false
  },
@@ -2530,7 +2530,7 @@
    "schön",
    "hübsch"
   ],
-  "def": "a very strong feeling of caring for someone",
+  "def": "very pleasant, attractive, or enjoyable to experience or look at",
   "tags": [],
   "phrase": false
  },
@@ -2540,9 +2540,9 @@
   "sub": "S1",
   "en": "nerd",
   "de": [
-   "Nerd (Person, die intelligent, aber"
+   "Nerd (Person, die intelligent, aber wenig sozial ist)"
   ],
-  "def": "a person very focused on studying or computers",
+  "def": "a person who is very intelligent but seen as socially awkward or unfashionable",
   "tags": [],
   "phrase": false
  },
@@ -2555,7 +2555,7 @@
    "Ziel",
    "Ziel-"
   ],
-  "def": "something you aim at; a goal",
+  "def": "the particular group of people that a product or advert is aimed at",
   "tags": [],
   "phrase": false
  },
@@ -2568,7 +2568,7 @@
    "Blickfang",
    "Hingucker"
   ],
-  "def": "something that attracts your attention",
+  "def": "something, such as an image, designed to immediately grab people's attention",
   "tags": [],
   "phrase": false
  },
@@ -2580,7 +2580,7 @@
   "de": [
    "Bild"
   ],
-  "def": "something you can see; relating to sight",
+  "def": "a picture or image used to communicate something, e.g. in an advert",
   "tags": [],
   "phrase": false
  },
@@ -2592,7 +2592,7 @@
   "de": [
    "Werbetext"
   ],
-  "def": "the text written for an advertisement",
+  "def": "the written words used in an advertisement to persuade people",
   "tags": [],
   "phrase": false
  },
@@ -2605,7 +2605,7 @@
    "Bild",
    "Abbildung"
   ],
-  "def": "a picture; the way something appears to others",
+  "def": "a picture, or the way a person or thing is generally seen by others",
   "tags": [],
   "phrase": false
  },
@@ -2617,7 +2617,7 @@
   "de": [
    "Plakatwand"
   ],
-  "def": "a large board for displaying advertisements",
+  "def": "a large outdoor sign used to advertise products beside roads",
   "tags": [],
   "phrase": false
  },
@@ -2629,7 +2629,7 @@
   "de": [
    "Herangehensweise"
   ],
-  "def": "to come closer to someone or something",
+  "def": "a particular way of dealing with or thinking about something",
   "tags": [],
   "phrase": false
  },
@@ -2641,7 +2641,7 @@
   "de": [
    "Annäherung"
   ],
-  "def": "a large amount",
+  "def": "informally, an extremely large amount of something, more than expected",
   "tags": [],
   "phrase": false
  },
@@ -2654,7 +2654,7 @@
    "Ankommende/-r",
    "Neuzugang"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "a person or thing that has just arrived, or the arriving itself",
   "tags": [],
   "phrase": false
  },
@@ -2666,7 +2666,7 @@
   "de": [
    "sich mit weniger zufrieden geben"
   ],
-  "def": "to make a home in a new place",
+  "def": "to accept something that is not as good as what you really wanted",
   "tags": [],
   "phrase": false
  },
@@ -2679,7 +2679,7 @@
    "effektiv",
    "wirkungsvoll"
   ],
-  "def": "a change caused by something",
+  "def": "successful in producing the particular result that you want",
   "tags": [],
   "phrase": false
  },
@@ -2691,7 +2691,7 @@
   "de": [
    "anziehen"
   ],
-  "def": "to make someone interested or come closer",
+  "def": "to make someone interested in, or drawn towards, something",
   "tags": [],
   "phrase": false
  },
@@ -2704,7 +2704,7 @@
    "sagenhaft",
    "fantastisch"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "an informal word meaning extremely good, impressive, or wonderful",
   "tags": [],
   "phrase": false
  },
@@ -2717,7 +2717,7 @@
    "Effektivität",
    "Wirksamkeit"
   ],
-  "def": "the state of being effective",
+  "def": "how well something works or achieves what it is meant to",
   "tags": [],
   "phrase": false
  },
@@ -2730,7 +2730,7 @@
    "Abfall",
    "Müll"
   ],
-  "def": "waste; things thrown away",
+  "def": "the American English word for rubbish or waste that is thrown away",
   "tags": [
    "AE"
   ],
@@ -2744,7 +2744,7 @@
   "de": [
    "hässlich"
   ],
-  "def": "not pleasant to look at",
+  "def": "looking very unpleasant or unattractive rather than nice",
   "tags": [],
   "phrase": false
  },
@@ -2758,7 +2758,7 @@
    "Flur",
    "Korridor"
   ],
-  "def": "a long narrow passage in a building",
+  "def": "a long passage in a building that connects different rooms",
   "tags": [],
   "phrase": false
  },
@@ -2770,7 +2770,7 @@
   "de": [
    "Turnhalle"
   ],
-  "def": "a room or building for physical exercise",
+  "def": "a large room or building used for sport and physical exercise",
   "tags": [],
   "phrase": false
  },
@@ -2782,7 +2782,7 @@
   "de": [
    "Labor"
   ],
-  "def": "a room for scientific experiments",
+  "def": "a room specially equipped for doing scientific experiments",
   "tags": [],
   "phrase": false
  },
@@ -2795,7 +2795,7 @@
    "Mobiltelefon",
    "Handy"
   ],
-  "def": "a device for talking to people far away",
+  "def": "the American English word for a mobile phone",
   "tags": [
    "AE"
   ],
@@ -2810,7 +2810,7 @@
    "auslassen",
    "schwänzen"
   ],
-  "def": "to skip; an action",
+  "def": "to deliberately miss a class or lesson without permission",
   "tags": [],
   "phrase": false
  },
@@ -2823,7 +2823,7 @@
    "mogeln",
    "betrügen"
   ],
-  "def": "to cheat; an action",
+  "def": "to act dishonestly in order to gain an unfair advantage, e.g. in a test",
   "tags": [],
   "phrase": false
  },
@@ -2836,7 +2836,7 @@
    "erwischt werden",
    "ertappt werden"
   ],
-  "def": "to receive, obtain, or become something",
+  "def": "to be discovered by someone while doing something wrong",
   "tags": [],
   "phrase": false
  },
@@ -2848,7 +2848,7 @@
   "de": [
    "Schulleiter/-in"
   ],
-  "def": "the head of a school in the US",
+  "def": "the American English word for the head teacher of a school",
   "tags": [
    "AE"
   ],
@@ -2863,7 +2863,7 @@
    "suspendiert werden",
    "zeitweilig"
   ],
-  "def": "to be; an action",
+  "def": "to be temporarily banned from attending school as a punishment",
   "tags": [],
   "phrase": false
  },
@@ -2875,7 +2875,7 @@
   "de": [
    "werden"
   ],
-  "def": "the process or result of an action",
+  "def": "a punishment in which a student must stay at school after normal lessons end",
   "tags": [],
   "phrase": false
  },
@@ -2888,7 +2888,7 @@
    "Mittagszeit",
    "Mittagspause"
   ],
-  "def": "the middle of the day when lunch is eaten",
+  "def": "the time in the middle of the day set aside for eating lunch",
   "tags": [],
   "phrase": false
  },
@@ -2901,7 +2901,7 @@
    "fertigstellen",
    "vervollständigen"
   ],
-  "def": "having all parts; finished",
+  "def": "to finish doing a piece of work completely",
   "tags": [],
   "phrase": false
  },
@@ -2914,7 +2914,7 @@
    "Konsequenz",
    "Folge"
   ],
-  "def": "the result of an action",
+  "def": "a result that happens because of a particular action or decision",
   "tags": [],
   "phrase": false
  },
@@ -2926,7 +2926,7 @@
   "de": [
    "sonst"
   ],
-  "def": "if not; in a different way",
+  "def": "if not; under different circumstances than the ones just mentioned",
   "tags": [],
   "phrase": false
  },
@@ -2940,7 +2940,7 @@
    "Schlange stehen",
    "(sich)"
   ],
-  "def": "to be on your feet in an upright position",
+  "def": "to wait one's turn in a row of people, American English",
   "tags": [
    "AE"
   ],
@@ -2954,7 +2954,7 @@
   "de": [
    "ausschalten"
   ],
-  "def": "to switch; an action",
+  "def": "to turn off a device or piece of equipment",
   "tags": [],
   "phrase": false
  },
@@ -2966,7 +2966,7 @@
   "de": [
    "im Begriff sein, etw. zu tun"
   ],
-  "def": "on the subject of; approximately",
+  "def": "to be going to do something very soon",
   "tags": [],
   "phrase": true
  },
@@ -2978,7 +2978,7 @@
   "de": [
    "in Schwierigkeiten geraten"
   ],
-  "def": "to receive, obtain, or become something",
+  "def": "to end up in a difficult situation, often by breaking a rule",
   "tags": [],
   "phrase": false
  },
@@ -2991,7 +2991,7 @@
    "damit",
    "so dass"
   ],
-  "def": "for that reason; therefore",
+  "def": "used to explain the purpose or result of doing something",
   "tags": [],
   "phrase": false
  },
@@ -3003,7 +3003,7 @@
   "de": [
    "Spickzettel"
   ],
-  "def": "a hidden note used to cheat in a test",
+  "def": "a small note with answers, hidden and used secretly during a test",
   "tags": [],
   "phrase": false
  },
@@ -3015,7 +3015,7 @@
   "de": [
    "Du solltest lieber …"
   ],
-  "def": "the person or people being spoken to",
+  "def": "used to strongly advise someone what they should do",
   "tags": [],
   "phrase": true
  },
@@ -3027,7 +3027,7 @@
   "de": [
    "Wenn ich du wäre …"
   ],
-  "def": "past tense of are (for you, we, they)",
+  "def": "used to give advice by imagining yourself in someone else's situation",
   "tags": [],
   "phrase": true
  },
@@ -3039,7 +3039,7 @@
   "de": [
    "Wer nicht wagt, der nicht gewinnt."
   ],
-  "def": "enjoyment and pleasure",
+  "def": "a saying meaning you have to take a risk to gain or enjoy something",
   "tags": [],
   "phrase": true
  },
@@ -3051,7 +3051,7 @@
   "de": [
    "wütend"
   ],
-  "def": "angry; crazy",
+  "def": "feeling extremely angry, especially about what someone has done",
   "tags": [],
   "phrase": false
  },
@@ -3063,7 +3063,7 @@
   "de": [
    "Ich sehe keinen Sinn darin …"
   ],
-  "def": "to show where something is with your finger",
+  "def": "used to say you think something is pointless or has no purpose",
   "tags": [],
   "phrase": true
  },
@@ -3075,7 +3075,7 @@
   "de": [
    "Verschwendung"
   ],
-  "def": "things thrown away or not used properly",
+  "def": "using time, money, or resources in a way that brings no benefit",
   "tags": [],
   "phrase": false
  },
@@ -3087,7 +3087,7 @@
   "de": [
    "Kreuzung"
   ],
-  "def": "the process or result of an action",
+  "def": "a place where two or more roads cross each other",
   "tags": [],
   "phrase": false
  },
@@ -3100,7 +3100,7 @@
    "Distrikt",
    "Bezirk"
   ],
-  "def": "an area of a city or country",
+  "def": "an area of a town or city with a particular feature or purpose",
   "tags": [],
   "phrase": false
  },
@@ -3112,7 +3112,7 @@
   "de": [
    "Lunge"
   ],
-  "def": "one of two organs in your chest used for breathing",
+  "def": "one of the two organs in the chest that are used for breathing",
   "tags": [],
   "phrase": false
  },
@@ -3124,7 +3124,7 @@
   "de": [
    "Unmengen von/an"
   ],
-  "def": "a large amount of",
+  "def": "a large amount of something, as if it filled someone's pockets",
   "tags": [],
   "phrase": false
  },
@@ -3136,7 +3136,7 @@
   "de": [
    "wird/werden"
   ],
-  "def": "informal for 'going to'",
+  "def": "an informal spoken way of saying 'going to' before a verb",
   "tags": [
    "coll"
   ],
@@ -3150,7 +3150,7 @@
   "de": [
    "es schaffen"
   ],
-  "def": "to create or produce something",
+  "def": "to succeed in reaching or achieving something difficult",
   "tags": [],
   "phrase": false
  },
@@ -3162,7 +3162,7 @@
   "de": [
    "mit allen Mitteln"
   ],
-  "def": "one or some, no matter which",
+  "def": "using every possible method available to achieve something",
   "tags": [],
   "phrase": false
  },
@@ -3175,7 +3175,7 @@
    "inspirieren",
    "anregen"
   ],
-  "def": "to give someone the desire to do something",
+  "def": "to give someone the idea or confidence to do or create something",
   "tags": [],
   "phrase": false
  },
@@ -3187,7 +3187,7 @@
   "de": [
    "Schmelztiegel"
   ],
-  "def": "a place where different cultures mix together",
+  "def": "a place where many different cultures and peoples mix together",
   "tags": [],
   "phrase": false
  },
@@ -3199,7 +3199,7 @@
   "de": [
    "Dschungel"
   ],
-  "def": "a thick tropical forest with many plants",
+  "def": "a thick tropical forest, or informally a busy and confusing place",
   "tags": [],
   "phrase": false
  },
@@ -3211,7 +3211,7 @@
   "de": [
    "sich das Beste bis zum Schluss"
   ],
-  "def": "to keep something safe or keep money",
+  "def": "to deliberately keep the best thing until the very end",
   "tags": [],
   "phrase": true
  },
@@ -3223,7 +3223,7 @@
   "de": [
    "sich den Tag freinehmen"
   ],
-  "def": "to hold and move something to yourself",
+  "def": "to not go to work or school for one whole day",
   "tags": [],
   "phrase": true
  },
@@ -3235,7 +3235,7 @@
   "de": [
    "einfaches Restaurant mit Theke"
   ],
-  "def": "a person or thing that does something",
+  "def": "the American English word for a small, simple restaurant with a counter",
   "tags": [
    "AE"
   ],
@@ -3250,7 +3250,7 @@
    "Konferenz",
    "Tagung"
   ],
-  "def": "a large meeting to discuss a topic",
+  "def": "a large formal meeting where people discuss a particular topic",
   "tags": [],
   "phrase": false
  },
@@ -3262,7 +3262,7 @@
   "de": [
    "Reiseführer"
   ],
-  "def": "a book with information about places to visit",
+  "def": "a book that gives tourists information and advice about a place",
   "tags": [],
   "phrase": false
  },
@@ -3275,7 +3275,7 @@
    "tief Luft holen",
    "keuchen"
   ],
-  "def": "to gasp; an action",
+  "def": "to take a sudden, sharp breath, e.g. from shock or surprise",
   "tags": [],
   "phrase": false
  },
@@ -3287,7 +3287,7 @@
   "de": [
    "klassisch"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "relating to formal, traditional Western music from past centuries",
   "tags": [],
   "phrase": false
  },
@@ -3299,7 +3299,7 @@
   "de": [
    "Bank"
   ],
-  "def": "a place to keep money; the side of a river",
+  "def": "a business that keeps people's money safe, lends money, and offers financial services",
   "tags": [],
   "phrase": false
  },
@@ -3311,7 +3311,7 @@
   "de": [
    "Skulptur"
   ],
-  "def": "a work of art made by shaping material",
+  "def": "a work of art carved or shaped from stone or metal",
   "tags": [],
   "phrase": false
  },
@@ -3323,7 +3323,7 @@
   "de": [
    "da"
   ],
-  "def": "from a time in the past until now; because",
+  "def": "because; used to give a reason for something",
   "tags": [],
   "phrase": false
  },
@@ -3335,7 +3335,7 @@
   "de": [
    "nackt"
   ],
-  "def": "not wearing any clothes",
+  "def": "wearing no clothes at all on your body",
   "tags": [],
   "phrase": false
  },
@@ -3348,7 +3348,7 @@
    "umsonst",
    "kostenlos"
   ],
-  "def": "without having to pay",
+  "def": "without having to pay any money for it",
   "tags": [],
   "phrase": false
  },
@@ -3360,7 +3360,7 @@
   "de": [
    "für/mit wenig Geld"
   ],
-  "def": "with very little money",
+  "def": "using or having only a very small amount of money",
   "tags": [],
   "phrase": false
  },
@@ -3372,7 +3372,7 @@
   "de": [
    "den richtigen Zeitpunkt wählen"
   ],
-  "def": "what a clock measures in hours and minutes",
+  "def": "to choose the right moment for doing something",
   "tags": [],
   "phrase": false
  },
@@ -3385,7 +3385,7 @@
    "Block",
    "Häuserblock"
   ],
-  "def": "a large piece; a city area between streets",
+  "def": "a section of a city street, with other streets on every side",
   "tags": [],
   "phrase": false
  },
@@ -3398,7 +3398,7 @@
    "Enthusiasmus",
    "Begeisterung"
   ],
-  "def": "a strong feeling of excitement and interest",
+  "def": "a strong feeling of excitement and interest in something",
   "tags": [],
   "phrase": false
  },
@@ -3410,7 +3410,7 @@
   "de": [
    "gerade rechtzeitig"
   ],
-  "def": "only a moment ago or exactly",
+  "def": "happening at the last possible moment before it would be too late",
   "tags": [],
   "phrase": false
  },
@@ -3422,7 +3422,7 @@
   "de": [
    "Sonnenuntergang"
   ],
-  "def": "the time when the sun goes down",
+  "def": "the time in the evening when the sun goes down",
   "tags": [],
   "phrase": false
  },
@@ -3435,7 +3435,7 @@
    "schleichen",
    "schmuggeln"
   ],
-  "def": "to sneak,; an action",
+  "def": "to move somewhere quietly and secretly so as not to be noticed",
   "tags": [],
   "phrase": false
  },
@@ -3449,7 +3449,7 @@
    "Dienstleistung",
    "Dienst"
   ],
-  "def": "a ceremony; help provided",
+  "def": "help or work provided for customers, such as in a restaurant",
   "tags": [],
   "phrase": false
  },
@@ -3461,7 +3461,7 @@
   "de": [
    "Überlass das mir."
   ],
-  "def": "to go away from a place",
+  "def": "used to tell someone that you will take care of a matter yourself",
   "tags": [],
   "phrase": true
  },
@@ -3475,7 +3475,7 @@
    "leuchtend",
    "strahlend"
   ],
-  "def": "giving out or filled with light",
+  "def": "giving out or full of strong, clear light",
   "tags": [],
   "phrase": false
  },
@@ -3487,7 +3487,7 @@
   "de": [
    "Reiseanbieter"
   ],
-  "def": "a business that sells products or services",
+  "def": "a business that organizes trips and sightseeing tours",
   "tags": [],
   "phrase": false
  },
@@ -3500,7 +3500,7 @@
    "gelegen sein",
    "liegen"
   ],
-  "def": "to be; an action",
+  "def": "to be positioned or situated in a particular place",
   "tags": [],
   "phrase": false
  },
@@ -3512,7 +3512,7 @@
   "de": [
    "U-Bahn"
   ],
-  "def": "an underground railway system",
+  "def": "the American English word for an underground railway system",
   "tags": [
    "AE"
   ],
@@ -3526,7 +3526,7 @@
   "de": [
    "stöhnen"
   ],
-  "def": "to groan; an action",
+  "def": "to make a long, low sound because of pain, annoyance, or disappointment",
   "tags": [],
   "phrase": false
  },
@@ -3539,7 +3539,7 @@
    "Statue",
    "Standbild"
   ],
-  "def": "a figure of a person or animal made from stone",
+  "def": "a solid figure of a person or animal, made from stone or metal",
   "tags": [],
   "phrase": false
  },
@@ -3551,7 +3551,7 @@
   "de": [
    "Freiheit"
   ],
-  "def": "the freedom to live as you choose",
+  "def": "the freedom to live, think, and act as you choose",
   "tags": [],
   "phrase": false
  },
@@ -3563,7 +3563,7 @@
   "de": [
    "Künstler/-in"
   ],
-  "def": "a person who specializes in something",
+  "def": "a person who creates works of art, such as paintings or sculptures",
   "tags": [],
   "phrase": false
  },
@@ -3575,7 +3575,7 @@
   "de": [
    "Tafel"
   ],
-  "def": "a flat stone or digital screen",
+  "def": "a flat slab, especially one with writing or symbols carved into it",
   "tags": [],
   "phrase": false
  },
@@ -3588,7 +3588,7 @@
    "Spitze",
    "Stachel"
   ],
-  "def": "a sharp pointed piece of metal",
+  "def": "a sharp pointed part sticking out of something",
   "tags": [],
   "phrase": false
  },
@@ -3600,7 +3600,7 @@
   "de": [
    "stützen auf"
   ],
-  "def": "to base; an action",
+  "def": "to use something as the basis or origin for an idea",
   "tags": [],
   "phrase": false
  },
@@ -3612,7 +3612,7 @@
   "de": [
    "Göttin"
   ],
-  "def": "a female god",
+  "def": "a female god worshipped in mythology or religion",
   "tags": [],
   "phrase": false
  },
@@ -3624,7 +3624,7 @@
   "de": [
    "bekannt sein als"
   ],
-  "def": "to be; an action",
+  "def": "to be called or recognized by a particular name",
   "tags": [],
   "phrase": false
  },
@@ -3637,7 +3637,7 @@
    "Aufklärung",
    "Erleuchtung"
   ],
-  "def": "the result or state of an action",
+  "def": "a period in history when people valued reason, knowledge, and freedom",
   "tags": [],
   "phrase": false
  },
@@ -3651,7 +3651,7 @@
    "Volks-",
    "hier: exotisch"
   ],
-  "def": "relating to a group sharing culture and traditions",
+  "def": "relating to a particular national, racial, or cultural group",
   "tags": [],
   "phrase": false
  },
@@ -3663,7 +3663,7 @@
   "de": [
    "von außen"
   ],
-  "def": "not inside; in the open air",
+  "def": "as seen or judged by someone who is not directly involved",
   "tags": [],
   "phrase": false
  },
@@ -3675,7 +3675,7 @@
   "de": [
    "köstlich"
   ],
-  "def": "having a very pleasant taste",
+  "def": "having a taste that is extremely pleasant and enjoyable",
   "tags": [],
   "phrase": false
  },
@@ -3687,7 +3687,7 @@
   "de": [
    "gebraten (in der Pfanne)"
   ],
-  "def": "cooked in hot oil",
+  "def": "cooked in hot oil or fat in a pan",
   "tags": [],
   "phrase": false
  },
@@ -3700,7 +3700,7 @@
    "Teig",
    "Teigtasche"
   ],
-  "def": "a dough used for pies; a baked treat",
+  "def": "a food made from a mixture of flour, fat, and water, often baked",
   "tags": [],
   "phrase": false
  },
@@ -3712,7 +3712,7 @@
   "de": [
    "Füllung"
   ],
-  "def": "food inside a sandwich or pie",
+  "def": "the food placed inside a sandwich, pie, or pastry",
   "tags": [],
   "phrase": false
  },
@@ -3724,7 +3724,7 @@
   "de": [
    "jüdisch"
   ],
-  "def": "relating to the religion or culture of Judaism",
+  "def": "relating to the culture, religion, or ethnic identity of Jews",
   "tags": [],
   "phrase": false
  },
@@ -3736,7 +3736,7 @@
   "de": [
    "hier: Wagen"
   ],
-  "def": "a large vehicle for carrying goods",
+  "def": "a vehicle parked on the street that sells food to customers",
   "tags": [
    "AE"
   ],
@@ -3750,7 +3750,7 @@
   "de": [
    "Karren"
   ],
-  "def": "a vehicle with wheels pulled by animals",
+  "def": "a simple vehicle, often pushed by hand, used to carry or sell goods",
   "tags": [],
   "phrase": false
  },
@@ -3762,7 +3762,7 @@
   "de": [
    "New Yorker/-in"
   ],
-  "def": "recently made or not existing before",
+  "def": "a person who lives in or comes from New York City",
   "tags": [],
   "phrase": false
  },
@@ -3775,7 +3775,7 @@
    "kombinieren",
    "verbinden"
   ],
-  "def": "to combine; an action",
+  "def": "to join two or more things together to form one",
   "tags": [],
   "phrase": false
  },
@@ -3788,7 +3788,7 @@
    "Geschmack",
    "Aroma"
   ],
-  "def": "a person or thing that does something",
+  "def": "the American English word for the taste of food or drink",
   "tags": [
    "AE"
   ],
@@ -3803,7 +3803,7 @@
    "Spezialität",
    "Besonderheit"
   ],
-  "def": "something special that a place is known for",
+  "def": "the American English word for a food, skill, or product a place is known for",
   "tags": [
    "AE"
   ],
@@ -3818,7 +3818,7 @@
    "Kombination",
    "Verbindung"
   ],
-  "def": "the process or result of an action",
+  "def": "a mixture formed by joining different things together",
   "tags": [],
   "phrase": false
  },
@@ -3830,7 +3830,7 @@
   "de": [
    "Heimatstadt"
   ],
-  "def": "the city or town where you grew up",
+  "def": "the town or city where a person was born or grew up",
   "tags": [],
   "phrase": false
  },
@@ -3843,7 +3843,7 @@
    "Fleck",
    "Ort"
   ],
-  "def": "a particular place; a small round mark",
+  "def": "a particular place or location, often a small one",
   "tags": [],
   "phrase": false
  },
@@ -3857,7 +3857,7 @@
    "hochheben",
    "anheben"
   ],
-  "def": "a machine that carries people between floors",
+  "def": "to physically move something upward to a higher position",
   "tags": [],
   "phrase": false
  },
@@ -3869,7 +3869,7 @@
   "de": [
    "Kofferraum"
   ],
-  "def": "the thick main part of a tree; a large storage box",
+  "def": "the American English word for the storage space at the back of a car",
   "tags": [
    "AE"
   ],
@@ -3883,7 +3883,7 @@
   "de": [
    "fertig sein mit"
   ],
-  "def": "together with; using",
+  "def": "to have finished using or dealing with something",
   "tags": [],
   "phrase": false
  },
@@ -3895,7 +3895,7 @@
   "de": [
    "Durchbruch"
   ],
-  "def": "to separate into pieces or stop working",
+  "def": "a sudden important success or opportunity, especially in a career",
   "tags": [],
   "phrase": false
  },
@@ -3908,7 +3908,7 @@
    "Ablehnung",
    "Absage"
   ],
-  "def": "the process or result of an action",
+  "def": "the act of refusing to accept a person or their idea",
   "tags": [],
   "phrase": false
  },
@@ -3921,7 +3921,7 @@
    "wahr werden",
    "in Erfüllung gehen"
   ],
-  "def": "to move towards the speaker or a place",
+  "def": "to actually happen, as something that was hoped for or dreamed of",
   "tags": [],
   "phrase": false
  },
@@ -3933,7 +3933,7 @@
   "de": [
    "(viel) Glück"
   ],
-  "def": "wishing someone success",
+  "def": "used to wish someone success before something important",
   "tags": [],
   "phrase": false
  },
@@ -3946,7 +3946,7 @@
    "Gehweg",
    "Gehsteig"
   ],
-  "def": "a path for walking beside a road",
+  "def": "the American English word for a paved path for walking beside a road",
   "tags": [
    "AE"
   ],
@@ -3960,7 +3960,7 @@
   "de": [
    "Geschäftsmann"
   ],
-  "def": "a man who works in business",
+  "def": "a man who works in business, especially in a senior position",
   "tags": [],
   "phrase": false
  },
@@ -3973,7 +3973,7 @@
    "nicht notwendigerweise",
    "nicht"
   ],
-  "def": "used to make a word or phrase negative",
+  "def": "not always true, even though it might seem likely at first",
   "tags": [],
   "phrase": false
  },
@@ -3985,7 +3985,7 @@
   "de": [
    "jedoch"
   ],
-  "def": "but; despite that",
+  "def": "used to introduce a contrast with what was just said",
   "tags": [],
   "phrase": false
  },
@@ -3998,7 +3998,7 @@
    "Geldschein",
    "Rechnung"
   ],
-  "def": "a piece of paper money; a request for payment",
+  "def": "a piece of paper money, or a list of costs owed",
   "tags": [
    "AE"
   ],
@@ -4013,7 +4013,7 @@
    "Münzgeld",
    "Wechselgeld"
   ],
-  "def": "to become different or make something different",
+  "def": "coins, or the money given back when you pay more than the price",
   "tags": [],
   "phrase": false
  },
@@ -4025,7 +4025,7 @@
   "de": [
    "einsteigen"
   ],
-  "def": "inside a place or container",
+  "def": "to enter a vehicle such as a car or taxi",
   "tags": [],
   "phrase": false
  },
@@ -4039,7 +4039,7 @@
    "und trotzdem",
    "und dennoch"
   ],
-  "def": "still; but; up to now",
+  "def": "used to introduce a surprising contrast, similar to 'but still'",
   "tags": [],
   "phrase": false
  },
@@ -4052,7 +4052,7 @@
    "sich beschweren",
    "sich beklagen"
   ],
-  "def": "to say you are unhappy about something",
+  "def": "to say that you are unhappy or dissatisfied about something",
   "tags": [],
   "phrase": false
  },
@@ -4065,7 +4065,7 @@
    "einkaufen",
    "shoppen"
   ],
-  "def": "to visit shops to buy things",
+  "def": "to go somewhere in order to buy things",
   "tags": [],
   "phrase": false
  },
@@ -4078,7 +4078,7 @@
    "natürlich",
    "selbstverständlich"
   ],
-  "def": "to speak words or express something",
+  "def": "used to say that something is so obvious it hardly needs mentioning",
   "tags": [],
   "phrase": false
  },
@@ -4090,7 +4090,7 @@
   "de": [
    "Trinkgeld"
   ],
-  "def": "a small amount of extra money for service; advice",
+  "def": "extra money given to someone, such as a waiter, for good service",
   "tags": [],
   "phrase": false
  },
@@ -4102,7 +4102,7 @@
   "de": [
    "Note"
   ],
-  "def": "a level or score showing how well you did",
+  "def": "the American English word for a mark given for school work",
   "tags": [
    "AE"
   ],
@@ -4116,7 +4116,7 @@
   "de": [
    "Straßenmusikant/-in"
   ],
-  "def": "a person or thing that does something",
+  "def": "a musician who performs in public places, hoping for money",
   "tags": [],
   "phrase": false
  },
@@ -4129,7 +4129,7 @@
    "aufführen",
    "auftreten"
   ],
-  "def": "to do something or act in front of people",
+  "def": "to present something, such as music or a play, in front of an audience",
   "tags": [],
   "phrase": false
  },
@@ -4141,7 +4141,7 @@
   "de": [
    "Autobahn"
   ],
-  "def": "a wide road with no traffic lights",
+  "def": "the American English word for a large road built for fast, long-distance traffic",
   "tags": [
    "AE"
   ],
@@ -4156,7 +4156,7 @@
    "transportieren",
    "befördern"
   ],
-  "def": "vehicles for carrying people or goods",
+  "def": "to carry people or goods from one place to another",
   "tags": [],
   "phrase": false
  },
@@ -4168,7 +4168,7 @@
   "de": [
    "Lastwagen"
   ],
-  "def": "a large vehicle for carrying goods (British English)",
+  "def": "the British English word for a large vehicle used to carry goods",
   "tags": [],
   "phrase": false
  },
@@ -4181,7 +4181,7 @@
    "versäumen, etw. zu tun",
    "es nicht"
   ],
-  "def": "to not succeed at something",
+  "def": "to not manage to do something that was expected or needed",
   "tags": [],
   "phrase": true
  },
@@ -4193,7 +4193,7 @@
   "de": [
    "vom Tellerwäscher zum Millionär"
   ],
-  "def": "going from being poor to being rich",
+  "def": "describing someone who goes from being very poor to becoming very rich",
   "tags": [],
   "phrase": false
  },
@@ -4205,7 +4205,7 @@
   "de": [
    "seinen Lebensunterhalt bestreiten"
   ],
-  "def": "to create or produce something",
+  "def": "to earn enough money from an activity to live on",
   "tags": [],
   "phrase": true
  },
@@ -4217,7 +4217,7 @@
   "de": [
    "entweder … oder …"
   ],
-  "def": "a sentence pattern used in everyday English",
+  "def": "used to show a choice between two possibilities",
   "tags": [],
   "phrase": true
  },
@@ -4229,7 +4229,7 @@
   "de": [
    "Bild (eines Comics)"
   ],
-  "def": "a flat section; one picture in a comic",
+  "def": "one single picture or box that makes up part of a comic strip",
   "tags": [],
   "phrase": false
  },
@@ -4242,7 +4242,7 @@
    "Einführung",
    "Einleitung"
   ],
-  "def": "an introduction to something",
+  "def": "the introductory part that leads into the main content",
   "tags": [],
   "phrase": false
  },
@@ -4254,7 +4254,7 @@
   "de": [
    "Form"
   ],
-  "def": "the form of something like a circle or square",
+  "def": "the particular outline or form that something has",
   "tags": [],
   "phrase": false
  },
@@ -4267,7 +4267,7 @@
    "Abfolge",
    "Reihenfolge"
   ],
-  "def": "things arranged in a particular order",
+  "def": "the order in which a series of events or things happen",
   "tags": [],
   "phrase": false
  },
@@ -4280,7 +4280,7 @@
    "aufeinanderfolgend",
    "fortlaufend"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "following one after another with nothing in between",
   "tags": [],
   "phrase": false
  },
@@ -4292,7 +4292,7 @@
   "de": [
    "(sich) überlappen"
   ],
-  "def": "to overlap; an action",
+  "def": "to partly cover, or to happen at the same time as, something else",
   "tags": [],
   "phrase": false
  },
@@ -4304,7 +4304,7 @@
   "de": [
    "legen"
   ],
-  "def": "to lay,; an action",
+  "def": "to put something down carefully in a flat position",
   "tags": [],
   "phrase": false
  },
@@ -4317,7 +4317,7 @@
    "benutzen",
    "verwenden"
   ],
-  "def": "to create or produce something",
+  "def": "to use something for a particular purpose or benefit",
   "tags": [],
   "phrase": false
  },
@@ -4329,7 +4329,7 @@
   "de": [
    "Totale (Kameraeinstellung)"
   ],
-  "def": "measuring a great distance or time",
+  "def": "a camera shot taken from far away, showing a wide view of a scene",
   "tags": [],
   "phrase": false
  },
@@ -4341,7 +4341,7 @@
   "de": [
    "Halbtotale (Kameraeinstellung)"
   ],
-  "def": "an act of shooting; a photograph; an attempt",
+  "def": "a camera shot that shows a person from about the waist upwards",
   "tags": [],
   "phrase": false
  },
@@ -4354,7 +4354,7 @@
    "mittel",
    "mittelgroß"
   ],
-  "def": "in the middle between small and large",
+  "def": "average in size or amount, neither large nor small",
   "tags": [],
   "phrase": false
  },
@@ -4367,7 +4367,7 @@
    "Effekt",
    "Wirkung"
   ],
-  "def": "a change caused by something",
+  "def": "a change or result that is caused by something else",
   "tags": [],
   "phrase": false
  },
@@ -4380,7 +4380,7 @@
    "Stil-",
    "stilistisch"
   ],
-  "def": "relating to style or design",
+  "def": "relating to a particular style, especially in art or writing",
   "tags": [],
   "phrase": false
  },
@@ -4392,7 +4392,7 @@
   "de": [
    "Geschwindigkeit"
   ],
-  "def": "how fast something moves",
+  "def": "the rate at which something or someone is moving",
   "tags": [],
   "phrase": false
  },
@@ -4405,7 +4405,7 @@
    "schaudern",
    "sich ducken"
   ],
-  "def": "to cringe; an action",
+  "def": "to feel embarrassed, uncomfortable, or awkward about something",
   "tags": [],
   "phrase": false
  },
@@ -4417,7 +4417,7 @@
   "de": [
    "unerwartet"
   ],
-  "def": "not expected; surprising",
+  "def": "not thought likely to happen; surprising and sudden",
   "tags": [],
   "phrase": false
  },
@@ -4430,7 +4430,7 @@
    "durchführen",
    "ausführen"
   ],
-  "def": "to conduct; an action",
+  "def": "to organize and carry out an activity, such as research",
   "tags": [],
   "phrase": false
  },
@@ -4443,7 +4443,7 @@
    "Pfad",
    "Weg"
   ],
-  "def": "a narrow way for walking",
+  "def": "a track or way that people or animals can walk along",
   "tags": [],
   "phrase": false
  },
@@ -4456,7 +4456,7 @@
    "Fortsetzung",
    "Folge-"
   ],
-  "def": "something that continues from before",
+  "def": "something that continues on from, or adds more to, something done earlier",
   "tags": [],
   "phrase": false
  },
@@ -4469,7 +4469,7 @@
    "Gespräch",
    "Unterhaltung"
   ],
-  "def": "a conversation; a speech or presentation",
+  "def": "a spoken conversation between two or more people",
   "tags": [],
   "phrase": false
  },
@@ -4482,7 +4482,7 @@
    "verlässlich",
    "zuverlässig"
   ],
-  "def": "able to be trusted and depended on",
+  "def": "able to be trusted to work correctly or behave as expected",
   "tags": [],
   "phrase": false
  },
@@ -4495,7 +4495,7 @@
    "unbequem",
    "lästig"
   ],
-  "def": "causing difficulty; not suitable",
+  "def": "causing trouble, difficulty, or annoyance at a bad time",
   "tags": [],
   "phrase": false
  },
@@ -4509,7 +4509,7 @@
    "zeitgemäß",
    "aktuell"
   ],
-  "def": "including the latest information",
+  "def": "including the newest information, ideas, or features available",
   "tags": [],
   "phrase": false
  },
@@ -4522,7 +4522,7 @@
    "Tutorium",
    "Tutorial"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "a lesson or guide that teaches you how to do something step by step",
   "tags": [],
   "phrase": false
  },
@@ -4534,7 +4534,7 @@
   "de": [
    "Mondlandung"
   ],
-  "def": "the bright object in the night sky",
+  "def": "the event of a spacecraft landing safely on the surface of the moon",
   "tags": [],
   "phrase": false
  },
@@ -4547,7 +4547,7 @@
    "Wissenschaft",
    "Naturwissenschaft"
   ],
-  "def": "the study of the natural world",
+  "def": "the study of the natural world through observation and experiments",
   "tags": [],
   "phrase": false
  },
@@ -4559,7 +4559,7 @@
   "de": [
    "Astronaut/-in"
   ],
-  "def": "a person who travels in space",
+  "def": "a person trained to travel and work in space",
   "tags": [],
   "phrase": false
  },
@@ -4571,7 +4571,7 @@
   "de": [
    "Mensch"
   ],
-  "def": "relating to people; a person",
+  "def": "a person, as opposed to an animal or a machine",
   "tags": [],
   "phrase": false
  },
@@ -4583,7 +4583,7 @@
   "de": [
    "als etw. gelten"
   ],
-  "def": "a common English phrase or expression",
+  "def": "to be generally thought of or regarded as a particular thing",
   "tags": [],
   "phrase": true
  },
@@ -4595,7 +4595,7 @@
   "de": [
    "Wikitext"
   ],
-  "def": "a website that anyone can edit",
+  "def": "text formatted in the simple style used on collaborative reference websites",
   "tags": [],
   "phrase": false
  },
@@ -4608,7 +4608,7 @@
    "Mission",
    "Auftrag"
   ],
-  "def": "the process or result of an action",
+  "def": "an important job or task that a person or team is sent to carry out",
   "tags": [],
   "phrase": false
  },
@@ -4620,7 +4620,7 @@
   "de": [
    "landen"
   ],
-  "def": "to put your hand on something",
+  "def": "to land, especially used to describe an aircraft or spacecraft",
   "tags": [],
   "phrase": false
  },
@@ -4632,7 +4632,7 @@
   "de": [
    "Oberfläche"
   ],
-  "def": "the outside or top layer of something",
+  "def": "the outer or top layer of an object or area",
   "tags": [],
   "phrase": false
  },
@@ -4645,7 +4645,7 @@
    "ankündigen",
    "durchsagen"
   ],
-  "def": "to tell people about something publicly",
+  "def": "to tell people something officially, publicly, or formally",
   "tags": [],
   "phrase": false
  },
@@ -4658,7 +4658,7 @@
    "treten",
    "steigen"
   ],
-  "def": "one movement of your foot; a stage in a process",
+  "def": "to move by lifting one foot and putting it down again",
   "tags": [],
   "phrase": false
  },
@@ -4670,7 +4670,7 @@
   "de": [
    "Präsident/-in"
   ],
-  "def": "the leader of a country or organization",
+  "def": "the leader of a country or an organization",
   "tags": [],
   "phrase": false
  },
@@ -4683,7 +4683,7 @@
    "Priorität",
    "Vorrang"
   ],
-  "def": "something more important than other things",
+  "def": "the thing considered most important, and dealt with before anything else",
   "tags": [],
   "phrase": false
  },
@@ -4695,7 +4695,7 @@
   "de": [
    "herausfordern"
   ],
-  "def": "to invite someone to compete or question something",
+  "def": "to invite someone to compete, or to question whether something is true",
   "tags": [],
   "phrase": false
  },
@@ -4708,7 +4708,7 @@
    "Ingenieur/-in",
    "Techniker/-in"
   ],
-  "def": "a machine that produces power to move something",
+  "def": "a person who designs, builds, or maintains machines or structures",
   "tags": [],
   "phrase": false
  },
@@ -4720,7 +4720,7 @@
   "de": [
    "politisch"
   ],
-  "def": "relating to government and public affairs",
+  "def": "relating to government, politics, or public affairs generally",
   "tags": [],
   "phrase": false
  },
@@ -4733,7 +4733,7 @@
    "Täuschung",
    "Trick"
   ],
-  "def": "a trick making people believe something false",
+  "def": "a trick intended to make people believe something that is false",
   "tags": [],
   "phrase": false
  },
@@ -4745,7 +4745,7 @@
   "de": [
    "Verschwörung"
   ],
-  "def": "a secret plan to do something harmful",
+  "def": "a secret plan made by a group of people to do something harmful",
   "tags": [],
   "phrase": false
  },
@@ -4757,7 +4757,7 @@
   "de": [
    "Theorie"
   ],
-  "def": "an idea that explains something",
+  "def": "an idea meant to explain why or how something happens",
   "tags": [],
   "phrase": false
  },
@@ -4770,7 +4770,7 @@
    "inszenieren",
    "aufführen"
   ],
-  "def": "to stage; an action",
+  "def": "to arrange or fake an event so that it looks real",
   "tags": [],
   "phrase": false
  },
@@ -4782,7 +4782,7 @@
   "de": [
    "die Öffentlichkeit"
   ],
-  "def": "open to or for everyone",
+  "def": "ordinary people in general, as opposed to a particular group",
   "tags": [],
   "phrase": false
  },
@@ -4795,7 +4795,7 @@
    "involvieren",
    "einbeziehen"
   ],
-  "def": "to include as a necessary part",
+  "def": "to include someone or something as a necessary part",
   "tags": [],
   "phrase": false
  },
@@ -4807,7 +4807,7 @@
   "de": [
    "Vertuschung"
   ],
-  "def": "hiding the truth about something wrong",
+  "def": "an attempt to hide the truth about something that went wrong",
   "tags": [],
   "phrase": false
  },
@@ -4819,7 +4819,7 @@
   "de": [
    "Regierung"
   ],
-  "def": "the group of people who rule a country",
+  "def": "the group of people who officially run a country",
   "tags": [],
   "phrase": false
  },
@@ -4831,7 +4831,7 @@
   "de": [
    "kompliziert"
   ],
-  "def": "difficult to understand; not simple",
+  "def": "difficult to understand because it has many different parts",
   "tags": [],
   "phrase": false
  },
@@ -4843,7 +4843,7 @@
   "de": [
    "unmöglich"
   ],
-  "def": "not able to happen or be done",
+  "def": "completely unable to happen, exist, or be done",
   "tags": [],
   "phrase": false
  },
@@ -4856,7 +4856,7 @@
    "Sinn ergeben",
    "einleuchten"
   ],
-  "def": "one of the five abilities (sight, hearing, etc.); good judgment",
+  "def": "to be logical, clear, and easy to understand",
   "tags": [],
   "phrase": false
  },
@@ -4868,7 +4868,7 @@
   "de": [
    "damals"
   ],
-  "def": "what a clock measures in hours and minutes",
+  "def": "at that particular moment or period in the past",
   "tags": [],
   "phrase": false
  },
@@ -4882,7 +4882,7 @@
    "leiten",
    "führen"
   ],
-  "def": "to move quickly using your legs",
+  "def": "to be in charge of and manage an organization or business",
   "tags": [],
   "phrase": false
  },
@@ -4895,7 +4895,7 @@
    "Technologie",
    "Technik"
   ],
-  "def": "short for technology",
+  "def": "short for technology, especially computers and electronic devices",
   "tags": [],
   "phrase": false
  },
@@ -4907,7 +4907,7 @@
   "de": [
    "Respekt"
   ],
-  "def": "to admire someone for their qualities",
+  "def": "a feeling of admiration for someone because of their qualities or achievements",
   "tags": [],
   "phrase": false
  },
@@ -4919,7 +4919,7 @@
   "de": [
    "unterhaltsam"
   ],
-  "def": "fun and enjoyable to watch or do",
+  "def": "enjoyable to watch, listen to, or take part in",
   "tags": [],
   "phrase": false
  },
@@ -4931,7 +4931,7 @@
   "de": [
    "Funktion"
   ],
-  "def": "the process or result of an action",
+  "def": "the particular purpose or job that something has",
   "tags": [],
   "phrase": false
  },
@@ -4944,7 +4944,7 @@
    "austricksen",
    "täuschen"
   ],
-  "def": "a clever action to fool someone",
+  "def": "to deceive someone cleverly so that they believe something false",
   "tags": [],
   "phrase": false
  },
@@ -4956,7 +4956,7 @@
   "de": [
    "schätzen"
   ],
-  "def": "to estimate; an action",
+  "def": "to roughly calculate the size, amount, or value of something",
   "tags": [],
   "phrase": false
  },
@@ -4969,7 +4969,7 @@
    "fragen",
    "hinterfragen"
   ],
-  "def": "something you ask to get information",
+  "def": "to doubt whether something is true or correct",
   "tags": [],
   "phrase": false
  },
@@ -4981,7 +4981,7 @@
   "de": [
    "kritisch"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "expressing strong disapproval of something, or extremely important",
   "tags": [],
   "phrase": false
  },
@@ -4994,7 +4994,7 @@
    "bewerten",
    "einstufen"
   ],
-  "def": "to rate; an action",
+  "def": "to give something a score to show how good or important it is",
   "tags": [],
   "phrase": false
  },
@@ -5007,7 +5007,7 @@
    "Weltraum",
    "Weltall"
   ],
-  "def": "an empty area; the universe beyond earth",
+  "def": "the huge area beyond Earth's atmosphere where the planets and stars are",
   "tags": [],
   "phrase": false
  },
@@ -5019,7 +5019,7 @@
   "de": [
    "Raumfahrtprogramm"
   ],
-  "def": "an empty area; the universe beyond earth",
+  "def": "an organized set of missions and projects to explore space",
   "tags": [],
   "phrase": false
  },
@@ -5031,7 +5031,7 @@
   "de": [
    "atemberaubend"
   ],
-  "def": "extremely beautiful or impressive",
+  "def": "so impressive or beautiful that it amazes you",
   "tags": [],
   "phrase": false
  },
@@ -5043,7 +5043,7 @@
   "de": [
    "gut geschrieben"
   ],
-  "def": "written in a good and clear style",
+  "def": "written in a clear, skillful, and enjoyable way",
   "tags": [],
   "phrase": false
  },
@@ -5055,7 +5055,7 @@
   "de": [
    "enttäuschend"
   ],
-  "def": "making you feel let down",
+  "def": "not as good as you had hoped or expected",
   "tags": [],
   "phrase": false
  },
@@ -5067,7 +5067,7 @@
   "de": [
    "Spezialeffekt"
   ],
-  "def": "different from what is usual; better",
+  "def": "an image or sound created artificially to make a film more exciting",
   "tags": [],
   "phrase": false
  },
@@ -5080,7 +5080,7 @@
    "gut entwickelt",
    "ausgereift"
   ],
-  "def": "fully formed and detailed",
+  "def": "planned, built, or worked out carefully and thoroughly",
   "tags": [],
   "phrase": false
  },
@@ -5093,7 +5093,7 @@
    "unentwickelt",
    "unausgereift"
   ],
-  "def": "not yet built on or developed",
+  "def": "not yet fully planned, grown, or worked out",
   "tags": [],
   "phrase": false
  },
@@ -5105,7 +5105,7 @@
   "de": [
    "schlecht geschrieben"
   ],
-  "def": "written in a poor style",
+  "def": "written in a poor, unclear, or careless way",
   "tags": [],
   "phrase": false
  },
@@ -5117,7 +5117,7 @@
   "de": [
    "schwach"
   ],
-  "def": "not having much strength",
+  "def": "not strong, convincing, or effective in some way",
   "tags": [],
   "phrase": false
  },
@@ -5130,7 +5130,7 @@
    "Sprachebene",
    "Register"
   ],
-  "def": "a person or thing that does something",
+  "def": "the style of language used in a situation, e.g. formal or casual",
   "tags": [],
   "phrase": false
  },
@@ -5143,7 +5143,7 @@
    "kanadisch",
    "Kanadier/-in"
   ],
-  "def": "from or relating to Canada",
+  "def": "relating to Canada, or a person from Canada",
   "tags": [],
   "phrase": false
  },
@@ -5155,7 +5155,7 @@
   "de": [
    "aussprechen"
   ],
-  "def": "to say a word in a particular way",
+  "def": "to say a word using the correct sounds",
   "tags": [],
   "phrase": false
  },
@@ -5168,7 +5168,7 @@
    "Stundenplan",
    "Fahrplan"
   ],
-  "def": "a plan showing when things will happen",
+  "def": "the American English word for a timetable of classes or events",
   "tags": [
    "AE"
   ],
@@ -5184,7 +5184,7 @@
    "jedoch",
    "obwohl"
   ],
-  "def": "however; despite that",
+  "def": "used to introduce a contrasting idea, similar to 'however' or 'although'",
   "tags": [],
   "phrase": false
  },
@@ -5196,7 +5196,7 @@
   "de": [
    "Wasserspender"
   ],
-  "def": "the clear liquid in rivers and seas",
+  "def": "a device that produces a jet of water for people to drink from directly",
   "tags": [],
   "phrase": false
  },
@@ -5209,7 +5209,7 @@
    "informell",
    "zwanglos"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "relaxed and casual, not following strict rules, e.g. in speech or dress",
   "tags": [],
   "phrase": false
  },
@@ -5222,7 +5222,7 @@
    "nee",
    "nö"
   ],
-  "def": "informal way of saying no",
+  "def": "an informal, relaxed way of saying the word 'no'",
   "tags": [
    "infml"
   ],
@@ -5236,7 +5236,7 @@
   "de": [
    "Das ist zum Kotzen."
   ],
-  "def": "a common English phrase or expression",
+  "def": "an informal, rude way of saying that something is very bad or annoying",
   "tags": [
    "slang"
   ],
@@ -5251,7 +5251,7 @@
    "ist nicht",
    "sind nicht"
   ],
-  "def": "ain’t (= isn’t/aren’t)",
+  "def": "a non-standard, informal way of saying 'is not' or 'are not'",
   "tags": [],
   "phrase": false
  },
@@ -5264,7 +5264,7 @@
    "völlig",
    "total"
   ],
-  "def": "in a total manner",
+  "def": "an informal word meaning 'completely' or in every way",
   "tags": [],
   "phrase": false
  },
@@ -5277,7 +5277,7 @@
    "was/wie auch immer",
    "egal"
   ],
-  "def": "a person or thing that does something",
+  "def": "used to say that something doesn't matter, or to mean 'anything at all'",
   "tags": [],
   "phrase": false
  },
@@ -5289,7 +5289,7 @@
   "de": [
    "nicht mehr"
   ],
-  "def": "a greater amount or number",
+  "def": "used to say that something is not continuing any longer",
   "tags": [],
   "phrase": false
  },
@@ -5301,7 +5301,7 @@
   "de": [
    "Ich wollte nicht …"
   ],
-  "def": "to have a particular meaning or intention",
+  "def": "used to say that you did not intend to do something",
   "tags": [],
   "phrase": true
  },
@@ -5313,7 +5313,7 @@
   "de": [
    "Tantchen"
   ],
-  "def": "informal word for your aunt",
+  "def": "an informal and affectionate way of saying the word 'aunt'",
   "tags": [],
   "phrase": false
  },
@@ -5325,7 +5325,7 @@
   "de": [
    "auch nicht"
   ],
-  "def": "used to make a word or phrase negative",
+  "def": "used to add a negative statement that agrees with an earlier negative one",
   "tags": [],
   "phrase": true
  },
@@ -5337,7 +5337,7 @@
   "de": [
    "auf etw. aufpassen"
   ],
-  "def": "to be bothered or upset by something",
+  "def": "to look after or take care of something",
   "tags": [],
   "phrase": false
  },
@@ -5349,7 +5349,7 @@
   "de": [
    "Nation"
   ],
-  "def": "the process or result of an action",
+  "def": "a large group of people who share a country, culture, and government",
   "tags": [],
   "phrase": false
  },
@@ -5362,7 +5362,7 @@
    "Innovation",
    "Neuerung"
   ],
-  "def": "the process or result of an action",
+  "def": "a completely new idea, product, method, or invention",
   "tags": [],
   "phrase": false
  },
@@ -5374,7 +5374,7 @@
   "de": [
    "Transport"
   ],
-  "def": "the process or result of an action",
+  "def": "the American English word for the transport of people or goods",
   "tags": [
    "AE"
   ],
@@ -5389,7 +5389,7 @@
    "innovativ",
    "kreativ"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "using new, original, and creative ideas or methods",
   "tags": [],
   "phrase": false
  },
@@ -5401,7 +5401,7 @@
   "de": [
    "nachdem"
   ],
-  "def": "later in time than",
+  "def": "following in time; once something else has already happened",
   "tags": [],
   "phrase": false
  },
@@ -5413,7 +5413,7 @@
   "de": [
    "kolonisieren"
   ],
-  "def": "to colonize; an action",
+  "def": "to settle in and take control of a new area or country, American English",
   "tags": [
    "AE"
   ],
@@ -5428,7 +5428,7 @@
    "permanent",
    "dauerhaft"
   ],
-  "def": "lasting forever; not temporary",
+  "def": "lasting forever or for a very long time, not temporary",
   "tags": [],
   "phrase": false
  },
@@ -5440,7 +5440,7 @@
   "de": [
    "Siedlung"
   ],
-  "def": "to make a home in a new place",
+  "def": "a place where people move to and build a new community",
   "tags": [],
   "phrase": false
  },
@@ -5452,7 +5452,7 @@
   "de": [
    "bis (zu dem Zeitpunkt)"
   ],
-  "def": "what a clock measures in hours and minutes",
+  "def": "used to say that something had already happened before a certain point",
   "tags": [],
   "phrase": false
  },
@@ -5465,7 +5465,7 @@
    "östlich",
    "Ost-"
   ],
-  "def": "in or from the east",
+  "def": "relating to, or located in, the east of somewhere",
   "tags": [],
   "phrase": false
  },
@@ -5477,7 +5477,7 @@
   "de": [
    "erklären"
   ],
-  "def": "to declare; an action",
+  "def": "to state something officially, firmly, and very clearly",
   "tags": [],
   "phrase": false
  },
@@ -5489,7 +5489,7 @@
   "de": [
    "behandeln"
   ],
-  "def": "to behave towards someone in a certain way",
+  "def": "to behave towards a person or thing in a particular way",
   "tags": [],
   "phrase": false
  },
@@ -5501,7 +5501,7 @@
   "de": [
    "Armee"
   ],
-  "def": "a large group of soldiers who fight for a country",
+  "def": "a large organized group of soldiers trained to fight on land",
   "tags": [],
   "phrase": false
  },
@@ -5513,7 +5513,7 @@
   "de": [
    "General"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "a very high-ranking officer who commands an army",
   "tags": [],
   "phrase": false
  },
@@ -5525,7 +5525,7 @@
   "de": [
    "Siedler/-in"
   ],
-  "def": "to make a home in a new place",
+  "def": "a person who moves to a new area to live there and build a home",
   "tags": [],
   "phrase": false
  },
@@ -5537,7 +5537,7 @@
   "de": [
    "leiden (unter)"
   ],
-  "def": "to suffer; an action",
+  "def": "to experience pain, illness, or hardship over time",
   "tags": [],
   "phrase": false
  },
@@ -5550,7 +5550,7 @@
    "Haupt-",
    "Spitzen-"
   ],
-  "def": "the top of a mountain; the highest point",
+  "def": "the highest point, or the busiest and most active time, of something",
   "tags": [],
   "phrase": false
  },
@@ -5562,7 +5562,7 @@
   "de": [
    "insgesamt"
   ],
-  "def": "adding up to; in all",
+  "def": "used before a number to give the complete overall amount",
   "tags": [],
   "phrase": false
  },
@@ -5576,7 +5576,7 @@
    "vorbeigehen (an)",
    "bestehen"
   ],
-  "def": "to go by or hand something to someone",
+  "def": "to succeed in a test, or to go past something without stopping",
   "tags": [],
   "phrase": false
  },
@@ -5589,7 +5589,7 @@
    "vereint",
    "vereinigt"
   ],
-  "def": "joined together as one",
+  "def": "joined together as one, especially for a shared purpose",
   "tags": [],
   "phrase": false
  },
@@ -5601,7 +5601,7 @@
   "de": [
    "Fremde/-r"
   ],
-  "def": "a person you do not know",
+  "def": "a person that you have never met before",
   "tags": [],
   "phrase": false
  },
@@ -5614,7 +5614,7 @@
    "besonders",
    "vor allem"
   ],
-  "def": "more than usual; particularly",
+  "def": "particularly, or more than in other similar cases",
   "tags": [],
   "phrase": false
  },
@@ -5627,7 +5627,7 @@
    "abstammen von",
    "herstammen von"
   ],
-  "def": "starting at a particular place or time",
+  "def": "to be related to, and come from, ancestors who lived earlier",
   "tags": [],
   "phrase": false
  },
@@ -5640,7 +5640,7 @@
    "Habseligkeiten",
    "Hab und Gut"
   ],
-  "def": "the things that belong to you",
+  "def": "the things that a person owns, especially personal items they carry with them",
   "tags": [
    "pl"
   ],
@@ -5654,7 +5654,7 @@
   "de": [
    "Planwagen"
   ],
-  "def": "a wagon with a cloth roof used by settlers",
+  "def": "a large wagon with a cloth cover, pulled by animals, used by pioneers",
   "tags": [],
   "phrase": false
  },
@@ -5664,10 +5664,9 @@
   "sub": "S1",
   "en": "bat",
   "de": [
-   "Schläger (Tischtennis",
-   "Baseball)"
+   "Schläger (Tischtennis, Baseball)"
   ],
-  "def": "an object for hitting a ball; a flying mammal",
+  "def": "a piece of equipment used to hit a ball in sports such as baseball",
   "tags": [],
   "phrase": false
  },
@@ -5680,7 +5679,7 @@
    "Nachname",
    "Familienname"
   ],
-  "def": "most recent; coming after all others",
+  "def": "the American English word for a person's family name",
   "tags": [
    "AE"
   ],
@@ -5696,7 +5695,7 @@
    "ärztlich",
    "Medizin-"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "relating to the treatment of illness or injury",
   "tags": [],
   "phrase": false
  },
@@ -5709,7 +5708,7 @@
    "Untersuchung",
    "Prüfung"
   ],
-  "def": "the process or result of an action",
+  "def": "a careful check of someone's health, or a test of someone's knowledge",
   "tags": [],
   "phrase": false
  },
@@ -5721,7 +5720,7 @@
   "de": [
    "verschwinden"
   ],
-  "def": "to become impossible to see",
+  "def": "to stop being visible, or to no longer exist",
   "tags": [],
   "phrase": false
  },
@@ -5733,7 +5732,7 @@
   "de": [
    "Ururgroßvater"
   ],
-  "def": "a person or thing that does something",
+  "def": "the grandfather of a person's own grandfather, three generations back",
   "tags": [],
   "phrase": false
  },
@@ -5747,7 +5746,7 @@
    "schlimm",
    "furchtbar"
   ],
-  "def": "extremely bad",
+  "def": "extremely bad, unpleasant, or upsetting to experience or see",
   "tags": [],
   "phrase": false
  },
@@ -5760,7 +5759,7 @@
    "sich eine Infektion holen",
    "sich"
   ],
-  "def": "to grab and hold something moving",
+  "def": "to become ill because germs or a virus enter the body",
   "tags": [],
   "phrase": false
  },
@@ -5773,7 +5772,7 @@
    "ruhig",
    "friedlich"
   ],
-  "def": "peaceful and not excited or worried",
+  "def": "quiet, peaceful, and free from worry or excitement",
   "tags": [],
   "phrase": false
  },
@@ -5785,7 +5784,7 @@
   "de": [
    "Trinkwasser"
   ],
-  "def": "the clear liquid in rivers and seas",
+  "def": "water that is safe and clean enough to drink",
   "tags": [],
   "phrase": false
  },
@@ -5799,7 +5798,7 @@
    "eigentlich",
    "genau"
   ],
-  "def": "actually; in reality",
+  "def": "used to emphasize that something is really true",
   "tags": [],
   "phrase": false
  },
@@ -5811,7 +5810,7 @@
   "de": [
    "schaffen (etw. zu tun)"
   ],
-  "def": "to be in charge of or succeed at doing",
+  "def": "to succeed in doing something that is difficult",
   "tags": [],
   "phrase": true
  },
@@ -5823,7 +5822,7 @@
   "de": [
    "Reservat"
   ],
-  "def": "the process or result of an action",
+  "def": "an area of land officially set aside for Native Americans to live on",
   "tags": [],
   "phrase": false
  },
@@ -5836,7 +5835,7 @@
    "erkennen",
    "anerkennen"
   ],
-  "def": "to know who someone is when you see them",
+  "def": "to identify someone or something seen before, or to officially accept it",
   "tags": [
    "AE"
   ],
@@ -5852,7 +5851,7 @@
    "daneben",
    "darüber hinaus"
   ],
-  "def": "as well as; besides",
+  "def": "as well as, or besides, something already mentioned",
   "tags": [],
   "phrase": false
  },
@@ -5865,7 +5864,7 @@
    "trösten",
    "ermutigen"
   ],
-  "def": "to comfort; an action",
+  "def": "to make someone feel less worried or sad",
   "tags": [],
   "phrase": false
  },
@@ -5877,7 +5876,7 @@
   "de": [
    "verängstigt"
   ],
-  "def": "feeling afraid or scared",
+  "def": "feeling afraid or scared because of something dangerous",
   "tags": [],
   "phrase": false
  },
@@ -5889,7 +5888,7 @@
   "de": [
    "waren ausgestiegen"
   ],
-  "def": "had gotten off",
+  "def": "the American English past form meaning 'had got out of a vehicle'",
   "tags": [
    "AE"
   ],
@@ -5903,7 +5902,7 @@
   "de": [
    "erleichtert"
   ],
-  "def": "feeling happy that something bad did not happen",
+  "def": "feeling less worried after a problem has been solved or avoided",
   "tags": [],
   "phrase": false
  },
@@ -5915,7 +5914,7 @@
   "de": [
    "anstrengend"
   ],
-  "def": "making you extremely tired",
+  "def": "making you feel extremely tired, physically or mentally",
   "tags": [],
   "phrase": false
  },
@@ -5928,7 +5927,7 @@
    "Unterlagen",
    "Papiere"
   ],
-  "def": "thin material used for writing on",
+  "def": "official documents needed to prove your identity or status",
   "tags": [
    "pl"
   ],
@@ -5942,7 +5941,7 @@
   "de": [
    "ganz von vorn beginnen"
   ],
-  "def": "to begin doing something",
+  "def": "to begin something completely from the start once more",
   "tags": [],
   "phrase": true
  },
@@ -5954,7 +5953,7 @@
   "de": [
    "Statistik"
   ],
-  "def": "numbers that show facts about a subject",
+  "def": "numerical facts collected and studied to show information about something",
   "tags": [
    "pl"
   ],
@@ -5968,7 +5967,7 @@
   "de": [
    "Tabelle"
   ],
-  "def": "a flat surface with legs for eating or working",
+  "def": "a way of showing information arranged in rows and columns",
   "tags": [],
   "phrase": false
  },
@@ -5981,7 +5980,7 @@
    "Säulendiagramm",
    "Balkendiagramm"
   ],
-  "def": "a chart using bars to show data",
+  "def": "a chart that uses bars of different heights to compare amounts",
   "tags": [],
   "phrase": false
  },
@@ -5993,7 +5992,7 @@
   "de": [
    "Kurvendiagramm"
   ],
-  "def": "a long thin mark; a row of people or words",
+  "def": "a chart that uses a line to show how something changes over time",
   "tags": [],
   "phrase": false
  },
@@ -6005,7 +6004,7 @@
   "de": [
    "Kuchendiagramm"
   ],
-  "def": "food baked in pastry with a filling",
+  "def": "a circular chart divided into slices to show how something is shared out",
   "tags": [],
   "phrase": false
  },
@@ -6018,7 +6017,7 @@
    "veröffentlichen",
    "publizieren"
   ],
-  "def": "to make a book or article available to read",
+  "def": "to make written material available for people to read",
   "tags": [],
   "phrase": false
  },
@@ -6031,7 +6030,7 @@
    "Mehrheit",
    "Mehrzahl"
   ],
-  "def": "more than half of a group",
+  "def": "more than half of the people or things in a group",
   "tags": [],
   "phrase": false
  },
@@ -6043,7 +6042,7 @@
   "de": [
    "Minderheit"
   ],
-  "def": "a smaller group within a larger group",
+  "def": "a smaller part or group within a larger whole",
   "tags": [],
   "phrase": false
  },
@@ -6055,7 +6054,7 @@
   "de": [
    "Prozent"
   ],
-  "def": "a part of a hundred; %",
+  "def": "a way of expressing a number as a share out of a hundred",
   "tags": [
    "pl"
   ],
@@ -6069,7 +6068,7 @@
   "de": [
    "steigen um"
   ],
-  "def": "to become bigger or increase in size",
+  "def": "to increase by a certain amount or percentage",
   "tags": [],
   "phrase": false
  },
@@ -6082,7 +6081,7 @@
    "andeuten",
    "nahelegen"
   ],
-  "def": "to propose an idea for someone to think about",
+  "def": "to indicate an idea without stating it directly, or to propose something",
   "tags": [],
   "phrase": false
  },
@@ -6095,7 +6094,7 @@
    "Schluss",
    "Schlussfolgerung"
   ],
-  "def": "the process or result of an action",
+  "def": "a final decision or judgment reached after considering the facts",
   "tags": [],
   "phrase": false
  },
@@ -6107,7 +6106,7 @@
   "de": [
    "Notwendigkeit"
   ],
-  "def": "something that is needed",
+  "def": "something that is absolutely needed, not just wanted",
   "tags": [],
   "phrase": false
  },
@@ -6119,7 +6118,7 @@
   "de": [
    "Kommunikationsnetz"
   ],
-  "def": "a group of connected things or people",
+  "def": "a connected system that allows information to be sent and received",
   "tags": [],
   "phrase": false
  },
@@ -6132,7 +6131,7 @@
    "von Angesicht zu Angesicht",
    "Auge"
   ],
-  "def": "meeting in person",
+  "def": "in person, meeting someone directly rather than by phone or letter",
   "tags": [],
   "phrase": false
  },
@@ -6145,7 +6144,7 @@
    "wandern",
    "umherziehen"
   ],
-  "def": "to migrate; an action",
+  "def": "to move from one place to settle in another, often in large numbers",
   "tags": [],
   "phrase": false
  },
@@ -6157,7 +6156,7 @@
   "de": [
    "Pionier/-in"
   ],
-  "def": "a person or thing that does something",
+  "def": "one of the first people to explore or settle in a new area",
   "tags": [],
   "phrase": false
  },
@@ -6170,7 +6169,7 @@
    "westlich",
    "West-"
   ],
-  "def": "in or from the west",
+  "def": "relating to, or located in, the west of somewhere",
   "tags": [],
   "phrase": false
  },
@@ -6182,7 +6181,7 @@
   "de": [
    "Massenwanderung"
   ],
-  "def": "the process or result of an action",
+  "def": "the movement of very large numbers of people from one place to another",
   "tags": [],
   "phrase": false
  },
@@ -6195,7 +6194,7 @@
    "(sich) ausdehnen",
    "erweitern"
   ],
-  "def": "to expand; an action",
+  "def": "to become larger in size, number, or amount",
   "tags": [],
   "phrase": false
  },
@@ -6207,7 +6206,7 @@
   "de": [
    "gesucht"
   ],
-  "def": "to wish or desire something",
+  "def": "being searched for, especially by the police, or advertised as needed",
   "tags": [],
   "phrase": false
  },
@@ -6220,7 +6219,7 @@
    "dünn",
    "mager"
   ],
-  "def": "very thin",
+  "def": "very thin, especially when describing a person's body shape",
   "tags": [],
   "phrase": false
  },
@@ -6233,7 +6232,7 @@
    "Bursche",
    "Kerl"
   ],
-  "def": "a man; a person in the same situation",
+  "def": "an informal, often old-fashioned word for a man",
   "tags": [],
   "phrase": false
  },
@@ -6246,7 +6245,7 @@
    "Reiter/-in",
    "Fahrer/-in"
   ],
-  "def": "to sit on and control a bike or horse",
+  "def": "a person who rides a horse, bike, or similar vehicle",
   "tags": [],
   "phrase": false
  },
@@ -6258,7 +6257,7 @@
   "de": [
    "riskieren"
   ],
-  "def": "to risk; an action",
+  "def": "to do something even though it might cause harm or loss",
   "tags": [],
   "phrase": false
  },
@@ -6270,7 +6269,7 @@
   "de": [
    "Post"
   ],
-  "def": "letters and packages sent through the post",
+  "def": "letters and packages sent through the postal system",
   "tags": [],
   "phrase": false
  },
@@ -6284,7 +6283,7 @@
    "anstellen",
    "beschäftigen"
   ],
-  "def": "to pay someone to work for you",
+  "def": "to give someone a paid job to do",
   "tags": [],
   "phrase": false
  },
@@ -6297,7 +6296,7 @@
    "da",
    "weil"
   ],
-  "def": "to the same degree; in the role of",
+  "def": "used to give a reason for something, meaning 'because'",
   "tags": [],
   "phrase": false
  },
@@ -6310,7 +6309,7 @@
    "auch wenn",
    "obwohl"
   ],
-  "def": "however; despite that",
+  "def": "used to introduce a surprising fact despite something else being true",
   "tags": [],
   "phrase": false
  },
@@ -6322,7 +6321,7 @@
   "de": [
    "ersetzen (durch)"
   ],
-  "def": "to put something new in place of another",
+  "def": "to put something new in the place of something else",
   "tags": [],
   "phrase": false
  },
@@ -6334,7 +6333,7 @@
   "de": [
    "(sich) entwickeln"
   ],
-  "def": "to grow or change over time",
+  "def": "to grow or change gradually into something more advanced",
   "tags": [],
   "phrase": false
  },
@@ -6347,7 +6346,7 @@
    "verbinden (mit)",
    "vermitteln"
   ],
-  "def": "to join or link things together",
+  "def": "to join or link one thing to another",
   "tags": [],
   "phrase": false
  },
@@ -6359,7 +6358,7 @@
   "de": [
    "sofort"
   ],
-  "def": "in a instant manner",
+  "def": "happening immediately and right away, without any delay",
   "tags": [],
   "phrase": false
  },
@@ -6371,7 +6370,7 @@
   "de": [
    "lang anhaltend"
   ],
-  "def": "continuing for a long time",
+  "def": "continuing to exist or work for a long period of time",
   "tags": [],
   "phrase": false
  },
@@ -6384,7 +6383,7 @@
    "um … zu",
    "mit der Absicht"
   ],
-  "def": "for the purpose of",
+  "def": "used to state the purpose or reason for doing something",
   "tags": [],
   "phrase": false
  },
@@ -6398,7 +6397,7 @@
    "beginnen",
    "starten"
   ],
-  "def": "to begin doing something",
+  "def": "to begin doing or making something for the first time",
   "tags": [],
   "phrase": false
  },
@@ -6410,7 +6409,7 @@
   "de": [
    "Automobil"
   ],
-  "def": "a vehicle with four wheels and an engine",
+  "def": "an older or more formal word for a car",
   "tags": [],
   "phrase": false
  },
@@ -6423,7 +6422,7 @@
    "Film",
    "Spielfilm"
   ],
-  "def": "a drawing, painting, or photograph",
+  "def": "an older term for a movie shown in a cinema",
   "tags": [],
   "phrase": false
  },
@@ -6436,7 +6435,7 @@
    "Bedeutung",
    "Wichtigkeit"
   ],
-  "def": "the quality of being important",
+  "def": "how significant, valuable, or serious something is considered to be",
   "tags": [],
   "phrase": false
  },
@@ -6449,7 +6448,7 @@
    "kolonial",
    "Kolonial-"
   ],
-  "def": "relating to the control of one country by another",
+  "def": "relating to a colony, or the period when colonies were being set up",
   "tags": [],
   "phrase": false
  },
@@ -6462,7 +6461,7 @@
    "Geist",
    "Stimmung"
   ],
-  "def": "the soul; a feeling or attitude",
+  "def": "the attitude or mood shared by a group of people",
   "tags": [],
   "phrase": false
  },
@@ -6474,7 +6473,7 @@
   "de": [
    "formen"
   ],
-  "def": "the form of something like a circle or square",
+  "def": "to influence how something develops or turns out",
   "tags": [],
   "phrase": false
  },
@@ -6486,7 +6485,7 @@
   "de": [
    "Grill(party)"
   ],
-  "def": "cooking food outdoors over a fire",
+  "def": "an outdoor meal at which food is cooked on a grill over an open fire",
   "tags": [],
   "phrase": false
  },
@@ -6498,7 +6497,7 @@
   "de": [
    "Streifen"
   ],
-  "def": "a long narrow band of colour",
+  "def": "a long narrow band of color, different from the areas around it",
   "tags": [],
   "phrase": false
  },
@@ -6510,7 +6509,7 @@
   "de": [
    "Großmutter"
   ],
-  "def": "your parent's mother",
+  "def": "the mother of a person's mother or father",
   "tags": [],
   "phrase": false
  },
@@ -6522,7 +6521,7 @@
   "de": [
    "Versicherung"
   ],
-  "def": "protection against loss paid for monthly",
+  "def": "an arrangement in which you pay money regularly to be protected against loss",
   "tags": [],
   "phrase": false
  },
@@ -6534,7 +6533,7 @@
   "de": [
    "mündlich"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "spoken aloud, rather than written down on paper",
   "tags": [],
   "phrase": false
  },
@@ -6558,7 +6557,7 @@
   "de": [
    "das Unbekannte"
   ],
-  "def": "used before a noun to show which one you mean",
+  "def": "things or places that have not yet been discovered or experienced",
   "tags": [],
   "phrase": false
  },
@@ -6570,7 +6569,7 @@
   "de": [
    "Mama"
   ],
-  "def": "informal word for mother",
+  "def": "an informal, old-fashioned word children use for 'mother'",
   "tags": [],
   "phrase": false
  },
@@ -6582,7 +6581,7 @@
   "de": [
    "zukommen auf"
   ],
-  "def": "to move towards the speaker or a place",
+  "def": "to approach or move towards someone or something",
   "tags": [],
   "phrase": false
  },
@@ -6594,7 +6593,7 @@
   "de": [
    "ein Tagebuch führen"
   ],
-  "def": "a book for recording daily events",
+  "def": "to regularly write down your thoughts and daily experiences",
   "tags": [],
   "phrase": false
  },
@@ -6607,7 +6606,7 @@
    "auseinander",
    "getrennt"
   ],
-  "def": "separated; at a distance from each other",
+  "def": "separated by some distance, or not together anymore",
   "tags": [],
   "phrase": false
  },
@@ -6619,7 +6618,7 @@
   "de": [
    "Papa"
   ],
-  "def": "informal word for father",
+  "def": "an informal, old-fashioned word children use for 'father'",
   "tags": [],
   "phrase": false
  },
@@ -6632,7 +6631,7 @@
    "Weg",
    "Pfad"
   ],
-  "def": "a path for walking; a mark left behind",
+  "def": "a rough path, especially one through countryside or wild land",
   "tags": [],
   "phrase": false
  },
@@ -6644,7 +6643,7 @@
   "de": [
    "Vorbereitung"
   ],
-  "def": "the process or result of an action",
+  "def": "the work done to get ready for something",
   "tags": [],
   "phrase": false
  },
@@ -6656,7 +6655,7 @@
   "de": [
    "zusteuern auf"
   ],
-  "def": "the top part of your body with your face",
+  "def": "to move or travel in a particular direction",
   "tags": [],
   "phrase": false
  },
@@ -6668,7 +6667,7 @@
   "de": [
    "Landwirtschaft betreiben"
   ],
-  "def": "land used to grow crops and keep animals",
+  "def": "to grow crops or raise animals for a living",
   "tags": [],
   "phrase": false
  },
@@ -6680,7 +6679,7 @@
   "de": [
    "indem"
   ],
-  "def": "next to; done through; not later than",
+  "def": "used before an -ing word to explain the method by which something is done",
   "tags": [],
   "phrase": false
  },
@@ -6693,7 +6692,7 @@
    "winken",
    "schwenken"
   ],
-  "def": "to move your hand to greet someone",
+  "def": "to move your hand from side to side as a greeting or signal",
   "tags": [],
   "phrase": false
  },
@@ -6706,7 +6705,7 @@
    "packen",
    "einpacken"
   ],
-  "def": "to pack; an action",
+  "def": "to put things into a bag, box, or container for storage or travel",
   "tags": [],
   "phrase": false
  },
@@ -6718,7 +6717,7 @@
   "de": [
    "Gras"
   ],
-  "def": "green plants covering the ground",
+  "def": "the green plant that covers fields and lawns",
   "tags": [],
   "phrase": false
  },
@@ -6730,7 +6729,7 @@
   "de": [
    "Möbel"
   ],
-  "def": "together with; using",
+  "def": "items like tables, chairs, and beds; always used as a singular noun in English",
   "tags": [],
   "phrase": true
  },
@@ -6743,7 +6742,7 @@
    "aufgeben",
    "zurücklassen"
   ],
-  "def": "to abandon; an action",
+  "def": "to leave someone or something behind for good",
   "tags": [],
   "phrase": false
  },
@@ -6757,7 +6756,7 @@
    "ordentlich",
    "angemessen"
   ],
-  "def": "a person or thing that does something",
+  "def": "correct, suitable, or done in the right way",
   "tags": [],
   "phrase": false
  },
@@ -6769,7 +6768,7 @@
   "de": [
    "besitzen"
   ],
-  "def": "to have something that belongs to you",
+  "def": "to have something that legally belongs to you",
   "tags": [],
   "phrase": false
  },
@@ -6782,7 +6781,7 @@
    "sich Gedanken machen",
    "sich fragen"
   ],
-  "def": "to want to know about something",
+  "def": "to think about something with curiosity, wanting to know the answer",
   "tags": [],
   "phrase": false
  },
@@ -6794,7 +6793,7 @@
   "de": [
    "bis zu"
   ],
-  "def": "as many as; until",
+  "def": "as much or as many as, but not more than, a certain amount",
   "tags": [],
   "phrase": false
  },
@@ -6807,7 +6806,7 @@
    "Brust",
    "Brustkorb"
   ],
-  "def": "the front part of your body between neck and stomach",
+  "def": "the front part of the body between the neck and the stomach",
   "tags": [],
   "phrase": false
  },
@@ -6820,7 +6819,7 @@
    "teilnehmen",
    "mitmachen"
   ],
-  "def": "to become part of a group",
+  "def": "to take part in an activity that others are already doing",
   "tags": [],
   "phrase": false
  },
@@ -6834,7 +6833,7 @@
    "unterer Teil",
    "Grund"
   ],
-  "def": "the lowest part of something",
+  "def": "the lowest part or level of something, e.g. a container",
   "tags": [],
   "phrase": false
  },
@@ -6846,7 +6845,7 @@
   "de": [
    "Mehl"
   ],
-  "def": "a white powder made from grain, used for baking",
+  "def": "a fine powder made from ground grain, used for baking",
   "tags": [],
   "phrase": false
  },
@@ -6858,7 +6857,7 @@
   "de": [
    "greifen (nach)"
   ],
-  "def": "to arrive at or stretch out to touch",
+  "def": "to stretch out your hand to try to touch or get something",
   "tags": [],
   "phrase": false
  },
@@ -6871,7 +6870,7 @@
    "würzig",
    "pikant"
   ],
-  "def": "having a strong hot flavour",
+  "def": "having a strong, hot taste caused by spices",
   "tags": [],
   "phrase": false
  },
@@ -6885,7 +6884,7 @@
    "russisch",
    "Russisch"
   ],
-  "def": "from or relating to Russia",
+  "def": "relating to Russia, a person from that country, or its language",
   "tags": [],
   "phrase": false
  },
@@ -6897,7 +6896,7 @@
   "de": [
    "trotz"
   ],
-  "def": "despite; even though",
+  "def": "despite something, even though it might suggest the opposite",
   "tags": [],
   "phrase": false
  },
@@ -6911,7 +6910,7 @@
    "neueste/-r/-s",
    "letzte/-r/-s"
   ],
-  "def": "happening not long ago",
+  "def": "having happened or been made not long ago",
   "tags": [],
   "phrase": false
  },
@@ -6925,7 +6924,7 @@
    "am Leben",
    "lebendig"
   ],
-  "def": "living; not dead",
+  "def": "still living, and not dead or destroyed in any way",
   "tags": [],
   "phrase": false
  },
@@ -6937,7 +6936,7 @@
   "de": [
    "gesund werden"
   ],
-  "def": "in a good way; used to begin speaking",
+  "def": "to recover and become healthy again after being ill",
   "tags": [],
   "phrase": false
  },
@@ -6949,7 +6948,7 @@
   "de": [
    "keine/-r/-s"
   ],
-  "def": "not any; zero",
+  "def": "not any; not a single one of a group",
   "tags": [],
   "phrase": false
  },
@@ -6962,7 +6961,7 @@
    "Herde",
    "Rudel"
   ],
-  "def": "a large group of animals living together",
+  "def": "a large group of animals that live or move together",
   "tags": [],
   "phrase": false
  },
@@ -6975,7 +6974,7 @@
    "Bison",
    "Büffel"
   ],
-  "def": "a large wild animal like a buffalo",
+  "def": "a large wild ox with a shaggy mane, once common on the American plains",
   "tags": [
    "pl"
   ],
@@ -6991,7 +6990,7 @@
    "feststecken",
    "hängen"
   ],
-  "def": "to be; an action",
+  "def": "to be unable to move or make progress",
   "tags": [],
   "phrase": false
  },
@@ -7003,7 +7002,7 @@
   "de": [
    "Ehre"
   ],
-  "def": "a person or thing that does something",
+  "def": "the American English word for great respect given for achievements or character",
   "tags": [
    "AE"
   ],
@@ -7018,7 +7017,7 @@
    "gleich",
    "gleichwertig"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "the same as another thing in size, value, or status",
   "tags": [],
   "phrase": false
  },
@@ -7031,7 +7030,7 @@
    "egal",
    "ganz gleich"
   ],
-  "def": "a person or thing that does something",
+  "def": "regardless of whatever the circumstances happen to be",
   "tags": [],
   "phrase": false
  },
@@ -7043,7 +7042,7 @@
   "de": [
    "unglaublich"
   ],
-  "def": "very hard to believe; amazing",
+  "def": "so surprising or impressive that it is hard to believe",
   "tags": [],
   "phrase": false
  },
@@ -7055,7 +7054,7 @@
   "de": [
    "jmdn. zu Tode erschrecken"
   ],
-  "def": "the end of life",
+  "def": "to frighten someone so badly that they are terrified",
   "tags": [],
   "phrase": true
  },
@@ -7067,7 +7066,7 @@
   "de": [
    "(sich) fürchten"
   ],
-  "def": "to be afraid of something",
+  "def": "to feel afraid of someone or something dangerous",
   "tags": [],
   "phrase": false
  },
@@ -7080,7 +7079,7 @@
    "Hitze",
    "Wärme"
   ],
-  "def": "high temperature; warmth",
+  "def": "a high temperature, or the state of being very hot",
   "tags": [
    "no pl"
   ],
@@ -7094,7 +7093,7 @@
   "de": [
    "sich etw. bewusst sein"
   ],
-  "def": "a common English phrase or expression",
+  "def": "to know that something exists or is happening",
   "tags": [],
   "phrase": true
  },
@@ -7109,7 +7108,7 @@
    "uneben",
    "holprig"
   ],
-  "def": "not smooth; having an uneven surface",
+  "def": "not smooth; having an uneven or bumpy surface",
   "tags": [],
   "phrase": false
  },
@@ -7121,7 +7120,7 @@
   "de": [
    "Empfang"
   ],
-  "def": "the front desk area; a formal party",
+  "def": "a formal welcome, or the desk where visitors are greeted",
   "tags": [],
   "phrase": false
  },
@@ -7134,7 +7133,7 @@
    "erziehen",
    "bilden"
   ],
-  "def": "to educate; an action",
+  "def": "to teach someone knowledge or skills, especially over a period of time",
   "tags": [],
   "phrase": false
  },
@@ -7146,7 +7145,7 @@
   "de": [
    "jmds. Erwartungen erfüllen"
   ],
-  "def": "to come together with someone",
+  "def": "to be as good as, or perform as well as, someone had hoped",
   "tags": [],
   "phrase": false
  },
@@ -7158,7 +7157,7 @@
   "de": [
    "allgemein"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "true or relevant in most cases, rather than specific or detailed",
   "tags": [],
   "phrase": false
  },
@@ -7170,7 +7169,7 @@
   "de": [
    "schneebedeckt"
   ],
-  "def": "with snow on the top",
+  "def": "covered with snow at the very top, usually describing mountains",
   "tags": [],
   "phrase": false
  },
@@ -7183,7 +7182,7 @@
    "Gipfel",
    "Berggipfel"
   ],
-  "def": "the highest point of a mountain",
+  "def": "the very highest point at the top of a mountain",
   "tags": [],
   "phrase": false
  },
@@ -7196,7 +7195,7 @@
    "turbulent",
    "aufgewühlt"
   ],
-  "def": "full of sudden changes and disorder",
+  "def": "moving violently and unpredictably, like rough water or air",
   "tags": [],
   "phrase": false
  },
@@ -7209,7 +7208,7 @@
    "eisig",
    "Gletscher-"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "extremely cold, or relating to large masses of ice called glaciers",
   "tags": [],
   "phrase": false
  },
@@ -7222,7 +7221,7 @@
    "glitzernd",
    "funkelnd"
   ],
-  "def": "shining with small flashes of light",
+  "def": "shining brightly with lots of small flashes of light",
   "tags": [],
   "phrase": false
  },
@@ -7234,7 +7233,7 @@
   "de": [
    "Tal"
   ],
-  "def": "low land between hills or mountains",
+  "def": "a low stretch of land between hills or mountains, often with a river",
   "tags": [],
   "phrase": false
  },
@@ -7246,7 +7245,7 @@
   "de": [
    "bewaldet"
   ],
-  "def": "the material from trees; a small forest",
+  "def": "an area of land that is covered with trees",
   "tags": [],
   "phrase": false
  },
@@ -7258,7 +7257,7 @@
   "de": [
    "jagen"
   ],
-  "def": "to hunt; an action",
+  "def": "to chase and kill wild animals for food or sport",
   "tags": [],
   "phrase": false
  },
@@ -7270,7 +7269,7 @@
   "de": [
    "Winterreifen"
   ],
-  "def": "white frozen water falling from clouds",
+  "def": "a tire with a special tread designed for driving safely in snow",
   "tags": [
    "AE"
   ],
@@ -7284,7 +7283,7 @@
   "de": [
    "Grizzlybär"
   ],
-  "def": "a large brown bear found in North America",
+  "def": "a large, powerful brown bear found in North America",
   "tags": [],
   "phrase": false
  },
@@ -7296,7 +7295,7 @@
   "de": [
    "Elch"
   ],
-  "def": "a very large type of deer",
+  "def": "a large type of deer found in North America and northern Europe",
   "tags": [],
   "phrase": false
  },
@@ -7308,7 +7307,7 @@
   "de": [
    "Dickhornschaf"
   ],
-  "def": "a farm animal kept for wool and meat",
+  "def": "a wild mountain sheep with large curved horns",
   "tags": [],
   "phrase": false
  },
@@ -7320,7 +7319,7 @@
   "de": [
    "Kette"
   ],
-  "def": "connected metal rings; a group of shops",
+  "def": "a row of connected things, such as mountains or shops",
   "tags": [],
   "phrase": false
  },
@@ -7332,7 +7331,7 @@
   "de": [
    "staubig"
   ],
-  "def": "covered with fine dry powder",
+  "def": "covered with a fine layer of dry dirt",
   "tags": [],
   "phrase": false
  },
@@ -7345,7 +7344,7 @@
    "angenehm",
    "unterhaltsam"
   ],
-  "def": "to get pleasure from doing something",
+  "def": "pleasant and nice to experience or take part in",
   "tags": [],
   "phrase": false
  },
@@ -7357,7 +7356,7 @@
   "de": [
    "Kupferbergbau"
   ],
-  "def": "digging copper metal from the ground",
+  "def": "the industry of digging the metal copper out of the ground",
   "tags": [],
   "phrase": false
  },
@@ -7370,7 +7369,7 @@
    "trampen",
    "per Anhalter fahren"
   ],
-  "def": "to hitchhike; an action",
+  "def": "to travel by getting free rides from passing strangers",
   "tags": [],
   "phrase": false
  },
@@ -7382,7 +7381,7 @@
   "de": [
    "Trampen"
   ],
-  "def": "travelling by getting free rides from drivers",
+  "def": "the activity of traveling by asking strangers for free rides",
   "tags": [],
   "phrase": false
  },
@@ -7394,7 +7393,7 @@
   "de": [
    "eine Mitfahrgelegenheit"
   ],
-  "def": "to sit on and control a bike or horse",
+  "def": "to be given a free lift somewhere in another person's vehicle",
   "tags": [],
   "phrase": false
  },
@@ -7407,7 +7406,7 @@
    "Truck",
    "Lastwagen"
   ],
-  "def": "a large vehicle for carrying goods",
+  "def": "the American English word for a large vehicle used to carry goods or people",
   "tags": [
    "AE"
   ],
@@ -7421,7 +7420,7 @@
   "de": [
    "Tramper/-in"
   ],
-  "def": "a person or thing that does something",
+  "def": "a person who travels by getting free rides from strangers",
   "tags": [],
   "phrase": false
  },
@@ -7433,7 +7432,7 @@
   "de": [
    "Stadtrand"
   ],
-  "def": "the outer border of something",
+  "def": "the outer part of a town, farthest from its center",
   "tags": [],
   "phrase": false
  },
@@ -7445,7 +7444,7 @@
   "de": [
    "Parkplatz"
   ],
-  "def": "an area where cars can be left",
+  "def": "an outdoor area where cars can be left",
   "tags": [],
   "phrase": false
  },
@@ -7458,7 +7457,7 @@
    "Pappe",
    "Karton"
   ],
-  "def": "thick stiff paper used for boxes",
+  "def": "a stiff material made of layers of paper, used to make boxes",
   "tags": [],
   "phrase": false
  },
@@ -7470,7 +7469,7 @@
   "de": [
    "hinausstrecken"
   ],
-  "def": "a thin piece of wood",
+  "def": "to push a part of your body out, e.g. through a window",
   "tags": [],
   "phrase": true
  },
@@ -7482,7 +7481,7 @@
   "de": [
    "Rücksitz"
   ],
-  "def": "the rear seat in a car",
+  "def": "the seat behind the front seats in a car",
   "tags": [],
   "phrase": false
  },
@@ -7495,7 +7494,7 @@
    "ermorden",
    "umbringen"
   ],
-  "def": "to murder; an action",
+  "def": "to deliberately and illegally kill another human being",
   "tags": [],
   "phrase": false
  },
@@ -7509,7 +7508,7 @@
    "rauben",
    "berauben"
   ],
-  "def": "to rob; an action",
+  "def": "to steal from a person or place, often using force or threats",
   "tags": [],
   "phrase": false
  },
@@ -7521,7 +7520,7 @@
   "de": [
    "Katzenstreu"
   ],
-  "def": "waste left in a public place",
+  "def": "small granules put in a tray for cats to use as a toilet",
   "tags": [],
   "phrase": false
  },
@@ -7533,7 +7532,7 @@
   "de": [
    "Beifahrersitz"
   ],
-  "def": "a person travelling in a vehicle",
+  "def": "the seat next to the driver in a car",
   "tags": [],
   "phrase": false
  },
@@ -7546,7 +7545,7 @@
    "es sei denn, (dass) …",
    "wenn nicht"
   ],
-  "def": "without un",
+  "def": "except if; only if a certain thing does not happen",
   "tags": [],
   "phrase": false
  },
@@ -7560,7 +7559,7 @@
    "Lebewesen",
    "Geschöpf"
   ],
-  "def": "any living animal",
+  "def": "a living being, especially one that seems strange or unfamiliar",
   "tags": [],
   "phrase": false
  },
@@ -7572,7 +7571,7 @@
   "de": [
    "Sicherheitsgurt"
   ],
-  "def": "a strap that keeps you safe in a vehicle",
+  "def": "a strap in a vehicle that holds a person safely in their seat",
   "tags": [],
   "phrase": false
  },
@@ -7584,7 +7583,7 @@
   "de": [
    "überfahren"
   ],
-  "def": "above or across something",
+  "def": "to drive a vehicle over a person or animal, injuring or killing it",
   "tags": [],
   "phrase": false
  },
@@ -7597,7 +7596,7 @@
    "jmdn. absetzen",
    "jmdn. aussteigen"
   ],
-  "def": "to let something fall",
+  "def": "to take someone somewhere by vehicle and leave them there",
   "tags": [],
   "phrase": false
  },
@@ -7609,7 +7608,7 @@
   "de": [
    "Geschichtenerzähler/-in"
   ],
-  "def": "a person or thing that does something",
+  "def": "a person who tells stories, especially as entertainment",
   "tags": [],
   "phrase": false
  },
@@ -7621,7 +7620,7 @@
   "de": [
    "Haushalt"
   ],
-  "def": "all the people living together in a house",
+  "def": "all the people who live together in one home, and how it is run",
   "tags": [],
   "phrase": false
  },
@@ -7634,7 +7633,7 @@
    "(lästige) Pflicht",
    "Bürde"
   ],
-  "def": "a regular boring task in the house",
+  "def": "a small routine job, especially housework, that has to be done regularly",
   "tags": [],
   "phrase": false
  },
@@ -7646,7 +7645,7 @@
   "de": [
    "den Tisch decken"
   ],
-  "def": "a flat surface with legs for eating or working",
+  "def": "to put out the plates, glasses, and cutlery ready for a meal",
   "tags": [],
   "phrase": false
  },
@@ -7658,7 +7657,7 @@
   "de": [
    "staubsaugen"
   ],
-  "def": "to vacuum; an action",
+  "def": "to clean a floor or carpet using an electric cleaning machine",
   "tags": [],
   "phrase": false
  },
@@ -7671,7 +7670,7 @@
    "einräumen",
    "laden"
   ],
-  "def": "to load; an action",
+  "def": "to put items into a machine, ready for it to be used",
   "tags": [],
   "phrase": false
  },
@@ -7684,7 +7683,7 @@
    "leeren",
    "ausräumen"
   ],
-  "def": "containing nothing",
+  "def": "to remove everything that is inside a container",
   "tags": [],
   "phrase": false
  },
@@ -7697,7 +7696,7 @@
    "aufräumen",
    "sauber machen"
   ],
-  "def": "free from dirt",
+  "def": "to tidy a place and remove mess or dirt",
   "tags": [],
   "phrase": false
  },
@@ -7709,7 +7708,7 @@
   "de": [
    "Spülmaschine"
   ],
-  "def": "a person or thing that does something",
+  "def": "a machine that automatically washes plates, cups, and cutlery",
   "tags": [],
   "phrase": false
  },
@@ -7721,7 +7720,7 @@
   "de": [
    "den Abwasch machen"
   ],
-  "def": "used before a noun to show which one you mean",
+  "def": "to wash the plates, cups, and cutlery used for a meal",
   "tags": [],
   "phrase": false
  },
@@ -7733,7 +7732,7 @@
   "de": [
    "Geschirr"
   ],
-  "def": "a particular type of prepared food",
+  "def": "the plates, bowls, and cups used for eating and serving food",
   "tags": [
    "pl"
   ],
@@ -7748,7 +7747,7 @@
    "Müll",
    "Abfall"
   ],
-  "def": "waste; things thrown away",
+  "def": "the American English word for rubbish that is thrown away",
   "tags": [
    "AE"
   ],
@@ -7763,7 +7762,7 @@
    "Vorleger",
    "Teppich"
   ],
-  "def": "a small carpet placed on the floor",
+  "def": "a piece of thick fabric used to cover part of a floor",
   "tags": [],
   "phrase": false
  },
@@ -7775,7 +7774,7 @@
   "de": [
    "Taschengeld"
   ],
-  "def": "money given regularly, usually to a child",
+  "def": "the American English word for money given regularly to a child by their parents",
   "tags": [
    "AE"
   ],
@@ -7789,7 +7788,7 @@
   "de": [
    "gehorchen"
   ],
-  "def": "to follow rules or instructions",
+  "def": "to do what a person or rule tells you to do",
   "tags": [],
   "phrase": false
  },
@@ -7801,7 +7800,7 @@
   "de": [
    "Vorliebe"
   ],
-  "def": "liking one thing more than another",
+  "def": "a stronger liking for one thing over another",
   "tags": [],
   "phrase": false
  },
@@ -7815,7 +7814,7 @@
    "Problem",
    "Thema"
   ],
-  "def": "to officially give or produce something",
+  "def": "a subject, dislike, or problem that people discuss or disagree about",
   "tags": [],
   "phrase": false
  },
@@ -7827,7 +7826,7 @@
   "de": [
    "bestehen aus"
   ],
-  "def": "to be made up of certain parts",
+  "def": "to be made up of particular parts or things",
   "tags": [],
   "phrase": false
  },
@@ -7839,7 +7838,7 @@
   "de": [
    "schnell wachsende Stadt"
   ],
-  "def": "a town that grows very quickly",
+  "def": "a town that grows very quickly, often because of a new industry",
   "tags": [],
   "phrase": false
  },
@@ -7851,7 +7850,7 @@
   "de": [
    "Schwertwal"
   ],
-  "def": "a large black and white sea mammal; killer whale",
+  "def": "a large black-and-white sea mammal, also called a killer whale",
   "tags": [],
   "phrase": false
  },
@@ -7864,7 +7863,7 @@
    "Puma",
    "Berglöwe"
   ],
-  "def": "a large wild cat found in the Americas",
+  "def": "a large wild cat found in the Americas, also called a mountain lion",
   "tags": [],
   "phrase": false
  },
@@ -7876,7 +7875,7 @@
   "de": [
    "Wolf"
   ],
-  "def": "a wild animal similar to a large dog",
+  "def": "a wild animal related to the dog that hunts in groups called packs",
   "tags": [
    "pl"
   ],
@@ -7891,7 +7890,7 @@
    "einheimisch",
    "eingeboren"
   ],
-  "def": "belonging to a place by birth",
+  "def": "belonging to a particular place because of birth or origin",
   "tags": [],
   "phrase": false
  },
@@ -7903,7 +7902,7 @@
   "de": [
    "Vulkan"
   ],
-  "def": "a mountain that can erupt with hot lava",
+  "def": "a mountain that can violently erupt, releasing hot melted rock",
   "tags": [
    "pl"
   ],
@@ -7918,7 +7917,7 @@
    "Ökonomie",
    "Wirtschaft"
   ],
-  "def": "the system of money and trade in a country",
+  "def": "the system of trade, industry, and money in a country or region",
   "tags": [],
   "phrase": false
  },
@@ -7930,7 +7929,7 @@
   "de": [
    "Wachstum"
   ],
-  "def": "the process of getting bigger or increasing",
+  "def": "an increase in size, amount, or importance over time",
   "tags": [],
   "phrase": false
  },
@@ -7943,7 +7942,7 @@
    "Konzern",
    "Unternehmen"
   ],
-  "def": "the process or result of an action",
+  "def": "a large company, often made up of several businesses",
   "tags": [],
   "phrase": false
  },
@@ -7956,7 +7955,7 @@
    "gesamt",
    "Gesamt-"
   ],
-  "def": "describing a quality or characteristic",
+  "def": "including everything added up together; the complete amount",
   "tags": [],
   "phrase": false
  },
@@ -7969,7 +7968,7 @@
    "Angestellte/-r",
    "Mitarbeiter/-in"
   ],
-  "def": "a person who works for a company",
+  "def": "a person who is paid to work for a company or another person",
   "tags": [],
   "phrase": false
  },
@@ -7993,7 +7992,7 @@
   "de": [
    "Einzelhandel"
   ],
-  "def": "the selling of goods to the public in shops",
+  "def": "the business of selling goods directly to customers in shops",
   "tags": [],
   "phrase": false
  },
@@ -8006,7 +8005,7 @@
    "Hafenviertel",
    "Ufer"
   ],
-  "def": "the part of a town next to water",
+  "def": "the part of a town next to a river, lake, or sea",
   "tags": [],
   "phrase": false
  },
@@ -8018,7 +8017,7 @@
   "de": [
    "die Natur"
   ],
-  "def": "used before a noun to show which one you mean",
+  "def": "places outside, away from buildings, such as forests and mountains",
   "tags": [],
   "phrase": false
  },
@@ -8030,7 +8029,7 @@
   "de": [
    "hier: Du hast kein Feingefühl!"
   ],
-  "def": "the spiritual part of a person; deep feeling",
+  "def": "used to accuse someone of having no feeling, emotion, or appreciation",
   "tags": [],
   "phrase": true
  },
@@ -8042,7 +8041,7 @@
   "de": [
    "Seele"
   ],
-  "def": "the spiritual part of a person; deep feeling",
+  "def": "the spiritual part of a person, believed by many to continue after death",
   "tags": [],
   "phrase": false
  },
@@ -8054,7 +8053,7 @@
   "de": [
    "Wildnis"
   ],
-  "def": "a wild natural area where few people live",
+  "def": "a wild natural area that has not been changed or built on by people",
   "tags": [],
   "phrase": false
  },
@@ -8067,7 +8066,7 @@
    "Nationalpark",
    "Naturpark"
   ],
-  "def": "relating to a whole country",
+  "def": "a large natural area protected by the government for its wildlife or beauty",
   "tags": [],
   "phrase": false
  },
@@ -8079,7 +8078,7 @@
   "de": [
    "Frieden"
   ],
-  "def": "a time without war or fighting",
+  "def": "a state of calm with no war, violence, or conflict",
   "tags": [],
   "phrase": false
  },
@@ -8091,7 +8090,7 @@
   "de": [
    "Ruhe"
   ],
-  "def": "peaceful and not excited or worried",
+  "def": "a peaceful, quiet state, with nothing to disturb it",
   "tags": [],
   "phrase": false
  },
@@ -8103,7 +8102,7 @@
   "de": [
    "Riesenrad"
   ],
-  "def": "very good or very large",
+  "def": "a huge rotating wheel ride with seats, like a Ferris wheel",
   "tags": [],
   "phrase": false
  },
@@ -8115,7 +8114,7 @@
   "de": [
    "sich selbst treu bleiben"
   ],
-  "def": "matching the facts; not false",
+  "def": "to act according to your own values and beliefs, not just to please others",
   "tags": [],
   "phrase": true
  },
@@ -8128,7 +8127,7 @@
    "Teilzeit-",
    "Halbtags-"
   ],
-  "def": "working fewer hours than a full week",
+  "def": "working or happening for only part of the normal working day or week",
   "tags": [],
   "phrase": false
  },
@@ -8140,7 +8139,7 @@
   "de": [
    "ziemlich"
   ],
-  "def": "a type or variety of something",
+  "def": "somewhat; to some extent, used in informal speech",
   "tags": [],
   "phrase": false
  },
@@ -8153,7 +8152,7 @@
    "es eilig haben",
    "in Eile sein"
   ],
-  "def": "to move or act quickly",
+  "def": "to need to do something or get somewhere quickly",
   "tags": [],
   "phrase": true
  },
@@ -8166,7 +8165,7 @@
    "Kellner/-in",
    "Bedienung"
   ],
-  "def": "to stay until something happens",
+  "def": "a person who serves food and drinks in a restaurant",
   "tags": [],
   "phrase": false
  },
@@ -8178,7 +8177,7 @@
   "de": [
    "Das geht auf meine Rechnung."
   ],
-  "def": "to behave towards someone in a certain way",
+  "def": "used to say that you will pay for someone else",
   "tags": [],
   "phrase": true
  },
@@ -8191,7 +8190,7 @@
    "unglaublich",
    "unglaubwürdig"
   ],
-  "def": "able to be or capable of",
+  "def": "so surprising that it is hard to accept as true",
   "tags": [],
   "phrase": false
  },
@@ -8206,7 +8205,7 @@
    "Handel",
    "Geschäft"
   ],
-  "def": "to handle or take action about something",
+  "def": "a formal or informal agreement made between people",
   "tags": [],
   "phrase": false
  },
@@ -8218,7 +8217,7 @@
   "de": [
    "einen Wettbewerb durchführen"
   ],
-  "def": "an event where people try to win",
+  "def": "to organize and run a contest for people to enter",
   "tags": [],
   "phrase": false
  },
@@ -8231,7 +8230,7 @@
    "Beitrag",
    "Einsendung"
   ],
-  "def": "a piece of work submitted; the act of entering",
+  "def": "something sent in to take part in a competition",
   "tags": [],
   "phrase": false
  },
@@ -8243,7 +8242,7 @@
   "de": [
    "Gleitboot"
   ],
-  "def": "a fast boat that skims over water",
+  "def": "a fast motorboat designed to skim quickly across the surface of water",
   "tags": [],
   "phrase": false
  },
@@ -8255,7 +8254,7 @@
   "de": [
    "Schlauchboot"
   ],
-  "def": "a small object used to remove pencil marks",
+  "def": "an inflatable boat made of rubber, used on water",
   "tags": [],
   "phrase": false
  },
@@ -8269,7 +8268,7 @@
    "Zufriedenheit",
    "Fröhlichkeit"
   ],
-  "def": "the state of being happi",
+  "def": "the feeling of being pleased, satisfied, and content",
   "tags": [],
   "phrase": false
  },
@@ -8283,7 +8282,7 @@
    "bedeutend",
    "Haupt-"
   ],
-  "def": "a person or thing that does something",
+  "def": "very important, significant, or serious in some way",
   "tags": [],
   "phrase": false
  },
@@ -8293,9 +8292,9 @@
   "sub": "S1",
   "en": "paddleboard",
   "de": [
-   "Paddling Board (eine Art Surfbrett,"
+   "Paddling Board (eine Art Surfbrett, auf dem man steht und paddelt)"
   ],
-  "def": "a board you stand on and paddle across water",
+  "def": "a long, flat board that a person stands and paddles on across water",
   "tags": [],
   "phrase": false
  },
@@ -8305,9 +8304,9 @@
   "sub": "S1",
   "en": "to protect sb/sth (from)",
   "de": [
-   "paddelt)"
+   "schützen (vor)"
   ],
-  "def": "to keep safe from harm",
+  "def": "to keep someone or something safe from harm or danger",
   "tags": [],
   "phrase": false
  },
@@ -8319,7 +8318,7 @@
   "de": [
    "Zeit gewinnen"
   ],
-  "def": "what a clock measures in hours and minutes",
+  "def": "to delay something so that you have more time to prepare or decide",
   "tags": [],
   "phrase": false
  },
@@ -8331,7 +8330,7 @@
   "de": [
    "Einen Augenblick …"
   ],
-  "def": "a very short unit of time",
+  "def": "used to ask someone to wait for a very short moment",
   "tags": [],
   "phrase": true
  },
@@ -8343,7 +8342,7 @@
   "de": [
    "Sekunde"
   ],
-  "def": "a very short unit of time",
+  "def": "a very short unit of time, one sixtieth of a minute",
   "tags": [],
   "phrase": false
  },
@@ -8355,7 +8354,7 @@
   "de": [
    "Naturfreund/-in"
   ],
-  "def": "the plants, animals, and natural world",
+  "def": "a person who really enjoys and cares about the natural world",
   "tags": [],
   "phrase": false
  },
@@ -8367,7 +8366,7 @@
   "de": [
    "Volk"
   ],
-  "def": "human beings in general",
+  "def": "a group of individuals who share the same culture, language, or history",
   "tags": [],
   "phrase": false
  },
@@ -8379,7 +8378,7 @@
   "de": [
    "Lachs"
   ],
-  "def": "a large pink fish that swims upstream",
+  "def": "a large fish that swims from the sea back into rivers to lay its eggs",
   "tags": [
    "pl"
   ],
@@ -8393,7 +8392,7 @@
   "de": [
    "werden"
   ],
-  "def": "to move from one place to another",
+  "def": "used before an adjective to describe changing into a new state",
   "tags": [],
   "phrase": false
  },
@@ -8406,7 +8405,7 @@
    "Führer/-in",
    "Anführer/-in"
   ],
-  "def": "to guide or show the way to others",
+  "def": "a person who is in charge of, or guides, a group",
   "tags": [],
   "phrase": false
  },
@@ -8419,7 +8418,7 @@
    "flussabwärts",
    "stromabwärts"
   ],
-  "def": "a person or thing that does something",
+  "def": "in the direction that a river flows towards its mouth",
   "tags": [],
   "phrase": false
  },
@@ -8432,7 +8431,7 @@
    "Grund",
    "Ursache"
   ],
-  "def": "a reason something happens; to make something happen",
+  "def": "the particular reason why something happens or exists",
   "tags": [],
   "phrase": false
  },
@@ -8444,7 +8443,7 @@
   "de": [
    "Mündung"
   ],
-  "def": "the opening in your face used for eating and speaking",
+  "def": "the place where a river flows into the sea",
   "tags": [],
   "phrase": false
  },
@@ -8456,7 +8455,7 @@
   "de": [
    "Wal"
   ],
-  "def": "the largest animal living in the ocean",
+  "def": "a very large sea mammal that breathes air through a blowhole",
   "tags": [],
   "phrase": false
  },
@@ -8468,7 +8467,7 @@
   "de": [
    "paddeln"
   ],
-  "def": "to paddle; an action",
+  "def": "to move a small boat through water using a wooden blade",
   "tags": [],
   "phrase": false
  },
@@ -8480,7 +8479,7 @@
   "de": [
    "Kanu"
   ],
-  "def": "a narrow boat moved by paddles",
+  "def": "a narrow, lightweight boat that is moved by paddling",
   "tags": [],
   "phrase": false
  },
@@ -8492,7 +8491,7 @@
   "de": [
    "Medizinmänner"
   ],
-  "def": "substances used to treat illness; the study of health",
+  "def": "traditional healers and spiritual leaders in some Native American cultures",
   "tags": [],
   "phrase": false
  },
@@ -8505,7 +8504,7 @@
    "Unterstützung",
    "Hilfe"
   ],
-  "def": "to help or encourage someone",
+  "def": "help given to someone, especially in a difficult situation",
   "tags": [
    "no pl"
   ],
@@ -8520,7 +8519,7 @@
    "spirituell",
    "geistig"
   ],
-  "def": "relating to the spirit or soul",
+  "def": "relating to the soul or to deep beliefs, rather than to physical things",
   "tags": [],
   "phrase": false
  },
@@ -8533,7 +8532,7 @@
    "auftauchen",
    "erscheinen"
   ],
-  "def": "to become visible or seem to be",
+  "def": "to become visible, or to seem to be a certain way",
   "tags": [],
   "phrase": false
  },
@@ -8545,7 +8544,7 @@
   "de": [
    "Lachswanderung"
   ],
-  "def": "a large pink fish that swims upstream",
+  "def": "the yearly journey of salmon swimming upstream to reproduce",
   "tags": [],
   "phrase": false
  },
@@ -8557,7 +8556,7 @@
   "de": [
    "friedlich"
   ],
-  "def": "calm and without violence",
+  "def": "calm, quiet, and free from violence or disturbance",
   "tags": [],
   "phrase": false
  },
@@ -8569,7 +8568,7 @@
   "de": [
    "Zeremonie"
   ],
-  "def": "a formal event with special actions",
+  "def": "a formal event held to mark an important occasion",
   "tags": [],
   "phrase": false
  },
@@ -8581,7 +8580,7 @@
   "de": [
    "heilig"
   ],
-  "def": "holy; connected to God or religion",
+  "def": "regarded as holy or deeply respected for religious reasons",
   "tags": [],
   "phrase": false
  },
@@ -8593,7 +8592,7 @@
   "de": [
    "symbolisch"
   ],
-  "def": "representing something important",
+  "def": "representing something else, especially an idea or quality",
   "tags": [],
   "phrase": false
  },
@@ -8605,7 +8604,7 @@
   "de": [
    "aufgehen (Sonne)"
   ],
-  "def": "to rise,; an action",
+  "def": "to move upward, especially used for the sun appearing at dawn",
   "tags": [],
   "phrase": false
  },
@@ -8617,7 +8616,7 @@
   "de": [
    "Trommel"
   ],
-  "def": "a musical instrument you hit to make sound",
+  "def": "a musical instrument played by hitting a stretched skin with hands or sticks",
   "tags": [],
   "phrase": false
  },
@@ -8629,7 +8628,7 @@
   "de": [
    "Floß"
   ],
-  "def": "a flat floating structure made of logs or rubber",
+  "def": "a flat floating structure made of logs or planks, used on water",
   "tags": [],
   "phrase": false
  },
@@ -8641,7 +8640,7 @@
   "de": [
    "die Götter (literarisch)"
   ],
-  "def": "used before a noun to show which one you mean",
+  "def": "beings believed in mythology to have power over nature and human life",
   "tags": [
    "liter"
   ],
@@ -8670,7 +8669,7 @@
    "Elektrizität",
    "Energie"
   ],
-  "def": "the ability to control things or do something",
+  "def": "electrical energy used to run machines, lights, and appliances",
   "tags": [],
   "phrase": false
  },
@@ -8683,7 +8682,7 @@
    "Holz",
    "Bauholz"
   ],
-  "def": "a person or thing that does something",
+  "def": "wood that has been cut and prepared for use in building",
   "tags": [],
   "phrase": false
  },
@@ -8696,7 +8695,7 @@
    "entfernen",
    "abreißen"
   ],
-  "def": "to take something away from its place",
+  "def": "to take something away, off, or out completely",
   "tags": [],
   "phrase": false
  },
@@ -8708,7 +8707,7 @@
   "de": [
    "Außenwelt"
   ],
-  "def": "not inside; in the open air",
+  "def": "everything beyond a particular closed-off or isolated place",
   "tags": [],
   "phrase": false
  },
@@ -8720,7 +8719,7 @@
   "de": [
    "Alles wird sich geändert haben."
   ],
-  "def": "every single thing",
+  "def": "used to say that by a future point in time, everything will already be different",
   "tags": [],
   "phrase": true
  },
@@ -8732,7 +8731,7 @@
   "de": [
    "Architektur"
   ],
-  "def": "the design and style of buildings",
+  "def": "the art and style involved in designing buildings",
   "tags": [],
   "phrase": false
  },
@@ -8745,7 +8744,7 @@
    "Illustrationen",
    "Bebilderung"
   ],
-  "def": "pictures and illustrations",
+  "def": "pictures or illustrations that decorate a book or other publication",
   "tags": [],
   "phrase": false
  },
@@ -8757,7 +8756,7 @@
   "de": [
    "Langhaus"
   ],
-  "def": "a long shared building of indigenous peoples",
+  "def": "a long traditional wooden house used by some Native American peoples",
   "tags": [],
   "phrase": false
  },
@@ -8769,7 +8768,7 @@
   "de": [
    "Totempfahl"
   ],
-  "def": "a tall carved wooden pole of indigenous peoples",
+  "def": "a tall wooden pole carved with symbols, made by Pacific Northwest peoples",
   "tags": [],
   "phrase": false
  },
@@ -8782,7 +8781,7 @@
    "(da)für",
    "zugunsten (von)"
   ],
-  "def": "a person or thing that does something",
+  "def": "the American English phrase for supporting an idea, plan, or person",
   "tags": [
    "AE"
   ],
@@ -8796,7 +8795,7 @@
   "de": [
    "Vorteil"
   ],
-  "def": "something that helps you do better",
+  "def": "a factor that helps someone succeed or gives them a better chance",
   "tags": [],
   "phrase": false
  },
@@ -8808,7 +8807,7 @@
   "de": [
    "insgesamt"
   ],
-  "def": "in general; taken as a whole",
+  "def": "when everything about a situation is considered together",
   "tags": [],
   "phrase": false
  },
@@ -8822,7 +8821,7 @@
    "Einstellung",
    "Standpunkt"
   ],
-  "def": "what you can see from a place; an opinion",
+  "def": "a personal opinion or way of thinking about something",
   "tags": [],
   "phrase": false
  },
@@ -8835,7 +8834,7 @@
    "Gemeinde",
    "Gemeinschaft"
   ],
-  "def": "a group of people living in the same area",
+  "def": "a group of people living in the same area or sharing something in common",
   "tags": [],
   "phrase": false
  },
@@ -8847,7 +8846,7 @@
   "de": [
    "Nachteil"
   ],
-  "def": "something that causes problems",
+  "def": "something that makes a situation more difficult or less good",
   "tags": [],
   "phrase": false
  },
@@ -8859,7 +8858,7 @@
   "de": [
    "zerstören"
   ],
-  "def": "to damage something so badly it cannot be used",
+  "def": "to damage something so badly that it no longer exists",
   "tags": [],
   "phrase": false
  },
@@ -8872,7 +8871,7 @@
    "außerdem",
    "überdies"
   ],
-  "def": "a greater amount or number",
+  "def": "used to add another, often more important, point",
   "tags": [],
   "phrase": false
  },
@@ -8884,7 +8883,7 @@
   "de": [
    "erörtern"
   ],
-  "def": "to disagree with someone using words",
+  "def": "to discuss the reasons for and against something in careful detail",
   "tags": [],
   "phrase": false
  },
@@ -8896,7 +8895,7 @@
   "de": [
    "Ausbruch (Vulkan)"
   ],
-  "def": "the process or result of an action",
+  "def": "a sudden, violent release of lava, ash, and gas from a volcano",
   "tags": [],
   "phrase": false
  },
@@ -8908,7 +8907,7 @@
   "de": [
    "in der Nähe"
   ],
-  "def": "close to this place",
+  "def": "not far away in distance; close to a place",
   "tags": [],
   "phrase": false
  },
@@ -8920,7 +8919,7 @@
   "de": [
    "völlig übertreiben"
   ],
-  "def": "to over-exaggerate; an action",
+  "def": "to describe something as being far more extreme than it really is",
   "tags": [],
   "phrase": false
  },
@@ -8932,7 +8931,7 @@
   "de": [
    "über den Tellerrand hinausschauen"
   ],
-  "def": "a drawing, painting, or photograph",
+  "def": "to think about a whole situation, rather than just one small part of it",
   "tags": [],
   "phrase": true
  },
@@ -8945,7 +8944,7 @@
    "basierend auf",
    "beruhend auf"
   ],
-  "def": "using something as a starting point",
+  "def": "using something as the source or foundation for an idea or story",
   "tags": [],
   "phrase": false
  },
@@ -8957,7 +8956,7 @@
   "de": [
    "Debatte"
   ],
-  "def": "a formal discussion about a topic",
+  "def": "a formal discussion in which people share different opinions on a topic",
   "tags": [],
   "phrase": false
  },
@@ -8969,7 +8968,7 @@
   "de": [
    "Umzug"
   ],
-  "def": "to change position or go somewhere else",
+  "def": "the act of moving to live in a new home",
   "tags": [],
   "phrase": false
  },
@@ -8982,7 +8981,7 @@
    "Junior",
    "der/die Jüngere"
   ],
-  "def": "a person or thing that does something",
+  "def": "younger, especially used for the younger of two people with the same name",
   "tags": [],
   "phrase": false
  },
@@ -8995,7 +8994,7 @@
    "Verlierer/-in",
    "Loser/-in"
   ],
-  "def": "to not have something anymore or fail to win",
+  "def": "a person who does not win, or informally, someone seen as unsuccessful",
   "tags": [],
   "phrase": false
  },
@@ -9007,7 +9006,7 @@
   "de": [
    "blaues Auge"
   ],
-  "def": "the darkest colour; the opposite of white",
+  "def": "a bruise around the eye, often caused by being hit",
   "tags": [],
   "phrase": false
  },
@@ -9020,7 +9019,7 @@
    "Faustschlag",
    "Boxhieb"
   ],
-  "def": "a hard hit with the fist",
+  "def": "a hard hit made with a closed fist",
   "tags": [],
   "phrase": false
  },
@@ -9033,7 +9032,7 @@
    "umgeben",
    "umringen"
   ],
-  "def": "to surround; an action",
+  "def": "to be, or to move, all the way around something",
   "tags": [],
   "phrase": false
  },
@@ -9046,7 +9045,7 @@
    "Haut",
    "Fell"
   ],
-  "def": "the outer covering of your body",
+  "def": "the outer layer covering a person's or animal's body",
   "tags": [],
   "phrase": false
  },
@@ -9059,7 +9058,7 @@
    "Geschenk",
    "Gabe"
   ],
-  "def": "something given to someone without payment",
+  "def": "something given to someone, often to show love or appreciation",
   "tags": [],
   "phrase": false
  },
@@ -9072,7 +9071,7 @@
    "rassistisch",
    "Rassist/-in"
   ],
-  "def": "treating people unfairly because of their race",
+  "def": "believing that some races are better than others, or a person who believes this",
   "tags": [],
   "phrase": false
  },
@@ -9084,7 +9083,7 @@
   "de": [
    "Universität (in den USA)"
   ],
-  "def": "a place for education after school",
+  "def": "in the US, a school for higher education after high school",
   "tags": [],
   "phrase": false
  },
@@ -9098,7 +9097,7 @@
    "Mühe haben",
    "ringen"
   ],
-  "def": "to try very hard to do something difficult",
+  "def": "to try very hard to do something that is difficult",
   "tags": [],
   "phrase": false
  },
@@ -9110,7 +9109,7 @@
   "de": [
    "Benzin"
   ],
-  "def": "short for gasoline; fuel for cars",
+  "def": "the American English word for the fuel used in cars",
   "tags": [
    "AE"
   ],
@@ -9125,7 +9124,7 @@
    "Landstraße",
    "Bundesautobahn"
   ],
-  "def": "a main road connecting cities",
+  "def": "the American English word for a main road built for fast travel between places",
   "tags": [
    "AE"
   ],
@@ -9139,7 +9138,7 @@
   "de": [
    "Es würde mir nichts nützen."
   ],
-  "def": "of a high quality or standard",
+  "def": "used to say that something would not help or benefit you at all",
   "tags": [],
   "phrase": true
  },
@@ -9152,7 +9151,7 @@
    "schiefgehen",
    "schlecht werden"
   ],
-  "def": "not good; of low quality",
+  "def": "to stop being fresh or edible, or to develop a serious problem",
   "tags": [],
   "phrase": false
  },
@@ -9164,7 +9163,7 @@
   "de": [
    "Strategie"
   ],
-  "def": "a plan to achieve a goal",
+  "def": "a careful plan for achieving a particular goal",
   "tags": [],
   "phrase": false
  },
@@ -9177,7 +9176,7 @@
    "Anstrengung",
    "Kampf"
   ],
-  "def": "to try very hard to do something difficult",
+  "def": "a hard and continued effort to achieve or deal with something difficult",
   "tags": [],
   "phrase": false
  },
@@ -9189,7 +9188,7 @@
   "de": [
    "Limo"
   ],
-  "def": "a sweet fizzy drink",
+  "def": "an American English word for a sweet, fizzy soft drink",
   "tags": [
    "AE"
   ],
@@ -9204,7 +9203,7 @@
    "erfunden",
    "eingebildet"
   ],
-  "def": "existing only in the mind; not real",
+  "def": "existing only in someone's mind or imagination, not real",
   "tags": [],
   "phrase": false
  },
@@ -9216,7 +9215,7 @@
   "de": [
    "Krankheit"
   ],
-  "def": "not feeling well; sick",
+  "def": "a disease, or a period of being unwell",
   "tags": [],
   "phrase": false
  },
@@ -9229,7 +9228,7 @@
    "Anzug",
    "Kostüm"
   ],
-  "def": "a set of matching jacket and trousers",
+  "def": "a matching set of jacket and trousers or skirt, worn formally",
   "tags": [],
   "phrase": false
  },
@@ -9241,7 +9240,7 @@
   "de": [
    "sich lustig machen über"
   ],
-  "def": "to create or produce something",
+  "def": "to tease or mock someone in a joking way",
   "tags": [],
   "phrase": false
  },
@@ -9254,7 +9253,7 @@
    "lahm",
    "langweilig"
   ],
-  "def": "unable to walk properly; boring or uncool",
+  "def": "informally, boring, weak, or not at all impressive",
   "tags": [],
   "phrase": false
  },
@@ -9267,7 +9266,7 @@
    "mit der Faust schlagen",
    "boxen"
   ],
-  "def": "to punch; an action",
+  "def": "to hit someone or something hard with a closed fist",
   "tags": [],
   "phrase": false
  },
@@ -9279,7 +9278,7 @@
   "de": [
    "hirntot"
   ],
-  "def": "showing no brain activity; extremely stupid",
+  "def": "having no brain activity, or informally, acting very stupidly",
   "tags": [],
   "phrase": false
  },
@@ -9291,7 +9290,7 @@
   "de": [
    "Superheld"
   ],
-  "def": "a fictional character with special powers",
+  "def": "a fictional character with amazing powers who fights against evil",
   "tags": [],
   "phrase": false
  },
@@ -9303,7 +9302,7 @@
   "de": [
    "Gerechtigkeit"
   ],
-  "def": "fair treatment of people according to the law",
+  "def": "fair treatment of people according to the law and what is morally right",
   "tags": [],
   "phrase": false
  },
@@ -9315,7 +9314,7 @@
   "de": [
    "Verräter/-in"
   ],
-  "def": "a person or thing that does something",
+  "def": "a person who betrays their country, group, or someone who trusted them",
   "tags": [],
   "phrase": false
  },
@@ -9329,7 +9328,7 @@
    "konstant",
    "stetig"
   ],
-  "def": "happening all the time without stopping",
+  "def": "happening all the time, without stopping or changing",
   "tags": [],
   "phrase": false
  },
@@ -9342,7 +9341,7 @@
    "ausstoßen",
    "hinauswerfen"
   ],
-  "def": "to toss; an action",
+  "def": "to throw something away, or to reject an idea",
   "tags": [],
   "phrase": false
  },
@@ -9354,7 +9353,7 @@
   "de": [
    "einzigartig"
   ],
-  "def": "the only one of its kind; special",
+  "def": "being the only one of its kind; not like anything else",
   "tags": [],
   "phrase": false
  },
@@ -9367,7 +9366,7 @@
    "Dafür könnte ich sterben!",
    "Das ist"
   ],
-  "def": "to stop living",
+  "def": "an informal expression meaning that something is extremely good",
   "tags": [],
   "phrase": true
  },
@@ -9379,7 +9378,7 @@
   "de": [
    "verdächtig"
   ],
-  "def": "thinking someone has done something wrong",
+  "def": "making you feel that something dishonest or wrong might be happening",
   "tags": [],
   "phrase": false
  },
@@ -9391,7 +9390,7 @@
   "de": [
    "Missverständnis"
   ],
-  "def": "failing to understand correctly",
+  "def": "a situation in which something is not understood correctly",
   "tags": [],
   "phrase": false
  }

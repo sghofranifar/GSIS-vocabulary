@@ -91,6 +91,20 @@ Bei jeder neuen Übungsrunde werden zuerst fällige und schwache Wörter ausgew�
 
 Da es (bewusst) kein Login gibt, können Lehrkräfte den Fortschritt nicht einsehen. Um Schüler:innen trotzdem sichtbares Feedback zu geben, sammeln sie auf ihrem eigenen Gerät XP, Level und Abzeichen (`js/badges.js`) – z. B. für Streaks, gemeisterte Wörter oder perfekte Runden. Alles bleibt lokal, nichts wird übertragen.
 
+## Bereits behobene Datenfehler (zur Info)
+
+Beim Umbau kamen zwei getrennte Fehler in den Originaldaten ans Licht:
+
+1. **Die KI-Definitionen (`def`)** – wie oben beschrieben, alle 4.169 neu erzeugt.
+2. **Rund 30 deutsche Übersetzungen (`de`)** waren durch einen Fehler bei der ursprünglichen Dateneingabe verschoben oder abgeschnitten (z. B. bekam "cheese" die Übersetzung "oder Müsli)", die eigentlich zu "cereal" gehörte; "haggis" war mitten im Wort abgeschnitten). Diese wurden anhand des Kontexts rekonstruiert und korrigiert.
+
+Bei folgenden 4 Einträgen in Jahrgang 9 (Unit U2/U3) war die ursprüngliche Übersetzung so beschädigt, dass sie nicht mehr rekonstruierbar war. Sie wurden mit einer allgemein korrekten Standardübersetzung ersetzt – **bitte bei Gelegenheit gegen das Green-Line-Buch prüfen**, falls dort ein spezifischerer Begriff verwendet wird:
+
+- `jg9-u2-testimonial-8c4626` ("testimonial") → aktuell "Zeugnis, Referenzschreiben"
+- `jg9-u2-wisdom-b46773` ("wisdom") → aktuell "Weisheit"
+- `jg9-u2-satisfaction-543583` ("satisfaction") → aktuell "Zufriedenheit"
+- `jg9-u3-to-approve-a9c732` ("to approve") → aktuell "genehmigen, billigen"
+
 ## Ideen für später
 
 - Das `sub`-Feld (Buchabschnitt) ist in den Daten vorhanden, wird aber in der Oberfläche noch nicht genutzt – ließe sich für feineres Üben einsetzen ("nur Übung 2").
